@@ -1,0 +1,152 @@
+{
+  "faculty": "Faculty of Applied Health Sciences Technology (East Port Said National University)",
+  "url": "https://epnu.edu.eg/en/faculty-of-applied-health-sciences/",
+  "overview": {
+    "text": "Prepares scientifically and practically distinguished specialists in modern health technology through applied programs combining scientific knowledge with laboratory and healthcare-institution training. Focuses on graduates who support the healthcare system while following quality, occupational safety and healthcare ethics standards.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (page 1047, lines 7-11); https://epnu.edu.eg/en/faculty-of-applied-health-sciences/",
+    "confidence": "high"
+  },
+  "vision": {
+    "text": "Preparing specialized and scientifically and practically distinguished professionals.",
+    "source": "https://epnu.edu.eg/en/faculty-of-applied-health-sciences/ (live page, via WebFetch summary; the local page 1047 has no explicit vision statement)",
+    "confidence": "medium"
+  },
+  "mission": {
+    "text": "Improve community healthcare by graduating competitive applied-health professionals, supporting a learning and creativity-focused environment, and producing research that serves society through technology and knowledge.",
+    "source": "https://epnu.edu.eg/en/faculty-of-applied-health-sciences/ (live page, via WebFetch summary; wording is a summary, not verbatim)",
+    "confidence": "medium"
+  },
+  "programs": [
+    {
+      "name": "Medical Laboratory Technology",
+      "duration": "Not stated. Page 10 lists 'Information will be added soon'.",
+      "credit_hours": "131 (page states study is conducted in English over 131 credit hours; not confirmed as program-specific)",
+      "focus": "Hematology, biochemistry, microbiology, parasitology, immunology and laboratory diagnostic techniques; sample preparation, lab equipment operation, quality, biosafety and infection control; analysis and reporting of results.",
+      "careers": "Medical laboratory technology specialist; medical analysis laboratories; hospital laboratory departments; quality, safety and infection-control units.",
+      "internship": "Clinical and practical training at partner hospitals and labs; duration not stated.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 15, 24-44, 85-91); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 78-84)",
+      "confidence": "high for focus and careers; medium for credit hours; not found for duration"
+    },
+    {
+      "name": "Medical Imaging and Radiologic Technology",
+      "duration": "Not stated. Page 10 does not list this program; page 1047 gives no duration.",
+      "credit_hours": "131 (same faculty-wide figure as above; not confirmed as program-specific)",
+      "focus": "Operating X-ray, CT and MRI equipment; radiation protection and occupational safety; patient preparation for examinations; evaluating image quality with the specialist physician; quality and accreditation standards in radiology units.",
+      "careers": "Radiologic and medical imaging technology specialist; diagnostic and therapeutic radiology units; X-ray, CT and MRI units; medical imaging centers.",
+      "internship": "Clinical training at partner healthcare institutions (see partners); duration not stated.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 15, 21-23, 45-63, 92-99)",
+      "confidence": "high for focus and careers; medium for credit hours; not found for duration"
+    }
+  ],
+  "facilities": [
+    {
+      "item": "Specialized teaching laboratories, including medical laboratory labs equipped for different medical analyses",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 64-67)",
+      "confidence": "high"
+    },
+    {
+      "item": "Training in microscopy, biochemistry, hematology fundamentals and microbiology",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (line 69)",
+      "confidence": "high"
+    },
+    {
+      "item": "X-ray, CT and MRI devices for training in the Medical Imaging program",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (line 69, lines 53, 96-98)",
+      "confidence": "high"
+    },
+    {
+      "item": "Equipped classrooms, e-learning tools and digital learning resources",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 70-71)",
+      "confidence": "high"
+    }
+  ],
+  "partners": [
+    {
+      "item": "Port Said University Hospital",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-80)",
+      "confidence": "high"
+    },
+    {
+      "item": "Ahl Masr Hospital",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-80); visit report D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2735.txt (dated 2026-05-09) describes a visit to Ahl Masr Burns Hospital",
+      "confidence": "high"
+    },
+    {
+      "item": "Al Nas Hospital",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-80)",
+      "confidence": "high"
+    },
+    {
+      "item": "Saudi German Hospital (Cairo)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-80); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5177.txt (dated 2026-07-21, field training in its laboratories)",
+      "confidence": "high"
+    },
+    {
+      "item": "Children's Cancer Hospital Egypt 57357",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-80)",
+      "confidence": "high"
+    },
+    {
+      "item": "Plasma Donation Centers (student visit reported 2026-04-02)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-82); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2540.txt",
+      "confidence": "high"
+    }
+  ],
+  "highlights": [
+    {
+      "item": "Two applied academic pathways in medical laboratories and radiology and medical imaging",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 6-7)",
+      "confidence": "high"
+    },
+    {
+      "item": "Theory combined with intensive practical training and specialized labs",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 102-108)",
+      "confidence": "high"
+    },
+    {
+      "item": "Cooperation protocols with specialized healthcare institutions for clinical training",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 74-75, 110)",
+      "confidence": "high"
+    },
+    {
+      "item": "Recent student field visits: Saudi German Hospital Cairo (2026-07-21); Ahl Masr Burns Hospital (2026-05-09); plasma donation centre (2026-04-02)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5177.txt; posts\\2735.txt; posts\\2540.txt",
+      "confidence": "high"
+    },
+    {
+      "item": "University President Prof. Dr. Atef Alam El-Din patronage of the student hospital visits",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2735.txt (line 5); posts\\5177.txt (line 5)",
+      "confidence": "high"
+    }
+  ],
+  "director": {
+    "name": "Dr. Salma Khairallah (page 1047 gives Prof. Dr. Salma Mostafa Khairallah)",
+    "title": "Director of the faculty's programs (Medical Laboratory Technology Programs per news posts)",
+    "background": "PhD in Biochemistry, Faculty of Science, Port Said University; previously Director of the Biochemistry and Microbiology Program there",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (lines 16-18); posts\\2735.txt (line 6); posts\\5177.txt (line 5)",
+    "confidence": "high"
+  },
+  "three_slide_bullets": [
+    "Two applied programs: Medical Laboratory Technology and Medical Imaging and Radiologic Technology.",
+    "Study is conducted in English over 131 credit hours.",
+    "Clinical training partners include Port Said University Hospital and Saudi German Hospital Cairo.",
+    "Labs cover microscopy, hematology, biochemistry, microbiology, and X-ray, CT, MRI training.",
+    "Program director: Dr. Salma Khairallah, PhD in Biochemistry, Port Said University."
+  ],
+  "conflicts_and_gaps": [
+    "Program count: page 1047 says two programs; the live page summary also lists Biomedical Devices, Optics Technology, Dental Prosthetics Manufacturing and Cardiac Catheterization Technology with one-line descriptions only. These were not verified in the local text, so they are excluded from programs.",
+    "Director: news post D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\551.txt and posts\\746.txt (2024) name Prof. Dr. Rasha Emad as director of the applied health programs; 2026 posts name Dr. Salma Khairallah. Treated as a role change; confirm with the faculty.",
+    "Faculty name varies across pages: 'Applied Health Sciences Technology', 'Applied Health Sciences', 'Health Sciences Technology'.",
+    "Durations are not stated anywhere; credit hours (131) are a single faculty-wide figure. Web search found no program-specific totals (search returned only general EPNU academic-system info)."
+  ],
+  "sources": [
+    "https://epnu.edu.eg/en/faculty-of-applied-health-sciences/ (live page, fetched via WebFetch)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (Faculty of Applied Health Sciences Technology, dated 2024-12-28)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (Faculties and Programs, dated 2024-10-11)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2540.txt (plasma donation centre visit, 2026-04-02)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2735.txt (Ahl Masr Burns Hospital visit, 2026-05-09)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5177.txt (Saudi German Hospital Cairo training, 2026-07-21)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\551.txt and posts\\746.txt (2024 posts naming Prof. Dr. Rasha Emad)",
+    "WebSearch (EPNU Applied Health credit-hour query): no program-specific credit-hour data found; results were general EPNU academic-system info and other universities"
+  ]
+}

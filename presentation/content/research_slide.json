@@ -1,0 +1,13 @@
+{
+  "title": "Research with International Reach",
+  "kicker": "A young university already publishing with leading international publishers",
+  "big": "80+",
+  "big_label": "peer-reviewed international publications",
+  "big_sub": "carry the EPNU affiliation, 2024 to October 2026, well beyond the 50+ milestone",
+  "chart": { "title": "Publications per year", "labels": ["2024", "2025", "2026 (to Oct)"], "values": [7, 38, 36] },
+  "facts": [
+    ["FaBookOpen", "Top-tier publishers", "98% with international publishers: Elsevier, Springer Nature, the Royal Society of Chemistry and Wiley"],
+    ["FaEarthAfrica", "Co-authors in 15 countries", "Nearly two-thirds of papers are internationally co-authored: Saudi Arabia, Jordan, the US, the UK, China, Japan, Malaysia and others"],
+    ["FaFlask", "Research strengths", "Medicinal chemistry and pharmacy, medicine, and renewable-energy engineering"]
+  ]
+}

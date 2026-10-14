@@ -1,0 +1,90 @@
+{
+  "faculty": {
+    "name": "Faculty of Arts",
+    "source": "https://epnu.edu.eg/en/faculty-of-arts/ ; local D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4174.txt",
+    "confidence": "high"
+  },
+  "url": "https://epnu.edu.eg/en/faculty-of-arts/",
+  "overview": {
+    "text": "A modern academic environment that develops humanistic knowledge and linguistic and geospatial skills, connecting study with advanced technologies and community needs. The faculty offers modern interdisciplinary programs that combine academic knowledge with practical application, supporting the preparation of graduates qualified for the labor market.",
+    "source": "https://epnu.edu.eg/en/faculty-of-arts/ ; local page 4174.txt (lines 7-9)",
+    "confidence": "high"
+  },
+  "vision": {
+    "text": "not found",
+    "source": "Checked live page (WebFetch), local page 4174.txt, page 10.txt, web search (2 queries, including Arabic). No vision statement published.",
+    "confidence": "high"
+  },
+  "mission": {
+    "text": "not found (only program-level objectives are published; see programs)",
+    "source": "Checked live page (WebFetch), local page 4174.txt, page 10.txt, web search.",
+    "confidence": "high"
+  },
+  "programs": [
+    {
+      "name": "Geomatics and Artificial Intelligence",
+      "duration": "not found (page 10 says 'Information will be added soon'; not stated on faculty page). Degree level: Bachelor's.",
+      "credit_hours": "not found",
+      "focus": "Interdisciplinary program integrating geospatial sciences, GIS, remote sensing and AI-based data analysis. Objectives: collecting and analysing spatial data, GIS applications, AI in urban and environmental planning, decision support. Key study areas: field and digital surveying, GIS, remote sensing, cartography, spatial databases, AI applications, geographic data management.",
+      "careers": "GIS, digital surveying, urban planning, telecommunications companies, spatial analysis, remote sensing, smart cities, geographic data centers.",
+      "source": "https://epnu.edu.eg/en/faculty-of-arts/ (program section); https://epnu.edu.eg/en/programs/ (local page 10.txt, lines 191-198)",
+      "confidence": "high"
+    },
+    {
+      "name": "English Language and Translation",
+      "duration": "not found (page 10 says 'Information will be added soon'; not stated on faculty page). Degree level: Bachelor's.",
+      "credit_hours": "not found",
+      "focus": "Develops English language skills, written and interpreting translation, and intercultural communication. Objectives: specialised translation, professional communication, linguistic and cultural analysis. Key study areas: written and interpreting translation; medical, legal, literary and audiovisual translation; applied linguistics; discourse analysis; English literature; research and intercultural communication skills.",
+      "careers": "Translation, teaching, media, language editing, tourism, public relations, international customer service, cultural and diplomatic institutions.",
+      "source": "https://epnu.edu.eg/en/faculty-of-arts/ (program section); https://epnu.edu.eg/en/programs/ (local page 10.txt, lines 199-206)",
+      "confidence": "high"
+    }
+  ],
+  "facilities": [],
+  "partners": [],
+  "highlights": [],
+  "first_cohort_year": {
+    "value": "not found",
+    "source": "Checked live page, local pages 4174 and 10, posts grep (no faculty-specific post), web search.",
+    "confidence": "high"
+  },
+  "director_or_coordinator": {
+    "value": "not found",
+    "source": "Checked live page (WebFetch reports no dean/director/coordinator), local pages 4174 and 10, posts grep.",
+    "confidence": "high"
+  },
+  "three_slide_bullets": [
+    "Faculty of Arts offers two Bachelor's programs: Geomatics and AI; English Language and Translation.",
+    "Geomatics and AI covers GIS, remote sensing, digital surveying and AI-based spatial analysis.",
+    "English and Translation covers written, interpreting, medical, legal and literary translation.",
+    "Graduates target GIS, urban planning, smart cities, translation, media and diplomacy careers.",
+    "Program duration, credit hours and first cohort year are not yet published."
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "type": "live web page",
+      "reference": "https://epnu.edu.eg/en/faculty-of-arts/ (fetched via WebFetch; overview, two programs, objectives, fields of work, key study areas, contact details)"
+    },
+    {
+      "id": "S2",
+      "type": "local rendered page",
+      "reference": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4174.txt (Faculty of Arts, dated 2026-06-27)"
+    },
+    {
+      "id": "S3",
+      "type": "local rendered page",
+      "reference": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (Faculties and Programs; durations listed as 'Information will be added soon'; https://epnu.edu.eg/en/programs/)"
+    },
+    {
+      "id": "S4",
+      "type": "local posts grep",
+      "reference": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\*.txt searched for 'faculty of arts', 'geomatics', 'translation', 'arts'. No faculty-specific post found. Matches were unrelated (e.g. posts 5371 media delegation visit, which does not mention Arts specifically)."
+    },
+    {
+      "id": "S5",
+      "type": "web search (secondary)",
+      "reference": "https://www.elwatannews.com/news/details/8330699 (article dated 31 July 2026 on EPNU faculties for 2026/2027 admission). Lists a 'Faculty of Languages and Humanities' (كلية اللغات والعلوم الإنسانية); does not name Arts programs, durations or credit hours. Treated as medium-to-low confidence and not used for any field."
+    }
+  ]
+}

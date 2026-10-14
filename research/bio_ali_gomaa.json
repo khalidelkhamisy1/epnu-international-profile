@@ -1,0 +1,19 @@
+{
+ "name_display": "Dr. Ali Gomaa",
+ "epnu_roles": ["Director, Accounting & Software Applications program, Faculty of Business Sciences, EPNU (named at the faculty's first-cohort orientation day; Facebook only, not on the website)"],
+ "home_affiliation": null,
+ "education": [],
+ "research_areas": [],
+ "metrics": {"publications": null, "citations": null, "h_index": null, "source": "not found; no reliable author profile identified"},
+ "notable": [],
+ "profile_urls": [],
+ "bio_50_words": "Dr. Ali Gomaa directs the Accounting and Software Applications program in the Faculty of Business Sciences at East Port Said National University. The program prepares students for accounting, auditing, financial analysis, taxation, banking and financial-software careers. His home institution, qualifications and research record could not be independently verified.",
+ "confidence": "low (role at EPNU: medium, single Facebook source; academic profile: not found)",
+ "disambiguation_notes": "Not the former Grand Mufti Ali Gomaa (Islamic scholar, Commerce BA Ain Shams 1973 then al-Azhar); no link to him is claimed. No accounting academic named Ali Gomaa tied to Port Said University could be found. OpenAlex author search (name and Port Said University institution filter I88017793) returned only unrelated people: Ali Mohamed Gomaa (Benha, antenna design), Gomaa A. M. Ali (Khorfakkan, materials), Amr Ali Gomaa (Beni-Suef) and others, none matching two of: exact name, Port Said/EPNU affiliation, accounting field. Web searches (English and Arabic) and a Google Scholar query gave nothing. Not checked directly: ResearchGate, ORCID, journals.ekb.eg, PSU commerce staff pages (not reached via the tools used). Possible name variants (e.g. Ali Gomaa Mohamed, Ali Gomaa Ali) are unverified.",
+ "sources": [
+  "D:/AI/EPNU/data/facebook_findings.md (section A; official page https://www.facebook.com/epsnuniversity)",
+  "D:/AI/EPNU/EPNU_International_Relations_Briefing.md (lines 96, 251; refs S51d, S51)",
+  "D:/AI/EPNU/data/text/en_rendered/pages/4176.txt (Business Sciences page; program description, no director named)",
+  "https://api.openalex.org/authors (searches run 2026-10-14)"
+ ]
+}

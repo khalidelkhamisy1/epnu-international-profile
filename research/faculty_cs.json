@@ -1,0 +1,144 @@
+{
+  "faculty": "Faculty of Computer Science and Information Technology (East Port Said National University)",
+  "url": "https://epnu.edu.eg/en/faculty-of-computer-sciences/",
+  "overview": {
+    "text": "A modern faculty preparing graduates who are academically and professionally qualified in computing and information technology, through theoretical study, practical training and programs aligned with the digital age. Program director: Prof. Osama El-Baksawy (Osama Mohamed Mostafa El-Baksawy), who also directs the Quality Assurance Center.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (page 3154, lines 5-7, 16-19, 61-64); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4503.txt (program director and QA center title)",
+    "confidence": "high"
+  },
+  "vision": {
+    "text": "Our vision is to prepare highly qualified scientific professionals in various fields of computing.",
+    "source": "https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch summary of live page; the sentence was not verified verbatim and is not in the local page 3154 text)",
+    "confidence": "medium"
+  },
+  "mission": {
+    "text": "Prepare graduates who are academically and professionally qualified in computing and information technology, enabling them to contribute effectively to development and community service.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (line 7, stated as the faculty's aim)",
+    "confidence": "high"
+  },
+  "programs": [
+    {
+      "name": "Computer Science",
+      "duration": "4 years",
+      "credit_hours": "not found (live page: study plan 'Data will be updated soon')",
+      "focus": "Programming, algorithms, software engineering, databases, networks and information security; analysing problems, designing software solutions and developing systems.",
+      "careers": ["Software Developer", "Web Developer", "Systems Analyst", "Database Administrator", "Cybersecurity Specialist", "AI Engineer"],
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 37-42: 4 years); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (lines 23-24, 37-38); careers from https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch, verbatim list confirmed)",
+      "confidence": "high (duration, focus); medium (careers, from WebFetch)"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "duration": "4 years",
+      "credit_hours": "not found",
+      "focus": "Collecting, analysing, interpreting and using data to build intelligent systems: machine learning, data analysis, intelligent systems and decision support.",
+      "careers": ["AI Engineer", "Machine Learning Engineer", "Data Analyst", "Intelligent Systems Developer"],
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 44-49: 4 years); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (lines 26-27, 41-42); careers from https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch; Arabic list translated)",
+      "confidence": "high (duration, focus); medium (careers, translated from Arabic list via WebFetch)"
+    },
+    {
+      "name": "Data Science in Information Systems",
+      "duration": "4 years",
+      "credit_hours": "not found",
+      "focus": "Managing, analysing and presenting large-scale data; linking big data with business administration; designing information systems that support decision-making.",
+      "careers": ["Data Scientist", "Data Analyst", "Business Intelligence Analyst", "Information Systems Analyst"],
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 51-56: 4 years); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (lines 30-32, 43-44); careers from https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch; Arabic list translated)",
+      "confidence": "high (duration, focus); medium (careers, translated from Arabic list via WebFetch)"
+    },
+    {
+      "name": "Biomedical Informatics",
+      "duration": "4 years",
+      "credit_hours": "not found",
+      "focus": "Interdisciplinary: computer science plus medicine; software and information systems built on medical data, biometric measurements, radiology images and MRI.",
+      "careers": ["Health Systems Developer", "Medical Data Analyst", "Health Informatics Specialist", "Medical Software Developer"],
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 58-63: 4 years); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (lines 34-35, 45-46); careers from https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch; Arabic list translated)",
+      "confidence": "high (duration, focus); medium (careers, translated from Arabic list via WebFetch)"
+    }
+  ],
+  "facilities": [
+    {
+      "item": "Specialized laboratories: advanced computer laboratories supporting scientific research and continuous practical training",
+      "source": "https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch, verbatim quote; not in local page 3154)",
+      "confidence": "medium"
+    },
+    {
+      "item": "Smart classrooms and lecture halls with the latest interactive technologies",
+      "source": "https://epnu.edu.eg/en/faculty-of-computer-sciences/ (WebFetch, verbatim quote; not in local page 3154)",
+      "confidence": "medium"
+    },
+    {
+      "item": "Named labs (e.g. specific lab names, Huawei or other vendor labs): not found",
+      "source": "Searched: local page 3154, page 10, posts grep, live page, WebSearch",
+      "confidence": "high (absence)"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "ITI (Information Technology Institute) and Creativa Port Said: cooperation talks on specialized training for CS students to meet labour-market needs",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4503.txt (posted 2026-07-01; headline and body describe a meeting to discuss proposals, not a signed agreement)",
+      "confidence": "high (meeting held); low (outcome, no signed agreement found)"
+    },
+    {
+      "partner": "Huawei ICT Academy: NOT FOUND in any local source or live page; WebSearch returned only other universities (Ain Shams, Malaya, FEUP) and an unattributed Port Said LinkedIn post that does not name EPNU",
+      "source": "Searched: local pages, posts, https://epnu.edu.eg/en/faculty-of-computer-sciences/, WebSearch (2026)",
+      "confidence": "high (absence); do not present as a partner"
+    }
+  ],
+  "highlights": [
+    {
+      "item": "Team from the faculty qualified for the Egyptian Collegiate Programming Contest (ECPC), under Prof. Osama El-Baksawy's supervision",
+      "date": "2026-08-26",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5340.txt (https://epnu.edu.eg/en/إنجاز-جديد-لطلاب-جامعة-شرق-بورسعيد-الأ/)",
+      "confidence": "high"
+    },
+    {
+      "item": "Students joined the AI Hackathon at ICIAAI 2026 (First International Conference on Innovations and Applications of AI, Damietta University); team supervised by Engineering staff (Dr. Mohamed El-Sakka, Dr. Asmaa Rady)",
+      "date": "2026-07-28",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5222.txt (https://epnu.edu.eg/en/في-إطار-دعم-الابتكار-والبحث-العلمي-طلا/)",
+      "confidence": "high (participation); the result of the hackathon is not stated"
+    },
+    {
+      "item": "ICPC EPNU Community internal programming contest (teams of three, solving problems on a platform) preparing students for the Egyptian University Programming Contest",
+      "date": "2026-05-09",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2793.txt (https://epnu.edu.eg/en/في-إطار-دعم-المهارات-التكنولوجية-مجتم/)",
+      "confidence": "high"
+    },
+    {
+      "item": "'Tech Shot' knowledge initiative: one-minute explainers on AI, cybersecurity and labour-market topics, published every Thursday",
+      "date": "2026-04-18",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2676.txt (https://epnu.edu.eg/en/tech-shot-مبادرة-معرفية-جديدة-بجامعة-شرق-ب/)",
+      "confidence": "high"
+    },
+    {
+      "item": "EPNU TechX 2026 competition (run by the Information Systems Center): teams of 2-4 redesign academic program pages in WordPress; winning design goes live on the university website",
+      "date": "2026-04-07",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2625.txt (https://epnu.edu.eg/en/إطلاق-مسابقة-epnu-techx-2026-بجامعة-شرق-بورسعيد/)",
+      "confidence": "high"
+    },
+    {
+      "item": "Computer Science students' field visit to Bedo Factory (tour of production processes and technologies)",
+      "date": "2026-07-08",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4848.txt (https://epnu.edu.eg/en/طلاب-كلية-علوم-الحاسب-بجامعة-شرق-بورسع/)",
+      "confidence": "high"
+    },
+    {
+      "item": "First introductory seminar on competitive programming (launch of the university's competitive programming community)",
+      "date": "2024-12-04",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\485.txt (https://epnu.edu.eg/en/competitive-programming/)",
+      "confidence": "high"
+    }
+  ],
+  "three_slide_bullets": [
+    "Four four-year bachelor's programs: Computer Science, AI, Data Science, Biomedical Informatics.",
+    "Credit hours and study plans are not yet published on the official website.",
+    "Team qualified for the Egyptian Collegiate Programming Contest (ECPC) in August 2026.",
+    "Cooperation talks with ITI and Creativa Port Said target labour-market skills training.",
+    "Students joined the AI Hackathon at ICIAAI 2026, hosted by Damietta University."
+  ],
+  "sources": [
+    "https://epnu.edu.eg/en/faculty-of-computer-sciences/ (live page, read via WebFetch twice)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3154.txt (page 3154, local)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (page 10, local)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2625.txt, 2676.txt, 2793.txt, 4503.txt, 4848.txt, 485.txt, 5222.txt, 5340.txt (local posts)",
+    "WebSearch: Huawei ICT Academy + EPNU CS faculty (no EPNU result)"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+ "name_display": "Assoc. Prof. Mohamed Yasser",
+ "full_name": "Mohamed Yasser Hamdy (محمد ياسر حمدي)",
+ "epnu_roles": [
+  "Director, Clinical Pharmacy (PharmD) Program, East Port Said National University (confidence: high; D:/AI/EPNU/data/text/ar/pages/3156_faculty-of-pharmacy.txt, posts 5210, 497, 2751, 1299)",
+  "Director, Entrepreneurship Club, EPNU (high; page 3156 Arabic)",
+  "Entrepreneurship and Innovation Coordinator (EPNU post 662, medium-high)"
+ ],
+ "home_affiliation": "Assistant/Associate Professor (Arabic 'أستاذ مساعد' = Assoc. Prof. per user-confirmed title), Department of Pharmaceutics, Faculty of Pharmacy, Port Said University (confidence: high; EPNU page 3156 Arabic; staff email Mohamed.Yasser@pharm.psu.edu.eg)",
+ "education": [],
+ "research_areas": [
+  "Pharmaceutics (department affiliation; high)",
+  "Entrepreneurship in pharmaceutical and cosmetic formulations (from a conference lecture, EPNU post 497; medium)"
+ ],
+ "metrics": {"publications": "not found", "citations": "not found", "h_index": "not found", "source": "OpenAlex author search (name variants, Egypt filter) returned no matching profile; no Scholar/ORCID/Scopus page confirmed"},
+ "notable": [
+  "Delivered the lecture on applying entrepreneurship principles to pharmaceutical and cosmetic formulations at a pharmacists' conference attended by syndicate heads (EPNU post 497)",
+  "Supervises EPNU Pharmacy student activities: Art Unbound exhibition (post 2751), Organic Chemistry Applied Projects competition (post 2632), exam oversight (post 5210)",
+  "Member of a Ministry of Higher Education technical committee listing, as Clinical Pharmacy program director (post 1299)",
+  "Co-supervised the 'Panorama of Scientific Contributions' event with the Medicine program director (post 551)"
+ ],
+ "profile_urls": [],
+ "bio_50_words": "Assoc. Prof. Mohamed Yasser Hamdy directs the Clinical Pharmacy (PharmD) program and the Entrepreneurship Club at East Port Said National University. He is a faculty member in the Department of Pharmaceutics, Faculty of Pharmacy, Port Said University, with interests in pharmaceutical formulation and entrepreneurship in pharmacy.",
+ "confidence": "high for roles, home department and university (from EPNU's own page); not found for education, metrics and external profiles",
+ "disambiguation_notes": "Identity fixed by EPNU's official Pharmacy page: exact name, PSU Pharmaceutics department, PSU email. OpenAlex searches for 'Mohamed Yasser Hamdy', 'Mohamed Yasser', 'Mohamed Y. Hamdy', 'M. Y. Hamdy', 'Mohammed Yasser Hamdy' found no match; none of the returned authors (e.g. Mohamed Yasser Elnaggar, Mansoura, cardiology; Mohamed Hamdy Mohamed, Ain Shams, food) were accepted as this person. Web searches also found nothing. Not merged with anyone. A paper-level search under another spelling (e.g. 'Mohamed Y. Hamdy', Port Said Univ.) in Google Scholar or EKB could still locate his publications.",
+ "sources": [
+  "D:/AI/EPNU/data/text/ar/pages/3156_faculty-of-pharmacy.txt",
+  "D:/AI/EPNU/data/text/ar/posts/497_from-formula-to-fortune.txt",
+  "D:/AI/EPNU/data/text/ar/posts/662_entrepreneurship-and-innovation.txt",
+  "D:/AI/EPNU/data/text/ar/posts/551_panorama-of-scientific-contributions.txt",
+  "D:/AI/EPNU/data/text/ar/posts/5210_epnu-first-semester-exams-medicine-pharmacy.txt",
+  "D:/AI/EPNU/data/text/en/posts/2751_art-unbound-*.txt and 2632_*.txt",
+  "D:/AI/EPNU/data/text/ar/posts/1299_*.txt",
+  "https://api.openalex.org/authors (searches, no match)"
+ ]
+}

@@ -1,0 +1,76 @@
+TITLE: Faculty of Computer Science and Information Technology
+URL: https://epnu.edu.eg/en/faculty-of-computer-sciences/
+DATE: 2026-06-20T12:45:00
+
+Faculty of Computer Science and Information Technology
+A modern faculty that prepares graduates who are academically and professionally qualified in computing and information technology through theoretical study, practical training, and academic programs aligned with the requirements of the digital age.
+The Faculty of Computer Science and Information Technology at East Port Said National University aims to prepare graduates who are academically and professionally qualified in computing and information technology, enabling them to contribute effectively to development and community service.
+Modern Academic Education
+Programs that combine scientific foundations with modern applications in computing, data, and artificial intelligence.
+Practical Training
+Integrating theoretical study with applied training to develop programming, analytical, and problem-solving skills.
+Research and Innovation
+Supporting scientific research and innovation and developing technological solutions that serve society and various sectors.
+Career Readiness
+Preparing graduates capable of competing locally, regionally, and internationally in modern technology careers.
+Program Director’s Message
+A welcome message and an overview of the current program’s academic leadership at the faculty.
+أ.د / أسامه محمد مصطفى البقساوي
+Program Director
+Choose Your Path in Computer Science and Information Technology
+The faculty offers four modern academic programs that combine theoretical study with practical training and prepare students for labor market requirements and digital transformation.
+Current Program
+Computer Science Program
+The study of programming, algorithms, software, databases, networks, and information security, preparing graduates capable of analyzing problems, designing software solutions, and developing systems.
+Academic Program
+Artificial Intelligence Program
+The program focuses on collecting, analyzing, interpreting, and using data to build intelligent systems, including machine learning, data analysis, intelligent systems, and decision support.
+Applied Artificial Intelligence
+Academic Program
+Data Science in Information Systems Program
+The program focuses on managing, analyzing, and presenting large-scale data, linking big data with business administration, and designing information systems that support decision-making.
+Data and Information Systems
+Academic Program
+Biomedical Informatics Program
+An interdisciplinary specialization that combines computer science and the medical field to develop software and information systems based on medical data, biometric measurements, radiology images, and MRI.
+Technology Serving the Health Sector
+Computer Science Program
+The program focuses on programming, algorithms, software engineering, databases, networks, and information security, qualifying students to analyze problems, design digital solutions, and develop systems.
+Three Pathways in Promising Technology Fields
+Learn briefly about the nature of each program, the skills students acquire, and the key professional pathways after graduation.
+Artificial Intelligence Program
+The program studies data collection, analysis, and interpretation techniques, as well as machine learning applications, intelligent systems, and decision support.
+Data Science in Information Systems Program
+The program focuses on managing, analyzing, and presenting large-scale data and linking it to information systems and business administration to support decision-making.
+Biomedical Informatics Program
+An interdisciplinary specialization that combines computer science and the medical field to develop systems based on medical data, biometric measurements, and radiology images.
+Practical Experience Beyond the Classroom
+The faculty supports students in problem-solving programming training, teamwork, and preparation for local and international competitions, linking academic knowledge with real-world practice.
+- Programming Training and Problem-Solving Skills
+- Preparation for the ICPC Community and Competitions
+- Applied Projects and Teamwork
+- Scientific and Field Visits
+What Do Students Study?
+About the Program
+Program Objectives
+Learning Outcomes
+Study Plan
+Career Opportunities
+Program Director
+Learn about the Program Director’s message and the program’s academic leadership.
+Program Director’s Message
+أ.د / أسامه محمد مصطفى البقساوي — مدير البرنامج
+About the Program Director
+The Program Director leads the academic and organizational aspects of the Computer Science Program, monitors curriculum development and the quality of the educational process, and aligns learning outcomes with labor market needs.
+Career Paths for Computer Science Graduates
+This section presents the main professional pathways available to Computer Science Program graduates after graduation.
+Begin Your Journey in Computer Science
+Applications to the program are open to students who wish to build a professional future in programming, technology, and digital transformation.
+Faculty of Computer Science and Information Technology News
+Follow the latest news, events, and initiatives of the Faculty of Computer Science and Information Technology.
+- A New Achievement for East Port Said National University Students in the ECPC
+- From classrooms to the fields of application… Students of East Port Said National University continue to gain experience from leading national institutions.
+- Computer Science Students at East Port Said National University Conduct a Field Visit to Bedo Factory
+- East Port Said National University Discusses Cooperation with ITI and Creativa Port Said to Prepare Computer Science Students for the Labor Market
+- As Part of Supporting Technological Skills, the ICPC EPNU Community Continues Preparing Students for Programming Competitions
+- "Tech Shot".. A new knowledge initiative at East Port Said National University to simplify technology concepts in a minute

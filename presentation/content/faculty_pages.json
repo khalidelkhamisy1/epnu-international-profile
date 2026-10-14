@@ -1,0 +1,275 @@
+{
+  "engineering": {
+    "title": "Faculty of Engineering",
+    "kicker": "A shared preparatory year, then three future-focused specializations",
+    "icon": "FaGears",
+    "programs": [
+      "Mechatronics & Automation Engineering",
+      "AI & Machine Learning Engineering",
+      "Construction Engineering",
+      "Energy & Electrical Power Engineering"
+    ],
+    "facts": [
+      [
+        "FaRobot",
+        "Hands-on from day one",
+        "Robotics projects, from line-following robots to 4- and 6-axis industrial robot models"
+      ],
+      [
+        "FaNetworkWired",
+        "Huawei ICT Academy",
+        "AI students train in cloud, IoT and networking through Huawei's academy at EPNU"
+      ],
+      [
+        "FaAnchor",
+        "Industry training",
+        "Workshops at the Suez Canal Authority Training Center; a signed protocol with BEDO for factory training and applied research"
+      ],
+      [
+        "FaTrophy",
+        "Competing nationally",
+        "Teams at ITC-Egypt 2026 and the ICIAAI 2026 AI Hackathon"
+      ]
+    ],
+    "directors": [
+      {
+        "label": "Mechatronics & Automation · Engineering Programs · IR Office",
+        "name": "Assoc. Prof. Mohamed El-Sakka",
+        "bio": "PhD, University of Sheffield (UK); wind-energy and CFD research at Port Said University."
+      },
+      {
+        "label": "AI & Machine Learning · Construction · Training Center",
+        "name": "Assoc. Prof. Asmaa Rady",
+        "bio": "PhD, University of Exeter (UK; Newton-Mosharafa scholar); research fellow, Politecnico di Torino."
+      }
+    ]
+  },
+  "cs": {
+    "title": "Faculty of Computer Science & IT",
+    "kicker": "Four-year programs built around AI, data and digital health",
+    "icon": "FaLaptopCode",
+    "programs": [
+      "Computer Science",
+      "Artificial Intelligence",
+      "Data Science in Information Systems",
+      "Biomedical Informatics"
+    ],
+    "facts": [
+      [
+        "FaMicrochip",
+        "AI at the core",
+        "Machine learning, intelligent systems and decision support across the programs"
+      ],
+      [
+        "FaHeartPulse",
+        "Computing meets medicine",
+        "Biomedical Informatics builds systems on clinical data, biometrics and medical imaging"
+      ],
+      [
+        "FaCode",
+        "Competitive programmers",
+        "Qualified for the Egyptian Collegiate Programming Contest (ECPC) 2026; ICPC-style community contests on campus"
+      ],
+      [
+        "FaHandshake",
+        "Skills partners",
+        "Cooperation talks with ITI and Creativa Port Said on digital-skills training"
+      ]
+    ],
+    "directors": [
+      {
+        "label": "Director of the Faculty's Programs · Quality Assurance Center",
+        "name": "Prof. Osama El-Baksawy",
+        "bio": "Faculty member in Electrical Power & Machines Engineering at Port Said University. His research covers renewable energy, fractional-order control and metaheuristic optimization, with 24 indexed papers and 780+ citations (h-index 15, OpenAlex)."
+      }
+    ]
+  },
+  "medicine": {
+    "title": "Faculty of Medicine",
+    "kicker": "An integrated, English-medium MBBCh with early clinical exposure",
+    "icon": "FaUserDoctor",
+    "programs": [
+      "Bachelor of Medicine & Surgery (MBBCh)",
+      "5 years (10 semesters) + 2-year internship",
+      "ECTS credit system, taught in English"
+    ],
+    "facts": [
+      [
+        "FaLayerGroup",
+        "Integrated curriculum",
+        "Basic sciences, clinical training and community service taught together"
+      ],
+      [
+        "FaTruckMedical",
+        "Community medicine in Sinai",
+        "Students train with medical convoys at primary-care units in North Sinai"
+      ],
+      [
+        "FaFlask",
+        "Student research",
+        "Medical students present papers at national conferences, including Ain Shams and Suez Canal universities"
+      ],
+      [
+        "FaHospital",
+        "Clinical partners",
+        "Port Said University's new university hospital; a signed protocol with Ahl Masr Hospital; MoU with 57357"
+      ]
+    ],
+    "directors": [
+      {
+        "label": "Program Director, Medicine & Surgery",
+        "name": "Assoc. Prof. Sherine El-Khouly",
+        "bio": "Leads the alignment of medical training and learning outcomes with Egypt's healthcare needs. She supervises student research, clinical training and community medical convoys, and holds a professional diploma (grade: Excellent) from GAHAR, Egypt's healthcare accreditation authority."
+      }
+    ]
+  },
+  "pharmacy": {
+    "title": "Faculty of Pharmacy",
+    "kicker": "Clinical Pharmacy (PharmD) with a strong research and industry base",
+    "icon": "FaPrescriptionBottleMedical",
+    "programs": [
+      "Bachelor of Pharmacy: PharmD (Clinical Pharmacy)",
+      "10 semesters, taught in English"
+    ],
+    "facts": [
+      [
+        "FaMicroscope",
+        "Modern labs",
+        "HPLC and UV-Vis instruments, plus clinical simulation rooms for dose calculation"
+      ],
+      [
+        "FaPills",
+        "Industry partners",
+        "EIPICO, EVA Pharma, Lavender Life and Royal Cosmetics"
+      ],
+      [
+        "FaEarthAsia",
+        "First international partner",
+        "Leads the Universiti Putra Malaysia partnership and joint webinars"
+      ],
+      [
+        "FaBookOpen",
+        "Research-active",
+        "Pharmacy and medicinal chemistry account for most of EPNU's international papers"
+      ]
+    ],
+    "directors": [
+      {
+        "label": "Program Director, Clinical Pharmacy · Entrepreneurship Club",
+        "name": "Assoc. Prof. Mohamed Yasser",
+        "bio": "Faculty member in the Department of Pharmaceutics, Faculty of Pharmacy, Port Said University. His interests include pharmaceutical and cosmetic formulation, and he champions entrepreneurship and innovation among EPNU's pharmacy students."
+      }
+    ]
+  },
+  "ahs": {
+    "title": "Faculty of Applied Health Sciences Technology",
+    "kicker": "Training the technologists behind modern diagnostics",
+    "icon": "FaFlask",
+    "programs": [
+      "Medical Laboratory Technology",
+      "Medical Imaging & Radiologic Technology",
+      "Taught in English (131 credit hours)"
+    ],
+    "facts": [
+      [
+        "FaVial",
+        "Diagnostic labs",
+        "Hematology, biochemistry, microbiology and microscopy labs"
+      ],
+      [
+        "FaXRay",
+        "Imaging training",
+        "Training on X-ray, CT and MRI equipment, with radiation protection and quality standards"
+      ],
+      [
+        "FaHospital",
+        "Hospital training network",
+        "Port Said University Hospital, Saudi German Hospital Cairo, Ahl Masr Hospital and 57357"
+      ],
+      [
+        "FaRibbon",
+        "57357 MoU",
+        "A signed MoU with the 57357 Group covers practical training and research"
+      ]
+    ],
+    "directors": [
+      {
+        "label": "Director of the Faculty's Programs",
+        "name": "Dr. Salma Khairallah",
+        "bio": "Directs both the Medical Laboratory and Medical Imaging programs. She holds a PhD in Biochemistry from Port Said University's Faculty of Science, where she previously directed the Biochemistry & Microbiology program."
+      }
+    ]
+  },
+  "business": {
+    "title": "Faculty of Business Sciences",
+    "kicker": "Accounting and marketing for a digital economy",
+    "icon": "FaChartLine",
+    "programs": [
+      "Accounting & Software Applications",
+      "Digital Marketing & E-Management"
+    ],
+    "facts": [
+      [
+        "FaCalculator",
+        "Digital accounting",
+        "Accounting information systems, financial software and financial analysis"
+      ],
+      [
+        "FaBullhorn",
+        "Digital marketing",
+        "Campaigns, e-commerce, platform management and consumer analytics"
+      ],
+      [
+        "FaUsers",
+        "First cohort",
+        "The faculty welcomed its first cohort with a dedicated orientation day"
+      ],
+      [
+        "FaBriefcase",
+        "Career-ready",
+        "Pathways to accounting, auditing, taxation, banking, marketing and e-commerce roles"
+      ]
+    ],
+    "directors": [
+      {
+        "label": "Program Director, Accounting & Software Applications",
+        "name": "Dr. Ali Gomaa",
+        "bio": "Leads the Accounting & Software Applications program, which prepares students for accounting, auditing, financial analysis, taxation and financial-software careers."
+      }
+    ]
+  },
+  "arts": {
+    "title": "Faculty of Arts",
+    "kicker": "Humanities connected to technology and global communication",
+    "icon": "FaLanguage",
+    "programs": [
+      "English Language & Translation",
+      "Geomatics & Artificial Intelligence"
+    ],
+    "facts": [
+      [
+        "FaLanguage",
+        "Specialized translation",
+        "Written and interpreting translation: medical, legal, literary and audiovisual"
+      ],
+      [
+        "FaMapLocationDot",
+        "Geomatics & AI",
+        "GIS, remote sensing, digital surveying and AI-based spatial analysis"
+      ],
+      [
+        "FaCity",
+        "Smart-city careers",
+        "Graduates target GIS, urban planning, smart cities and telecoms"
+      ],
+      [
+        "FaGlobe",
+        "Intercultural skills",
+        "Applied linguistics and communication for media, tourism and diplomacy"
+      ]
+    ],
+    "directors": [],
+    "side_title": "Interdisciplinary by design",
+    "side_text": "The Faculty of Arts pairs language and translation with geospatial technology and AI. That makes it a natural partner for joint programs in translation studies, digital humanities and smart-city research."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "faculty": "Faculty of Pharmacy, East Port Said National University (EPNU)",
+  "url": "https://epnu.edu.eg/en/faculty-of-pharmacy/",
+  "program_director": "Assoc. Prof. Mohamed Yasser (Mohamed Yasser Hamdy), Director of the Clinical Pharmacy Program. Some posts give the title as Asst. Prof. (e.g., posts/2751.txt); the brief's title is used here.",
+  "overview": {
+    "text": "The Faculty of Pharmacy offers the Bachelor of Pharmacy (PharmD, Clinical Pharmacy) program to prepare pharmacists qualified with current pharmaceutical and medical concepts, able to support the healthcare system locally and regionally. Its graduates are meant to work in clinical and industrial pharmacy. The page lists six scientific departments (pharmaceutics; pharmaceutical, analytical and organic chemistry; pharmacognosy and natural products; microbiology and immunology; biochemistry and molecular biology; clinical pharmacy and pharmacy practice), which the page itself marks as provisional pending the Faculty Council's official list.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt (Faculty of Pharmacy page, rendered 2026-06-20); https://epnu.edu.eg/en/faculty-of-pharmacy/",
+    "confidence": "high (program); medium (department list, which is provisional)"
+  },
+  "vision": {
+    "text": "not found. No labeled vision statement on the live page, the local rendered page 3156, the Faculties and Programs page (pages/10.txt), the pharmacy posts, or web search.",
+    "source": "Searched: https://epnu.edu.eg/en/faculty-of-pharmacy/; pages/3156.txt; pages/10.txt; posts grep for 'pharm'; WebSearch",
+    "confidence": "high (absence)"
+  },
+  "mission": {
+    "text": "not found as a labeled mission statement. Closest equivalent is the five numbered goals on the page: (1) improve patient healthcare and reduce medication risks, interactions and side effects; (2) graduate pharmacists who compete locally and regionally in clinical and industrial pharmacy; (3) serve the community by rationalising medication use in hospitals and treatment centres; (4) meet comprehensive quality standards in pharmacy education through interactive, continuous self-directed learning.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 14-21; https://epnu.edu.eg/en/faculty-of-pharmacy/",
+    "confidence": "medium (paraphrased goals, not a formal mission)"
+  },
+  "programs": [
+    {
+      "name": "Bachelor of Pharmacy (PharmD - Clinical Pharmacy)",
+      "duration": "10 semesters, according to the attached study plan (live page). The local rendered page gives no duration. Internship year: not found. Study-plan PDF was not retrieved.",
+      "credit_hours": "not found (not stated on the live page, local page, or search snippets; the study plan would have this)",
+      "focus": "Prepares pharmacists to work within healthcare teams, understand medication therapy, and monitor the safe and effective use of medicines. Study plan includes pharmaceutical chemistry, pharmaceutics, pharmacognosy, microbiology, clinical pharmacy, drug information, pharmacovigilance and management of disease cases.",
+      "careers": [
+        "Hospitals and clinical pharmacy (clinical pharmacy departments, ICUs, drug and poison information centres)",
+        "Public and private pharmacies (pharmaceutical care, dispensing, counselling)",
+        "Pharmaceutical factories and companies (production, drug control, quality assurance, R&D)",
+        "Pharmaceutical media and marketing",
+        "Scientific research",
+        "Drug control and food analysis laboratories and official health authorities"
+      ],
+      "source": "https://epnu.edu.eg/en/faculty-of-pharmacy/ (WebFetch of live page, 10 semesters, study plan courses, career fields); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt (program text and career fields); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (program listed, duration 'Information will be added soon')",
+      "confidence": "medium (10 semesters, from live page and a search snippet); high (career fields, focus); not found (credit hours, internship)"
+    }
+  ],
+  "facilities": [
+    {
+      "name": "Advanced specialised laboratories",
+      "description": "Cover pharmaceutics, pharmaceutical/analytical/organic chemistry, pharmacognosy, microbiology and immunology, and biochemistry and molecular biology.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 55-58",
+      "confidence": "high (as stated on the faculty page; not verified on site)"
+    },
+    {
+      "name": "Scientific and analytical instruments",
+      "description": "HPLC, UV-Vis spectrophotometers and centrifuges for practical training.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 59-60",
+      "confidence": "high (as stated on the faculty page)"
+    },
+    {
+      "name": "Clinical simulation laboratories",
+      "description": "A virtual environment simulating care rooms and clinical pharmacies, used to train dose calculation and patient-file follow-up.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 61-62",
+      "confidence": "high (as stated on the faculty page)"
+    },
+    {
+      "name": "Smart classrooms and digital system",
+      "description": "Screens, interactive systems and connectivity supporting hybrid learning and digital libraries.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 63-64",
+      "confidence": "high (as stated on the faculty page)"
+    }
+  ],
+  "partners": [
+    {
+      "name": "EIPICO",
+      "type": "pharmaceutical manufacturer (training in production lines, quality and control labs)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, 'Strategic Partnerships' lines 77-80",
+      "confidence": "medium (listed on local rendered page only; not on the live page per WebFetch)"
+    },
+    {
+      "name": "EVA Pharma",
+      "type": "pharmaceutical manufacturer (field training in manufacturing, QC, R&D)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 81-82",
+      "confidence": "medium (as above)"
+    },
+    {
+      "name": "Lavender Life",
+      "type": "natural therapeutics / pharmacognosy (industrial practice)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 83-84",
+      "confidence": "medium (as above)"
+    },
+    {
+      "name": "Royal Cosmetics",
+      "type": "cosmetics (topical dosage-form and cosmetics technology training)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 85-86",
+      "confidence": "medium (as above)"
+    },
+    {
+      "name": "CREATIVA / ITI Portsaid",
+      "type": "training (entrepreneurship, digital pharmacy, AI, bioinformatics)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 87-88",
+      "confidence": "medium (as above)"
+    },
+    {
+      "name": "MSMEDA / Techno Square / UPM",
+      "type": "startup support, technical training, international and research cooperation",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt, lines 89-90",
+      "confidence": "medium (as above)"
+    },
+    {
+      "name": "Port Said University Faculty of Pharmacy",
+      "type": "academic research partner (23 papers in 2024-2025)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4806.txt; https://epnu.edu.eg/en/تعاون-بحثي-بين-صيدلة-جامعة-شرق-بورسعيد/",
+      "confidence": "high"
+    },
+    {
+      "name": "Universiti Putra Malaysia (UPM), Sarawak campus",
+      "type": "academic partner (agreement covering faculty and student exchange; international webinar)",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2654.txt",
+      "confidence": "high"
+    },
+    {
+      "name": "Hospitals and 57357 (Children's Cancer Hospital Egypt)",
+      "type": "NOT found for the Faculty of Pharmacy. Hospital and 57357 links in the local data concern the Faculty of Applied Health Sciences (pages/1047.txt; posts/4827.txt; posts/5348.txt). Not included as pharmacy partners.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt, lines 76-80; posts/4827.txt; posts/5348.txt",
+      "confidence": "high (absence for pharmacy)"
+    },
+    {
+      "name": "Unnamed pharmaceutical, industrial and training institutions",
+      "type": "Cooperation protocols and MoUs signed 8 July 2026 for training, field visits, student project incubation and technical support. Individual names are not given.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4847.txt; https://epnu.edu.eg/en/كلية-الصيدلة-بجامعة-شرق-بورسعيد-الأهل/",
+      "confidence": "high (existence); names not found"
+    }
+  ],
+  "entrepreneurship_club": {
+    "text": "not found as a named club. The live page names Assoc. Prof. Mohamed Yasser Hamdy as its director but gives no description, membership or activities. Related activity: faculty protocols for innovation and entrepreneurship (8 July 2026); faculty participation in the Scientific Week for Entrepreneurship at Suez Canal University (posts/551.txt).",
+    "source": "https://epnu.edu.eg/en/faculty-of-pharmacy/ (director only); posts/4847.txt; posts/551.txt",
+    "confidence": "medium (director confirmed; club details not found)"
+  },
+  "student_activities": [
+    {
+      "name": "Organic Day 2026",
+      "description": "Applied projects in organic chemistry, sustainability and innovation.",
+      "source": "pages/3156.txt, lines 67-68",
+      "confidence": "high"
+    },
+    {
+      "name": "Recycle Day 2026 competition",
+      "description": "Organic Chemistry: Applied Projects competition. Student teams of 30 design recycling-based applied models (e.g., converting used oils, extracting natural materials from waste). Projects due 1 May 2026.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2632.txt (published 2026-04-07)",
+      "confidence": "high"
+    },
+    {
+      "name": "Cosmo Day - From Lab to Market",
+      "description": "Student event connecting therapeutic cosmetics with the labour market, building presentation and scientific-marketing skills.",
+      "source": "pages/3156.txt, lines 69-70",
+      "confidence": "high"
+    },
+    {
+      "name": "Pulmo Portsaid Conference",
+      "description": "Student scientific participation outside the university.",
+      "source": "pages/3156.txt, lines 71-72",
+      "confidence": "high"
+    },
+    {
+      "name": "Art Unbound and Book Hub exhibitions",
+      "description": "Student-run art and book exhibitions, organised by the Artistic and Cultural Committee with Students for Egypt, under the Student Activities Office (2026-05-09).",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2751.txt",
+      "confidence": "high"
+    },
+    {
+      "name": "Cultural and art exhibitions",
+      "description": "Student events supporting cultural awareness, teamwork and artistic expression.",
+      "source": "pages/3156.txt, lines 73-76",
+      "confidence": "high"
+    },
+    {
+      "name": "Research and conference participation (2024-2025)",
+      "description": "Students took part in the Second Scientific Conference on Health and Population, and in the Scientific Week for Entrepreneurship at Suez Canal University, under faculty supervision.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\551.txt (Panorama, dated 2024-11-22)",
+      "confidence": "high"
+    }
+  ],
+  "highlights": [
+    {
+      "text": "23 scientific papers published in 2024-2025 through research cooperation with Port Said University's Faculty of Pharmacy: 20 by faculty in international journals and 2 by second-year students.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4806.txt (published 2026-07-08); https://epnu.edu.eg/en/تعاون-بحثي-بين-صيدلة-جامعة-شرق-بورسعيد/",
+      "confidence": "high"
+    },
+    {
+      "text": "Cooperation protocols and MoUs signed 8 July 2026 to support innovation, entrepreneurship and industry training. Partner names not disclosed.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4847.txt (published 2026-07-08)",
+      "confidence": "high"
+    },
+    {
+      "text": "International webinar with Universiti Putra Malaysia (Sarawak), 10 April 2026; EPNU to host the second edition on 29 April 2026. Second-year students took part.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2654.txt (published 2026-04-10)",
+      "confidence": "high (event); medium (second-edition date, as planned)"
+    },
+    {
+      "text": "Pharmacy.EPU page showcases examples of student projects that integrate scientific and practical aspects.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1330.txt (2024-12-24)",
+      "confidence": "medium (page content is a short summary only)"
+    }
+  ],
+  "three_slide_bullets": [
+    "Clinical Pharmacy (PharmD) program: 10 semesters per official study plan.",
+    "23 research papers published in 2024-2025 with Port Said University's Pharmacy faculty.",
+    "Industry partners include EIPICO, EVA Pharma, Lavender Life and Royal Cosmetics.",
+    "Labs include HPLC, UV-Vis and clinical simulation rooms for dose calculation.",
+    "Signed innovation and entrepreneurship protocols with partners on 8 July 2026."
+  ],
+  "data_quality_notes": [
+    "pages/3156.txt contains misplaced template text: the 'About the Faculty' section describes GIS and geospatial programs and 'Key Areas of Study' describes translation programs. These were excluded.",
+    "Credit hours and internship year are not stated in any source checked. Do not state them until the faculty study plan is obtained.",
+    "Live page (WebFetch) does not list the strategic partner names that appear in the local rendered page 3156. Local names are marked medium confidence.",
+    "Department list on the faculty page is marked provisional by the site itself."
+  ],
+  "sources": [
+    "https://epnu.edu.eg/en/faculty-of-pharmacy/ (live page, WebFetch 2026-10-14)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3156.txt (Faculty of Pharmacy, rendered 2026-06-20)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (Faculties and Programs, rendered 2024-10-11)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1047.txt (Applied Health Sciences; hospital and 57357 links, not pharmacy)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4806.txt (23 papers; 2026-07-08)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4847.txt (protocols; 2026-07-08)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2654.txt (UPM Malaysia webinar; 2026-04-10)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2632.txt (Recycle Day 2026; 2026-04-07)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2751.txt (Art Unbound / Book Hub; 2026-05-09)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\551.txt (Panorama of student contributions; 2024-11-22)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1330.txt (Pharmacy.EPU; 2024-12-24)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5210.txt (first-semester exams; 2026-01-01, context only)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4827.txt and posts\\5348.txt (57357 links, Applied Health Sciences; context only)",
+    "WebSearch 2026-10-14: 'East Port Said National University Faculty of Pharmacy Clinical Pharmacy PharmD duration credit hours internship' (confirmed 10 semesters; no credit hours or internship found)"
+  ]
+}

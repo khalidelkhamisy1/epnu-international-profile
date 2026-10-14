@@ -1,0 +1,82 @@
+{
+  "faculty": "Faculty of Business Sciences (East Port Said National University)",
+  "url": "https://epnu.edu.eg/en/faculty-of-business-sciences/",
+  "overview": {
+    "text": "A contemporary learning environment that combines management sciences, accounting, marketing, and digital transformation, preparing students for decision-making and work in modern business environments. The faculty offers interdisciplinary programs that combine academic knowledge with practical application to prepare graduates for the labor market.",
+    "source": "https://epnu.edu.eg/en/faculty-of-business-sciences/ (WebFetch); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4176.txt, lines 5-9",
+    "confidence": "high"
+  },
+  "vision": {
+    "text": "not found",
+    "source": "Not stated on https://epnu.edu.eg/en/faculty-of-business-sciences/ (live page via WebFetch) or in D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4176.txt. Also searched pages\\10.txt, pages\\7.txt and posts\\ (no business vision text).",
+    "source_note": "not found",
+    "confidence": "high"
+  },
+  "mission": {
+    "text": "not found",
+    "source": "Not stated on https://epnu.edu.eg/en/faculty-of-business-sciences/ (live page via WebFetch) or in D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4176.txt. Also searched pages\\10.txt, pages\\7.txt and posts\\ (no business mission text).",
+    "source_note": "not found",
+    "confidence": "high"
+  },
+  "programs": [
+    {
+      "name": "Accounting and Software Applications",
+      "duration": "not found",
+      "credit_hours": "not found",
+      "focus": "Combines traditional and digital accounting with financial software applications and accounting information systems. Objective: prepare graduates to prepare and analyze financial statements, use accounting software, and understand digital transformation in business. Key study areas: financial, intermediate and cost accounting; computerized governmental accounting; accounting information systems; financial planning and analysis; statistical analytics; financial software applications.",
+      "careers": "Accounting, auditing, financial analysis, taxation, banking, accounting information systems, and financial software companies.",
+      "degree": "Bachelor's Degree",
+      "source": "https://epnu.edu.eg/en/faculty-of-business-sciences/ (WebFetch); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4176.txt, lines 12-20; D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt, lines 207-214 (degree and nature only)",
+      "confidence": "high"
+    },
+    {
+      "name": "Digital Marketing and E-Management",
+      "duration": "not found",
+      "credit_hours": "not found",
+      "focus": "Integrates marketing and business administration concepts with digital marketing tools, e-commerce, and management through digital platforms. Objective: prepare professionals to manage digital campaigns, analyze customer behavior, manage online platforms, and develop modern marketing strategies. Key study areas: digital marketing, e-commerce, platform and content management, business and data analytics, consumer behavior, e-management, and development of digital campaigns and strategies.",
+      "careers": "Digital marketing, social media management, e-commerce, market analysis, content management, digital customer service, and electronic project management.",
+      "degree": "Bachelor's Degree",
+      "source": "https://epnu.edu.eg/en/faculty-of-business-sciences/ (WebFetch); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4176.txt, lines 21-29; D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt, lines 215-222 (degree and nature only)",
+      "confidence": "high"
+    }
+  ],
+  "first_cohort_year": {
+    "text": "not found",
+    "source": "Not stated on the faculty page (live or local pages 4176 and 10). Searched D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\ for business/accounting/digital marketing mentions: none found. Web search returned only other universities (Ain Shams National University, Misr International University, Port Said University), so no EPNU result.",
+    "confidence": "high"
+  },
+  "facilities": [],
+  "partners": [],
+  "highlights": [
+    {
+      "text": "Offers two bachelor's programs: Accounting and Software Applications; Digital Marketing and E-Management.",
+      "source": "https://epnu.edu.eg/en/faculty-of-business-sciences/; D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt, lines 207-222",
+      "confidence": "high"
+    },
+    {
+      "text": "Positions programs as applied and interdisciplinary, linking accounting, management and marketing with digital transformation tools.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt, line 88",
+      "confidence": "high"
+    },
+    {
+      "text": "Facilities, partners, first cohort year and vision/mission are not published on the faculty page; the faculty has no posts in the local news archive.",
+      "source": "https://epnu.edu.eg/en/faculty-of-business-sciences/ (WebFetch); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\ (grep, no business-faculty hits)",
+      "confidence": "high"
+    }
+  ],
+  "three_slide_bullets": [
+    "Two bachelor's programs: Accounting and Software Applications; Digital Marketing and E-Management.",
+    "Accounting track covers digital accounting, financial software, and accounting information systems.",
+    "Digital Marketing track covers digital campaigns, e-commerce, platform management, and consumer analytics.",
+    "Duration, credit hours and first cohort year are not published on the official pages.",
+    "Graduates target roles in accounting, auditing, taxation, marketing and e-commerce."
+  ],
+  "sources": [
+    "https://epnu.edu.eg/en/faculty-of-business-sciences/ (live page, fetched via WebFetch 2026-10-14; page metadata dated 2026-06-27)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4176.txt (Faculty of Business Sciences, local rendered copy of the same page)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (Faculties and Programs listing; business programs at lines 207-222, faculty summary at line 88)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\7.txt (lines 25-42, faculty teaser only: 'Modern business programs combining management, analytics, and digital applications.')",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\ (grep for business, accounting, digital marketing, partner, first cohort: no business-faculty post found)",
+    "Web search 2026-10-14 for EPNU business faculty programs, credit hours and first cohort: no EPNU results"
+  ]
+}

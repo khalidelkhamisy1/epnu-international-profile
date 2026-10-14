@@ -1,0 +1,62 @@
+{
+  "name_display": "Assoc. Prof. Asmaa Rady",
+  "name_full": "Asmaa Rady Ahmed",
+  "name_arabic": "أسماء راضي أحمد",
+  "epnu_roles": [
+    "Director, Artificial Intelligence & Machine Learning Engineering Program, Faculty of Engineering (confidence: high; D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt)",
+    "Director, Construction Engineering Program (confidence: high; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt; role given by the user)",
+    "Director, Training, Professional Development & Professional Volunteering Center (confidence: medium; stated by the user, not yet confirmed in local data)",
+    "Manages the university's Huawei Academy / Huawei ICT Academy branch (confidence: high; pages\\1058.txt)"
+  ],
+  "home_affiliation": "Port Said University (PSU), Faculty of Engineering, Mechanical Power Engineering Department (Renewable Energy Engineering). Confidence: high (PSU staff page and Google Scholar verified email domain eng.psu.edu.eg).",
+  "education": [
+    "PhD, Renewable Energy, University of Exeter, UK, 2018-2021 (Environment and Sustainability Institute; supervisor reported as Prof. Tapas Mallick; funded by the Newton-Mosharafa Fund). Focus: actively cooled high-concentration photovoltaics. Confidence: high (PSU staff page, Google Scholar, EPNU page 1058)",
+    "MSc, 2016 (field and institution not stated on the source). Confidence: medium",
+    "BSc, first-class honours, Port Said University, 2010. Confidence: medium (PSU staff page)"
+  ],
+  "research_areas": [
+    "Renewable and solar energy",
+    "Concentrated solar technologies and high-concentration photovoltaics (HCPV)",
+    "Nanofluids and thermal management of PV systems",
+    "Seawater desalination",
+    "Thermal process engineering and heat transfer",
+    "Energy engineering; intelligent systems applied to renewable energy (per EPNU page)"
+  ],
+  "metrics": {
+    "publications": "about 20 listed on PSU staff page",
+    "citations": 533,
+    "h_index": 12,
+    "i10_index": 12,
+    "source": "Google Scholar profile GhWuaLMAAAAJ (retrieved 2026-10-14; Scholar figures are live, so quote with a date). OpenAlex and Scopus (author ID 57214309902) could not be retrieved, so these figures are not cross-checked."
+  },
+  "notable": [
+    "Newton-Mosharafa Fund PhD scholarship (UK-Egypt)",
+    "Research fellow, Energy Department, Politecnico di Torino, Italy (2018)",
+    "Member, PSU Research Platform on Green Transformation and Sustainable Development (since 2023)",
+    "Member, PSU Energy Research and Studies Centre (since 2023)",
+    "Member, PSU Technology Innovation Commercialization Office and Ranking Committee (since 2022)",
+    "Academic Mentor, EgyptScholars Inc. (since 2022)",
+    "Editor of the book Engineering Solutions Toward Sustainable Development; reviewer for several international journals",
+    "Most cited: Use of nanofluids in solar PV/thermal systems (2019, 132 citations); Performance evaluation of single multi-junction solar cell for HCPV using minichannel heat sink with nanofluids (2020, 88 citations)",
+    "No named awards beyond the scholarship were found"
+  ],
+  "profile_urls": [
+    "https://scholar.google.com/citations?user=GhWuaLMAAAAJ",
+    "https://staff.psu.edu.eg/asmaarashed",
+    "https://sciprofiles.com/profile/Dr-Asmaa-Rady-Ahmed (not read, HTTP 403; surfaced by search)",
+    "https://www.britishcouncil.org.eg/en/asmaa-rady-ahmed (not read, timeout; surfaced by search)",
+    "https://www.scopus.com (author ID 57214309902, per PSU staff page)",
+    "https://www.linkedin.com/in/dr-asmaa-rady-ahmed (listed on PSU staff page; not opened)"
+  ],
+  "bio_50_words": "Assoc. Prof. Asmaa Rady directs the AI and Machine Learning Engineering and Construction Engineering programs at East Port Said National University, and leads its Huawei Academy and training center. Based at Port Said University, she holds a PhD in renewable energy from the University of Exeter and researches solar photovoltaics, nanofluids and desalination.",
+  "confidence": "high for identity and PhD; medium for academic rank and metrics",
+  "disambiguation_notes": "Accepted identity: PSU staff page and Google Scholar profile (name Asmaa Rady Ahmed / Asmaa Ahmed; PSU Faculty of Engineering; Exeter renewable-energy PhD). The EPNU page 1058 independently states an Exeter PhD in Renewable Energy, Newton-Mosharafa scholarship and Politecnico di Torino fellowship, which matches the PSU page on name, affiliation and field. Rejected OpenAlex namesakes: Asmaa Rady (Al-Azhar, wireless sensor networks), Asmaa M. S. Rady (Alexandria, plant genetics), Asmaa A. M. Rady (Fayoum), Asmaa A. Rady (Damanhour, power systems and text classification), Asmaa Abdel Rady (Minia, dermatology), and Port Said namesakes Sara/Sarah Rady and Ahmed El-Said Rady. The target does not appear under 'Rady' in OpenAlex; her papers are likely indexed as 'Asmaa Ahmed' or 'A. Rady'. RANK DISCREPANCY: the PSU page lists 'Assistant Professor' (Arabic: lecturer) and Scholar says 'Asst. Prof.', whereas EPNU and the user say Associate Professor; EPNU page 1058 says only 'Dr.' A recent promotion is possible. Confirm the title with her before publishing. The Training Center directorship is user-supplied only. Her Scholar affiliation line says Asst. Prof.; the PSU page may be out of date.",
+  "sources": [
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 91-96)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt",
+    "https://staff.psu.edu.eg/asmaarashed",
+    "https://scholar.google.com/citations?user=GhWuaLMAAAAJ&hl=en",
+    "https://api.openalex.org/authors?search=Asmaa%20Rady (namesake rejection)",
+    "WebSearch result summaries (Exeter PhD, Newton-Mosharafa funding, supervisor)"
+  ]
+}

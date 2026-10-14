@@ -1,0 +1,58 @@
+{
+ "engineering": {
+  "file": "images/2786_687026878_960097066815865_4971971991455676128_n.jpg",
+  "focus": "attention",
+  "alt": "Engineering students in white coats at a workshop training session",
+  "why": "Real students and instructor in a bright mechanical/carpentry workshop at Suez Canal Authority training centre; sharp, 1280x960. Small EPNU corner mark only.",
+  "alt_file": "images/2785_689023929_960097133482525_5249771912469865136_n.jpg"
+ },
+ "cs": {
+  "file": "images/2820_IMG_2069-scaled.jpg",
+  "focus": "attention",
+  "alt": "Computer science students competing at laptops in a programming contest",
+  "why": "Smiling students with laptops at the ICPC/programming contest, 2560x1920, sharp and well lit.",
+  "alt_file": "images/2819_IMG_2071-scaled.jpg"
+ },
+ "medicine": {
+  "file": "images/4383_648857893_122214505544553506_3919928261485117304_n.jpg",
+  "focus": "attention",
+  "alt": "Medical student measuring a patient's blood pressure at a clinical outreach",
+  "why": "Clinical training during a medical convoy, 1600x1200, clear subject, no text. Avoided the ChatGPT-generated skills-lab image on the medicine page.",
+  "alt_file": "images/4381_648867806_122214505586553506_7034773725611189405_n.jpg"
+ },
+ "pharmacy": {
+  "file": "images/1338_471139642_572300498928859_1695813472321162646_n.jpg",
+  "focus": "attention",
+  "alt": "Pharmacy students receiving certificates of achievement at a faculty event",
+  "why": "Only faculty-specific shot left (lab picture already used as 'pharma'); students and staff at a Faculty of Pharmacy event, 2048x1153. Not a lab shot.",
+  "alt_file": "images/1353_471169018_572300305595545_2379128651145252868_n.jpg"
+ },
+ "ahs": {
+  "file": "images/2740_691728180_961698269989078_3877983476649987747_n.jpg",
+  "focus": "attention",
+  "alt": "Applied health sciences students using microscopes in a clinical laboratory",
+  "why": "Students in white coats and gloves at microscopes in a modern lab, 1600x1103. Different frame from the used 'health' photo.",
+  "alt_file": "images/5180_746824160_1725048338545271_4232167705870025342_n.jpg"
+ },
+ "business": {
+  "file": "images/569_466733751_545988671560042_9074122614201746561_n-1.jpg",
+  "focus": "attention",
+  "alt": "Students in business attire meeting around a conference table",
+  "why": "No business-faculty photo exists; generic boardroom-style student meeting, 2048x1153. Generic pick.",
+  "alt_file": "images/571_466741757_545988428226733_3191688740472144907_n.jpg"
+ },
+ "arts": {
+  "file": "images/614_465706229_540307165461526_4630394355610752856_n.jpg",
+  "focus": "attention",
+  "alt": "Students and staff in traditional Sinai heritage dress at Sinai Cultural Day",
+  "why": "No arts/translation/geomatics photo exists; cultural-heritage group from Sinai Day, 2048x1153. Generic pick.",
+  "alt_file": "images/1246_470206564_568241966001379_8074416111886749557_n.jpg"
+ },
+ "research": {
+  "file": "images/762_462752695_525633110262265_8494536973856571006_n.jpg",
+  "focus": "attention",
+  "alt": "Medical students and supervisor beside their research posters at Research Society Day",
+  "why": "Students and professor presenting research posters, 1600x1204; sharp, well lit.",
+  "alt_file": "images/764_462857283_525633400262236_5318897946599644115_n.jpg"
+ }
+}

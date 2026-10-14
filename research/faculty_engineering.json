@@ -1,0 +1,186 @@
+{
+  "faculty": "Faculty of Engineering (East Port Said National University)",
+  "url": "https://epnu.edu.eg/en/faculty-of-engineering/",
+  "overview": {
+    "text": "Offers a modern engineering model that links core engineering knowledge with practical application and advanced technologies. Every student starts with a foundational preparatory year, then chooses one of three specializations: Mechatronics and Automation, Artificial Intelligence and Machine Learning, or Energy and Electrical Power. Teaching combines theory, practical training and applied projects, aligned with labor-market needs.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 5-11, 26-27); https://epnu.edu.eg/en/faculty-of-engineering/",
+    "confidence": "high"
+  },
+  "vision": {
+    "text": "To be a distinguished learning environment in applied engineering education, innovation, and community service. A longer version adds: distinguished education and research that keeps pace with global developments, encourages innovation, builds effective local and international partnerships, and serves as a center of expertise for community service.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (line 15; longer version lines 139-141)",
+    "confidence": "high"
+  },
+  "mission": {
+    "text": "Prepare engineering graduates who apply scientific knowledge and practical skills in mechatronics and automation, artificial intelligence and machine learning, and energy and electrical power, to design solutions that serve development and the labor market. The longer official text also covers advanced educational programs, continuing education, research laboratories, and support for faculty and students in applied research.",
+    "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (line 13; longer version lines 143-145, machine-translated English, lightly paraphrased)",
+    "confidence": "high for the short version; medium for the longer version"
+  },
+  "programs": [
+    {
+      "name": "Mechatronics and Automation Engineering",
+      "duration": "Not confirmed. The faculty page says 'according to the approved regulations' and page 10 says 'Information will be added soon'. A 5-year figure sits in this program's section but conflicts with that wording (see notes).",
+      "credit_hours": "Not confirmed. 165 credit hours across 60 courses appears in this program's section, but the page's own Basic Information says the study system and plan are 'to be updated soon'.",
+      "focus": "Designing intelligent mechanical systems, automatic control, robotics, sensors, and integrating mechanical, electronic, and software components. Practical projects in line-following robots, Bluetooth-controlled robot cars, and 4-axis and 6-axis industrial robot models.",
+      "careers": [
+        "Control systems and robotics",
+        "Industrial maintenance and operation",
+        "Engineering design and intelligent systems",
+        "Technology and manufacturing companies"
+      ],
+      "director": "Assoc. Prof. Mohamed El-Sakka (Mohamed Mohamed Metwally El-Sakka). Some posts give the title as Assistant Professor.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 28-61); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 10-16); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1275.txt; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4137.txt; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5222.txt",
+      "confidence": "high for focus and careers; low for duration, credit hours and language (conflicting)"
+    },
+    {
+      "name": "Artificial Intelligence and Machine Learning Engineering",
+      "duration": "10 semesters (the page states the study plan as 10 semesters). A '5 academic years including a foundational preparatory level' line appears in the faculty page, most likely for this program, but the attribution is not certain.",
+      "credit_hours": "165 (the study plan is stated as 10 semesters totaling 165 credit hours)",
+      "focus": "Interdisciplinary computing and intelligent systems: AI tools, data analysis, machine learning, computer vision, embedded systems, networks and robotics. Case-study and applied-project learning. Students learn software design and integration, computer architecture, digital systems, and networks with security.",
+      "careers": [
+        "Artificial Intelligence and Machine Learning Engineer",
+        "Software developer for AI applications and intelligent systems",
+        "Data Analyst or Assistant Data Engineer",
+        "Machine Learning and Deep Learning Model Developer",
+        "Computer Vision and Image Processing Engineer",
+        "Embedded Systems, Robotics, and Internet of Things Engineer",
+        "Developer of intelligent solutions in industrial, healthcare, educational, environmental and energy fields"
+      ],
+      "language": "English (stated under the program's Language of Instruction heading)",
+      "director": "Assoc. Prof. Asmaa Rady (Dr. Eng. Asmaa Rady Ahmed). Also manages the university's Huawei Academy branch.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 57, 59, 62-93); D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt (lines 17-23); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4137.txt",
+      "confidence": "high for focus and careers; medium for duration and language attribution"
+    },
+    {
+      "name": "Energy and Electrical Power Engineering",
+      "duration": "Not stated",
+      "credit_hours": "Not stated",
+      "focus": "Electrical power systems, renewable energy technologies, smart grids, energy efficiency, and engineering applications for resource sustainability.",
+      "careers": [
+        "Electricity and renewable energy companies",
+        "Smart grids and energy efficiency",
+        "Design, operation and maintenance of power systems",
+        "Industrial and infrastructure projects"
+      ],
+      "director": "Not stated",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 32-33, 97-107, 114-116); not listed on page 10",
+      "confidence": "high for focus and careers; no duration, credit or director data found"
+    }
+  ],
+  "facilities": [
+    {
+      "text": "Practical and laboratory training in programming, digital systems, embedded systems, networks, machine learning, computer vision, robotics, and applied AI projects. No specific labs or equipment are named.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (line 88)",
+      "confidence": "medium"
+    },
+    {
+      "text": "Preparatory-year practical training at the Suez Canal Authority Training Center, rotating through five workshops: welding, machinery, blacksmithing and fitting, plumbing, and carpentry. Launched May 2026.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt (dated 2026-05-09)",
+      "confidence": "high"
+    },
+    {
+      "text": "Mechatronics and automation student project showcase (Dec 2024) with line-following robots, Bluetooth-controlled robot cars, and 4-axis and 6-axis industrial robot models.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1275.txt (dated 2024-12-18)",
+      "confidence": "high"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Huawei ICT Academy at East Port Said National University",
+      "detail": "Connected to the AI and ML program. Supports training in AI, cloud computing, networks, IoT and modern communications. Managed by Dr. Asmaa Rady.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 89-93); https://epnu.edu.eg/en/faculty-of-engineering/",
+      "confidence": "high (partnership described on the faculty page; no signed-agreement text found)"
+    },
+    {
+      "name": "Suez Canal Authority Training Center",
+      "detail": "Cooperation on the preparatory-year practical training program (five workshops).",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt (2026-05-09)",
+      "confidence": "high"
+    },
+    {
+      "name": "EISAC Automation",
+      "detail": "Student training visit (July 2026) to support applied learning in industrial technology and automation systems. Described as a visit, not a formal agreement.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4828.txt (2026-07-08); https://epnu.edu.eg/en/faculty-of-engineering/ (news list)",
+      "confidence": "medium"
+    },
+    {
+      "name": "Port Said Governorate",
+      "detail": "Governor's visit to the university to discuss cooperation on development, education and community service. Undated; no agreement named.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (line 126)",
+      "confidence": "low"
+    },
+    {
+      "name": "BEDO",
+      "detail": "Not found as an engineering partner. The only related item is a Computer Science students' field visit to a BEDO factory (title only, Computer Science faculty).",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4848.txt (title only). Searched: pages\\1058.txt, pages\\10.txt, the live faculty page",
+      "confidence": "not found for Engineering"
+    }
+  ],
+  "highlights": [
+    {
+      "text": "Common preparatory year before choosing one of three specializations.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 6, 10, 111)",
+      "confidence": "high"
+    },
+    {
+      "text": "Huawei ICT Academy branch linked to the AI and ML program.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 89-93)",
+      "confidence": "high"
+    },
+    {
+      "text": "AI and ML program is stated as 165 credit hours over 10 semesters, with English as the language of instruction.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 59, 85)",
+      "confidence": "medium"
+    },
+    {
+      "text": "Program director Asmaa Rady holds a PhD in Renewable Energy Engineering from the University of Exeter, UK. She won a Newton-Mosharafa PhD scholarship and held an international research fellowship at Politecnico di Torino, Italy.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt (lines 93-96)",
+      "confidence": "high (self-reported bio on the faculty page)"
+    },
+    {
+      "text": "Students competed in ITC Egypt 2026 innovation qualifiers. A Faculty of Engineering team passed the second arbitration round, and the university president met the team (June 2026).",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4137.txt (2026-06-27)",
+      "confidence": "high"
+    },
+    {
+      "text": "Students took part in the AI Hackathon at ICIAAI 2026, hosted by Damietta University's Faculty of Computers and AI (July 2026). Supervised by El-Sakka and Rady. The post does not state the team's faculty, so engineering attribution is unconfirmed.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5222.txt (2026-07-28)",
+      "confidence": "medium"
+    },
+    {
+      "text": "Faculty of Engineering is recruiting academic staff and teaching assistants in mechanical power and mechatronics, electrical power, communications and electronics, and computer and control engineering. Deadline: 29 September 2026.",
+      "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5477.txt (2026-09-26)",
+      "confidence": "high"
+    }
+  ],
+  "three_slide_bullets": [
+    "Three engineering pathways after a shared foundation preparatory year",
+    "Mechatronics, AI and Machine Learning, Energy and Electrical Power",
+    "AI and ML program: 165 credit hours over 10 semesters",
+    "Huawei ICT Academy links AI students to cloud, IoT and networking training",
+    "Students compete in ITC Egypt 2026 and the ICIAAI 2026 AI Hackathon"
+  ],
+  "discrepancies": [
+    "Page 10 lists only Mechatronics and AI under Faculty of Engineering; Energy and Electrical Power appears only on the faculty page (1058).",
+    "Mechatronics duration and credit hours: the faculty page's Basic Information says 'to be updated', while a 165-credit, 60-course, 5-year, English block sits in the Mechatronics section. The WebFetch summary attributed this block to AI. Unresolved.",
+    "Posts list Asmaa Rady as director of both AI and ML and Construction Engineering programs. Construction Engineering is not on the faculty page.",
+    "Titles: the brief says Assoc. Prof. Mohamed El-Sakka; posts 4137 and 5222 say Assistant Professor. Brief title used in this file.",
+    "Post 746 (Oct 2024) names Prof. Dr. El-Sayed Galal as Director of Faculty of Engineering Programs. Post 2767 and later posts name El-Sakka and Rady as program directors. Not reconciled.",
+    "The live-page WebFetch summary contains internal inconsistencies (study-plan percentages and hour totals do not reconcile). Not used for figures."
+  ],
+  "sources": [
+    "https://epnu.edu.eg/en/faculty-of-engineering/ (live page; page 1058 local copy dated 2024-12-28)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1275.txt (https://epnu.edu.eg/en/spark-of-innovation-tea-coffee-and-technology/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt (https://epnu.edu.eg/en/بالتعاون-مع-مركز-تدريب-هيئة-قناة-السوي/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4137.txt (https://epnu.edu.eg/en/جامعة-شرق-بورسعيد-الأهلية-تواصل-دعم-ال/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4828.txt (https://epnu.edu.eg/en/طلاب-جامعة-شرق-بورسعيد-الأهلية-في-زيار/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5222.txt (https://epnu.edu.eg/en/في-إطار-دعم-الابتكار-والبحث-العلمي-طلا/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5477.txt (https://epnu.edu.eg/en/فتح-باب-التقدم-للوظائف-الأكاديمية-بجا/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4848.txt (title only)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\746.txt (https://epnu.edu.eg/en/اجتماع-مجلس-شؤون-التعليم-والطلاب/)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\643.txt (Water Day 2024, Port Said University-hosted; context only)",
+    "Web search 'East Port Said National University Faculty of Engineering' returned no dedicated faculty page or news coverage beyond epnu.edu.eg; no independent press coverage found."
+  ]
+}

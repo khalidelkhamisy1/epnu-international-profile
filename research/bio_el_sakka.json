@@ -1,0 +1,50 @@
+{
+  "name_display": "Assoc. Prof. Mohamed El-Sakka",
+  "name_full": "Mohamed Mohamed Metwally El-Sakka (Arabic: محمد محمد متولي السقا)",
+  "epnu_roles": [
+    "Director, Mechatronics & Automation Engineering Program (source: local post 2767, 4137, 5222; confidence high)",
+    "Director of the Engineering programs (user-confirmed, BRIEF.md)",
+    "Director of the International Relations Office (user-confirmed, BRIEF.md)"
+  ],
+  "home_affiliation": "Port Said University (PSU), Faculty of Engineering, Mechanical Power Engineering Department (probable match; ORCID employment record). Current rank at PSU not independently verified; ORCID lists 'Assistant Lecturer' from 2020 and appears out of date, EPNU posts list him as Assistant/Associate Professor.",
+  "education": [
+    "PhD, University of Sheffield (UK), 2016-2020 (ORCID shows 03/2016 to 07/2020); topic: variable pitch vertical axis wind turbines; supervisors Prof. Mohammed Pourkashanian, Prof. Lin Ma, Prof. Derek Ingham",
+    "MSc, Mechanical Power Engineering, Port Said University, 2014",
+    "BSc, Mechanical Power Engineering, Suez Canal University, 2009"
+  ],
+  "research_areas": [
+    "Wind energy and vertical axis wind turbine aerodynamics (CFD, design optimisation)",
+    "Maximum power point tracking and metaheuristic optimisation for PV and fuel cell systems",
+    "Renewable energy systems (floating wind and PV, solar desalination, green hydrogen)",
+    "Thermal energy storage (phase change materials), spray combustion, CFD"
+  ],
+  "metrics": {
+    "publications": 56,
+    "citations": 915,
+    "h_index": 16,
+    "source": "OpenAlex author A5076999905 (queried 2026-10-14); i10-index 20. Auto-generated, may over/under-count; Scopus and Google Scholar not accessible."
+  },
+  "notable": [
+    "Graduate Teaching Assistant at the University of Sheffield, 2018-2020 (ORCID); PhD from a UK Russell Group university (international experience)",
+    "Co-author of 'Sustainability Research at Port Said University Towards the Achievement of the SDGs' (2024, per OpenAlex)",
+    "Highly cited papers: VAWT winglet design (2019, 130 citations) and CFD of VAWT blade angle of attack (2019, 117 citations)",
+    "At EPNU, supervised student teams at competitions and events (posts 5222, 551)"
+  ],
+  "profile_urls": [
+    "https://orcid.org/0000-0002-4937-8843",
+    "https://openalex.org/A5076999905",
+    "https://sheffield.ac.uk/energy2050/people/mohamed-el-sakka"
+  ],
+  "bio_50_words": "Assoc. Prof. Mohamed El-Sakka directs the Mechatronics & Automation Engineering program and the Engineering programs at EPNU, and leads its International Relations Office. A Port Said University mechanical power engineer with a PhD from the University of Sheffield, he researches wind energy, CFD and optimisation of renewable energy systems.",
+  "confidence": "medium",
+  "disambiguation_notes": "The OpenAlex/ORCID profile (Mohamed M. Elsakka, Port Said University, Mechanical Power Engineering) is accepted as a probable match on: (1) name 'M. M. El Sakka' = Mohamed Mohamed El-Sakka, (2) Port Said University affiliation, (3) engineering field. The Sheffield page lists 'El Sakka, M. M.' with Port Said-area Egyptian co-authors. NOT confirmed: the middle name 'Metwally' appears on no academic profile, only in EPNU post 551 ('Dr. Mohamed Metwally El-Sakka, Faculty of Engineering'); the field (mechanical power/wind energy) is adjacent to, not identical with, mechatronics, although MPPT/control work fits; current PSU rank not verified. Other 'Elsakka' authors in OpenAlex (Dalia, Samah, Ahmed, medical or linguistics) are different people and were excluded. Not found / not accessible: Google Scholar, ResearchGate, Scopus, PSU staff page, EKB editorial listing (connection error).",
+  "sources": [
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\551.txt (post 551, 2024-11-22)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4137.txt",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5222.txt",
+    "https://api.openalex.org/authors/A5076999905",
+    "https://pub.orcid.org/v3.0/0000-0002-4937-8843",
+    "https://sheffield.ac.uk/energy2050/people/mohamed-el-sakka"
+  ]
+}

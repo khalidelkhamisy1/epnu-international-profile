@@ -1,0 +1,221 @@
+[
+  {
+    "name_en": "Asmaa Rady Ahmed",
+    "name_en_variants": [
+      "Asmaa Rady",
+      "Asmaa Rady Ahmed"
+    ],
+    "name_ar": "أسماء راضي أحمد",
+    "title": "Dr. Eng.",
+    "title_variants": [
+      "Dr. Eng. (1058 EN)",
+      "Dr. (2767, 4137, 5222 EN/AR)",
+      "الدكتورة (4137 AR)"
+    ],
+    "role": "Artificial Intelligence and Machine Learning Engineering",
+    "faculty": "Faculty of Engineering",
+    "sources": [
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/pages/1058.txt",
+        "id": "1058",
+        "date": "2024-12-28T20:03:08",
+        "quote": "Dr. Asmaa Rady serves as Director of the Artificial Intelligence and Machine Learning Engineering Program"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/2767.txt",
+        "id": "2767",
+        "date": "2026-05-09T16:39:00",
+        "quote": "Dr. Asmaa Rady – Director of the Artificial Intelligence and Machine Learning Engineering Program and Construction Engineering Program"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/ar/posts/4137_جامعة-شرق-بورسعيد-الأهلية-تواصل-دعم-ال.txt",
+        "id": "4137",
+        "date": "2026-06-27T14:04:05",
+        "quote": "والدكتورة أسماء راضي، مدير برنامج هندسة الذكاء الاصطناعي وتعلم الآلة"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en/posts/5222_في-إطار-دعم-الابتكار-والبحث-العلمي-طلا.txt",
+        "id": "5222",
+        "date": "2026-07-28T10:56:17",
+        "quote": "Dr. Asmaa Rady Ahmed, Director of the Artificial Intelligence and Machine Learning Engineering Program"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Page 1058 AR gives 'دكتور مهندس/ أسماء راضي أحمد'. Conflict: post 2767 (2026-05-09) also names her Director of the Construction Engineering Program; no other source confirms a Construction director. Also manages the Huawei ICT Academy branch (1058)."
+  },
+  {
+    "name_en": "Mohamed El-Sakka",
+    "name_en_variants": [
+      "Mohamed El-Sakka",
+      "Mohamed Metwally El-Sakka"
+    ],
+    "name_ar": "محمد السقا",
+    "name_ar_variants": [
+      "محمد متولي السقا"
+    ],
+    "title": "Dr.",
+    "title_variants": [
+      "Asst. Prof. Dr. (4137 AR, 5222 EN)",
+      "Dr. (2767 EN)"
+    ],
+    "role": "Mechatronics and Automation Engineering",
+    "faculty": "Faculty of Engineering",
+    "sources": [
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/2767.txt",
+        "id": "2767",
+        "date": "2026-05-09T16:39:00",
+        "quote": "Dr. Mohamed El-Sakka – Director of the Mechatronics and Automation Engineering Program"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/ar/posts/4137_جامعة-شرق-بورسعيد-الأهلية-تواصل-دعم-ال.txt",
+        "id": "4137",
+        "date": "2026-06-27T14:04:05",
+        "quote": "الأستاذ المساعد الدكتور محمد السقا، مدير برنامج هندسة الميكاترونيات والأتمتة"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en/posts/5222_في-إطار-دعم-الابتكار-والبحث-العلمي-طلا.txt",
+        "id": "5222",
+        "date": "2026-07-28T10:56:17",
+        "quote": "Assistant Professor Dr. Mohamed El-Sakka, Director of the Mechatronics and Automation Engineering Program"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/551.txt",
+        "id": "551",
+        "date": "2024-11-22T09:25:55",
+        "quote": "Dr. Mohamed Metwally El-Sakka, Faculty of Engineering (no role stated)"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Page 1058 (Mechatronics block) says the director's details are 'to be updated'. Post 551 (2024) gives full name Mohamed Metwally El-Sakka with no role; treated as same person by name match. Date of role start unknown."
+  },
+  {
+    "name_en": "Osama El-Baksawy",
+    "name_en_variants": [
+      "Osama El-Baksawy",
+      "Osama El-Baqsawi"
+    ],
+    "name_ar": "أسامة محمد مصطفى البقساوي",
+    "name_ar_variants": [
+      "أسامه محمد مصطفى البقساوي"
+    ],
+    "title": "Asst. Prof. Dr.",
+    "title_variants": [
+      "Prof. Dr. (3154 AR 'أ.د')",
+      "Assoc. Prof. Dr. (2676 EN)",
+      "Assistant Professor Dr. (2793, 5340 EN)",
+      "أستاذ مساعد (3154 AR bio)"
+    ],
+    "role": "Computer Science Program",
+    "faculty": "Faculty of Computer Science & IT",
+    "sources": [
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/pages/3154.txt",
+        "id": "3154",
+        "date": "2026-06-20T12:45:00",
+        "quote": "أ.د / أسامه محمد مصطفى البقساوي — مدير البرنامج (AR text; EN page has no English name)"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/2676.txt",
+        "id": "2676",
+        "date": "2026-04-18T14:19:03",
+        "quote": "Assoc. Prof. Dr. Osama El-Baksawy, Director of the Computer Science Program"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/2793.txt",
+        "id": "2793",
+        "date": "2026-05-09T22:55:11",
+        "quote": "Assistant Professor Dr. Osama El-Baqsawi – Director of the Computer Science Program"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/5340.txt",
+        "id": "5340",
+        "date": "2026-08-26T13:03:47",
+        "quote": "Dr. Osama El-Baksawy, Assistant Professor and Director of the Computer Science Programme"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Title conflict: the Arabic program page 3154 calls him أ.د (Prof.) but its own bio says he is an assistant professor (أستاذ مساعد) in Electrical Power Engineering; English posts say Assoc. Prof. (2676) and Assistant Prof. (2793, 5340). Majority/most recent English sources say Assistant Professor. Also 3154 EN page has no English name; English spelling is taken from posts. Also appears as ا.م.د/ Asst. Prof. in AR post 5218. Conflicts with Heba Nashaat El-Mowafy for the same program (see separate entry)."
+  },
+  {
+    "name_en": "Heba Nashaat El-Mowafy",
+    "name_en_variants": [
+      "Heba Nashaat El-Mowafy"
+    ],
+    "name_ar": "هبة نشأت الموافى",
+    "name_ar_variants": [
+      "هبه نشأت"
+    ],
+    "title": "Assoc. Prof. Dr.",
+    "title_variants": [
+      "Prof. (1299 AR 'أ.د')"
+    ],
+    "role": "Computer Science Program (also cited as 'Director of Computer Science Programs', plural)",
+    "faculty": "Faculty of Computer Science & IT",
+    "sources": [
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/554.txt",
+        "id": "554",
+        "date": "2024-11-17T09:32:00",
+        "quote": "Director of Computer Science Programs, Assoc. Prof. Dr. Heba Nashaat El-Mowafy"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/ar/posts/1299_اللجنة-الفنية-المتخصصة-لوزارة-التعلي.txt",
+        "id": "1299",
+        "date": "2024-12-20T10:35:46",
+        "quote": "أ.د/ هبه نشأت..مدير برنامج علوم الحاسب وتقنية المعلومات بكلية الحاسبات ونظم المعلومات"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Dated 2024 only; both sources predate the 2026 entries for Osama El-Baksawy. Title differs by source (Assoc. Prof. in EN 554, Prof. in AR 1299). Not contradicted in corpus, but likely superseded; leadership change date unknown."
+  },
+  {
+    "name_en": "El-Sayed Galal",
+    "name_en_variants": [
+      "El-Sayed Galal"
+    ],
+    "name_ar": null,
+    "title": "Prof. Dr.",
+    "title_variants": [],
+    "role": "Director of the Faculty of Engineering Programs (faculty-level, not a single program)",
+    "faculty": "Faculty of Engineering",
+    "sources": [
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/posts/746.txt",
+        "id": "746",
+        "date": "2024-10-20T10:59:35",
+        "quote": "Prof. Dr. El-Sayed Galal, Director of the Faculty of Engineering Programs"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Faculty-level role, not a program director. Included for completeness; no preparatory-year director found in corpus."
+  },
+  {
+    "name_en": "Atef Alam El-Din",
+    "name_en_variants": [
+      "Atef Alam El-Din",
+      "Atef Alam Eldin"
+    ],
+    "name_ar": "عاطف علم الدين",
+    "title": "Prof. Dr.",
+    "title_variants": [],
+    "role": "Dean of the Faculty of Engineering (former, per career history; current university President)",
+    "faculty": "Faculty of Engineering",
+    "sources": [
+      {
+        "file": "D:/AI/EPNU/data/text/en_rendered/pages/1850.txt",
+        "id": "1850",
+        "date": "2026-03-15T11:26:36",
+        "quote": "- Dean of the Faculty of Engineering"
+      },
+      {
+        "file": "D:/AI/EPNU/data/text/ar/pages/1850_رئيس-الجامعة.txt",
+        "id": "1850",
+        "date": "2026-03-15T11:26:36",
+        "quote": "عميد كلية الهندسة"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Historical role only. Corpus does not name a current Dean of the Faculty of Engineering or a Dean of the Faculty of Computer Science & IT. Not a program director."
+  }
+]

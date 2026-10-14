@@ -1,0 +1,14 @@
+TITLE: Launch of the EPNU TechX 2026 Competition at East Portsaid National University
+URL: https://epnu.edu.eg/en/إطلاق-مسابقة-epnu-techx-2026-بجامعة-شرق-بورسعيد/
+DATE: 2026-04-07T15:13:10
+
+As part of East Port Said National University's commitment to supporting digital transformation and strengthening students' applied skills, the university's Information Systems Center announced the launch of the annual technology competition EPNU TechX 2026, under the patronage of Prof. Dr. Atef Alam El-Din, University President.
+The competition aims to engage university students in developing academic program pages on the official website by designing and implementing a unified template using the content management system WordPress, contributing to improving user experience, presenting academic content in a more organized and engaging manner, and supporting the university's direction toward digital transformation and technological modernization.
+The competition provides university students with the opportunity to participate in teams of two to four students. Team members will collaborate to develop an integrated model for academic program pages, while adhering to approved official content and improving design, user experience, and ease of navigation, especially on mobile devices. The competition will run for three weeks, during which projects will be implemented and submitted to a specialized judging committee according to criteria including design quality, user experience, usability, performance, and applicability to the university's official website.
+The competition includes several distinguished incentives. The winning design will be implemented on the university's official website, participants will receive accredited certificates, free training courses will be offered, and cash prizes will be awarded to the top places, in support of student innovation and creativity.
+The university invited all students interested in technology and design to participate in this distinguished experience, which represents a genuine opportunity to apply academic knowledge in
+a practical project that directly serves the university and helps build strong experience that can be applied in the labor market. The deadline for participation and team registration is April 14, and the final project submission deadline is April 27.
+To register for the competition, please complete the participation form through the following link:
+[ EPNU TechX 2026Register for the Competition ]
+This initiative comes as part of the university's strategy to promote student innovation and connect the educational process with practical application, contributing to the preparation of qualified cadres capable of keeping pace with the requirements of the digital age.
+Views: 174

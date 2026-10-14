@@ -1,0 +1,149 @@
+TITLE: Academic System
+URL: https://epnu.edu.eg/en/نظام-الدراسة/
+DATE: 2026-03-12T09:55:06
+
+About the Academic System
+Structured Learning Based on Credit Hours
+The university’s programs apply the credit-hour system, except for human medicine programs, which follow an integrated system. The regulations govern registration, attendance, assessment, GPA calculation, progression between levels, and the fulfillment of graduation requirements.
+Credit Hours
+Academic Year Components and Study Load
+The academic year consists of three semesters, and registration is conducted according to the academic calendar and the approved limits for each program.
+Fall Semester
+15 weeks of study followed by 3 weeks of examinations; it begins in September.
+Spring Semester
+15 weeks of study followed by 3 weeks of examinations; it begins in February.
+Summer Semester
+7 weeks of study followed by one week of examinations, with doubled contact hours and weekly workload.
+The minimum registered credit hours equal 60% of the maximum registration load for the semester, rounded up to the nearest whole number. Detailed limits are determined according to the program and approved regulations.
+Admissions and Academic Registration
+Registration and Attendance Rules
+- Registration and educational service fees are paid at the start of registration according to the regulations and University Council decisions.
+- Students may not register for a higher level or have results announced before paying the fees for the lower level.
+- Enrollment and registration are completed before the start of each semester according to the academic calendar.
+- Attendance is recorded in lectures, tutorials, and practical sessions, and warnings begin when absence exceeds the specified percentages.
+- Unexcused absence exceeding 25% may result in denial of entry to the course examination and a “Denied” grade.
+- Medical excuses require documentation from an accredited governmental authority and approval by the university medical administration within the prescribed deadlines.
+Add and Drop
+The regulations allow adding and dropping courses during the specified periods, with the approval of the academic advisor and without violating credit-hour limits.
+Withdrawal
+Withdrawal is allowed up to the first 10 weeks of main semesters or the first 5 weeks of the summer semester, and a W grade is recorded after approval.
+Incomplete
+In the event of absence from the final examination for an accepted excuse, an I grade is recorded temporarily and is not included in the GPA until the next available examination is taken. According to the program and approved regulations.
+Courses and Requirements
+Components of the Academic Plan
+Each program regulation specifies the distribution of courses and credit hours required for the degree.
+University Requirements
+Compulsory and elective courses determined by the program study plan.
+Faculty and Specialization Requirements
+Compulsory and elective courses related to the field and specialization according to the program regulation.
+Elective Courses
+An elective course may be changed later in case of failure or withdrawal, subject to the approval of the academic advisor and program requirements.
+Clinical Training
+Clinical Training
+Assessment and Examinations
+Passing Rules and Grades
+- Each course is assessed out of 100 marks distributed across student activities, practical work, and the final examination according to the nature of the course.
+- To pass, students must obtain at least 60% of the total marks and at least 30% of the final examination mark.
+- Failure to achieve 30% of the final examination mark results in an F grade regardless of the total course marks.
+- Zero-credit courses are graded Pass/Fail, require 50% or more to pass, and are not included in the grade point average.
+بحسب البرنامج والقواعد المعتمدة.
+Academic GPA and Warnings
+GPA Calculation and Academic Monitoring
+Course Grade Points
+Number of course credit hours × grade points.
+Semester GPA
+Total course grade points for the semester ÷ total semester credit hours.
+Cumulative GPA
+Total grade points for all courses ÷ total credit hours, taking retakes and grade improvement into account.
+Academic Warning: A student is placed under academic monitoring if their semester GPA is below 1.7. During monitoring, the student may register only the minimum credit-hour load. Four consecutive warnings, excluding summer, may lead to termination of enrollment according to the regulations, while the competent councils retain authority in the cases stipulated by the regulations.
+- The maximum number of grade-improvement attempts is three for passed courses, according to the restrictions stated in the regulations, and the highest grade is counted.
+- When retaking a failed course, all assessment requirements must be repeated; the grade after retaking is capped at B and appears on the certificate.
+- Academic monitoring may not exceed four semesters.
+Graduation
+From Completing the Plan to Awarding the Degree
+Passing Courses
+Completion of the credit hours and requirements specified in the program regulation.
+Achieving the Required GPA
+A cumulative graduation GPA of not less than 2.0.
+Completing Obligations
+Payment of due fees and fulfillment of training or project requirements, if applicable.
+Awarding the Degree
+After confirming that all graduation requirements have been fulfilled in accordance with the regulations.
+The maximum duration of study is ten years according to the text stated in the file. The competent councils may consider a final additional opportunity for the cases specified in the regulations.
+Frequently Asked Questions
+Answers from the Governing Regulations
+How many semesters are there in the academic year?
+Three semesters: Fall, Spring, and Summer.
+What is the minimum passing requirement for a course?
+60% of the total marks, with at least 30% of the final examination mark.
+What attendance percentage is required to enter the final examination?
+Students must attend at least 75% of the course hours.
+What does the W grade mean?
+It indicates approved withdrawal from the course within the specified period, and the student is not considered to have failed the course.
+What does the I grade mean?
+An incomplete course due to absence from the final examination for an accepted excuse; it is temporarily excluded from the GPA until the next available examination is taken.
+When does a student receive an academic warning?
+When the student obtains a semester GPA below 1.7 in any semester.
+What GPA is required for graduation?
+The cumulative GPA after completing graduation requirements must not be less than 2.0.
+النص التفصيلي لنظام الدراسة والساعات المعتمدة
+Study under the Credit-Hour System In general, the credit-hour system applies to all programs except human medicine programs, which follow the integrated program system.
+Article (1): Program System
+- The official language of instruction is English, and each program regulation determines how students’ English proficiency is verified. Textbooks, exercises, and examinations are also conducted in English.
+- Programs follow the credit-hour (CH) system, which is used in the United States, Canada, and several other countries. It measures contact hours between teaching staff and students during the semester. One credit hour is equivalent to contact hours as follows:
+- One lecture hour per week for a 15-week semester.
+- Two tutorial hours per week for a 15-week semester.
+- Three laboratory hours per week for a 15-week semester.
+- Each contact hour consists of 50 minutes of actual teaching and 10 minutes of break.
+– Expected Values per Semester:
+- From 16 to 19 credit hours.
+- From 25 to 28 contact hours per week for 15 weeks.
+- 750 hours of total student workload.
+- Approximately 30 ECTS units.
+The distribution of course marks is left to the course designer, depending on the nature of the course. Some courses are theoretical and may therefore allocate more marks to examinations, while other courses are more practical and may allocate more marks to projects, tutorials, and laboratory work.
+Article (2): Study Levels:
+Whenever a student completes 20% to 25% of program requirements, they are moved from one level to the next. Some programs may require five levels instead of four, depending on the nature and duration of study.
+Article (3): Semesters and Course Registration
+- The academic year consists of three semesters:
+- The first main semester (Fall) starts on the Saturday of the third week of September and lasts for 15 weeks of teaching followed by 3 weeks of examinations. Courses are registered within three weeks before the semester begins.
+- The second main semester (Spring) starts in February and lasts for 15 weeks followed by 3 weeks of examinations. Courses are registered within one week before the semester begins.
+- The Summer semester starts in late June or early July and lasts for 7 weeks followed by one week of examinations. Courses are registered within one week before the semester begins.
+- Course registration is not final until approved by the academic advisor and endorsed by the program coordinator.
+- New students may enroll in programs throughout the year after fulfilling all program requirements and paying enrollment fees, according to the students’ status.
+- Registration in the Summer Semester
+Article (4): Duration of Study (varies according to each program’s requirements)
+- The minimum permitted duration of study depends on the program duration and confirmation that all graduation requirements have been fulfilled.
+- The maximum permitted duration of study is twice the number of prescribed semesters, excluding semesters frozen for reasons accepted by the university. After this period, the student is dismissed from the university.
+Optional.
+Article (5): Course Registration Requirements
+- A student may register for courses in the main semesters totaling approximately 16 credit hours per semester.
+- The total credit hours may be increased up to the maximum limits according to the following rules, with the approval of the academic supervisor:
+- Up to 21 credit hours for a student with a cumulative GPA greater than or equal to 3.0.
+- Up to 18 credit hours for a student with a cumulative GPA greater than or equal to 2.0 but less than 3.0.
+- A student whose semester cumulative GPA is below 2.0 must have the credit-hour load reduced in the following semester, receive a warning, and may not register for more than 14 credit hours.
+- A student may register in the Summer semester for up to 6 credit hours or two courses, whichever is greater, after approval by the academic advisor.
+- A student may register for one additional course beyond the limits above if it will lead to graduation, subject to the approval of the academic advisor and provided that the course is offered in the student’s program.
+- Late course registration is not final unless seats are available, and the student must comply with the recommendations of the Education Affairs Council approved by the University Council on this matter.
+- Non-degree students may register for courses provided that they pay the prescribed tuition fees for those courses. The student receives a transcript of the courses studied and the grades obtained in accordance with these regulations.
+- Degree-seeking and non-degree students may register as auditors in some courses, provided that seats are available and the applicable academic service fees are paid. Students registered as auditors are not permitted to sit for the final examination of the course.
+Article (7): Clinical Training (if applicable)
+- Students must undertake clinical training according to the duration specified in the program regulation. Training takes place in an industrial or service institution related to the student’s program and must be fully supervised by the relevant department. Training may also be conducted inside the university in a similar environment. Training is implemented according to the following rules:
+- The academic advisor appointed by the program steering committee supervises the follow-up of clinical training.
+- A contact person must be identified at the company or institution training the student.
+- The student must submit a technical report to the academic advisor at the end of the training period.
+- The company or institution training the student should submit a training evaluation form to the academic advisor at the end of the training period.
+- Clinical training is divided into equal periods at the end of the first, second, and third levels. It may also take place in the fourth level during the semester.
+- Clinical training is assessed on a Pass/Fail basis and is not included in the cumulative GPA.
+- The student must pay clinical training supervision fees equivalent to the fees of two credit hours, if applicable, for each academic year in which the student receives training.
+Article (8): Adding and Dropping Courses:
+- A student may add a course during the first week of the main semesters or during the first three days of the Summer semester.
+- A student may drop registered courses and recover the corresponding tuition fees, if any, until the end of the second week of the main semesters or the end of the first week of the Summer semester.
+- Adding or dropping courses must not violate the minimum or maximum number of registered credit hours for each semester.
+Article (9): Withdrawal from Courses:
+  - A student may withdraw from any registered course during the first ten weeks of the main semesters or during the first five weeks of the Summer semester.
+  - The student does not fail the withdrawn course, provided that the withdrawal request is completed and approved within the specified period.
+  - The student receives a W grade for the withdrawn course and may register for the course again, with full attendance and completion of all activities including examinations, in subsequent semesters.
+  - For an elective course, the student may change it in subsequent semesters if they fail or withdraw from it, subject to the approval of the academic advisor and program requirements.
+  - For non-scholarship students, tuition fees for the withdrawn course are non-refundable. When the student registers for the course again, the full tuition fees for that course must be paid. A student who withdraws from an entire semester without registering for any courses must pay the minimum tuition fees equivalent to 12 credit hours.
+  - For scholarship students, these credit hours will be deducted from the scholarship, and the student will be entitled to register for the course free of charge only once.
+Views: 1554

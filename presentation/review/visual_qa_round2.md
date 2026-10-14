@@ -1,0 +1,25 @@
+# Visual QA Round 2 (19 slides, rendered PNG review)
+
+Scale: 1600px = 13.33in, so 120px = 1in; 0.3in = 36px.
+
+| Slide | Severity | Issue | Fix |
+|---|---|---|---|
+| 18 | MED | "International student pathways" card: 3-line body ends with "certificates" about 24px (0.2in) above the card bottom edge. It is visibly tighter than the other five cards and nearly touches the border. | Shorten the copy to 2 lines (e.g. "Pathways for international students, building on rules for foreign certificates"), or reduce the body size by 1pt for all six cards, or move the icon/title up 10px. |
+| 9 | MED | Engineering card: "Mechatronics & Automation · AI / & Machine Learning · Construction · Energy & Electrical Power" breaks after "AI", so "AI" is stranded at the end of line 1 and "& Machine Learning" starts line 2. This reads as "AI &" and splits one program name. | Put each program on its own line (4 lines) or use non-breaking spaces ("AI&nbsp;&&nbsp;Machine&nbsp;Learning"). 4 lines fit the card (about 70px free). |
+| 4, 8 | MED | Section-divider subtitles wrap with a one-word orphan ("outlook" on slide 4, "market" on slide 8). The text box is narrower than the title. | Widen the subtitle box to about 900px, or shorten the text ("Experienced leadership, national reach, global outlook"; "Seven faculties built for tomorrow's labor market"). |
+| 4 | MED | Title "Leadership & Governance" runs into the left edge of the watermark seal. The "e" at x≈1050 overlaps the seal ring, which starts at x≈945. White text over the lighter seal ring loses contrast and looks cluttered. | Shift the watermark right and down by about 80px, or scale it by 85%. The same change applies to slides 8 and 11 for consistency. Slide 11's "Relations" ends at x≈932, just touching the seal. |
+| 7 | LOW | New slide is clean: no overflow, titles and subtitle are aligned with the other slides, and cyan labels on navy are readable. "Dr. Mohamed Yasser Hamdy" wraps with "Hamdy" alone on line 2. The Engineering card has two names, so the card heights look unevenly filled and the other cards have empty bottoms. | Set the name size to 15pt, or write "Dr. Mohamed Y. Hamdy". Optional: vertically balance the card contents. |
+| 7 | LOW | Card gutters are about 30px (0.25in), under the 0.3in guideline. The same applies to the vertical gutters on slides 9, 10, 17 and 18. | Increase the gutters to 36px across the deck, or accept this as the deck's consistent rhythm. |
+| 2 | LOW | Clean. The location row now wraps to 2 lines, which makes the three text rows slightly uneven in height, but spacing stays acceptable. The "Aligned with Egypt Vision 2030" row sits close to the image bottom, which is fine. | None required. |
+| 9 | LOW | Pharmacy card has one short line and about 150px empty. Last-row cards are centred, which is a deliberate 4+3 layout. | None required. Optionally add a second line to the Pharmacy card. |
+| 15 | LOW | 57357 card text fits (4 lines, good padding). The lab photos (cards 2 and 3) show screen-recording UI remnants in the bottom edge (blue bar and logo at about x=700,y=468 and x=1075,y=462). | Crop 10-15px off the bottom of those two photos. |
+| 17 | LOW | Replaced card fits. Within the row the card headings sit at different baselines (1-line vs 2-line titles are vertically centred), so the title position differs between "Port Said University" (y≈263) and "ITI & Creativa" (y≈276). The "titles" orphan sits in the left panel. | Top-align the text in all six cards. Reword the panel text to avoid the one-word last line. |
+| 19 | LOW | Contact line fits inside its box with good margins. The contact text is small (~15pt) for a closing slide. | Raise the contact line to 18pt. The box has room. |
+| 1 | LOW | Footer "International Profile \| 2026" is low-contrast grey on navy and small. The photo crop cuts the sign at the left ("T SAID N.U."). | Lighten the footer text. Shift the photo crop 40px right if the sign matters. |
+| 3 | LOW | Orphans "certificates." and "pharmacy." in the card text. | Trim a word or widen the text box slightly. |
+| 5 | LOW | Orphans "University" and "40 research papers" in the right column. | Widen the text column (it can extend about 10px) or tighten the copy. |
+| 6 | LOW | Navy left panel has a large empty gap between "Former Prime Minister of Egypt" and the bottom paragraph. | Move the paragraph up or add spacing evenly. |
+| 10 | LOW | Photo is separated from the card grid by about 105px, while card gutters are 30px, so the photo looks detached. | Widen the cards, or move the photo left to a 30-36px gutter. |
+| 12 | LOW | Timeline line ends at x≈1487, short of the right margin (1528). The cards have large empty bottoms. | Extend the line to the margin, or reduce the card height. |
+| 13, 16 | LOW | Card gutters are only 18-24px (0.15-0.2in). The slide 16 left photo column ends at y=810 while the card column ends at y=802. | Increase the gutters to 30px+ and align the bottom edges. |
+| 14 | LOW | Connector lines to the hub are very faint (pale blue on near-white). The layout is otherwise balanced and mirrored. | Darken the connector colour a little. |

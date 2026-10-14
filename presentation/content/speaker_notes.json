@@ -1,0 +1,318 @@
+{
+  "title": {
+    "talk": "Good morning, and welcome. It is a pleasure to host you. East Port Said National University is a non-profit national university in Sinai, created under Egypt's higher-education development strategy and aligned with Egypt Vision 2030. Our slogan is \"We Live the Future Today\", and one of our four stated pillars is global openness: international partnerships and exchange opportunities. That pillar is the reason we are speaking with you. In the next few minutes we will show you who we are, who leads us, what we teach, and the international relationships we are building, with candor about where we are today and where we would like to go together.",
+    "caveats": [
+      "\"Fourth-generation university\" is the university's own description of itself."
+    ],
+    "likely_question": "When was the university founded?",
+    "suggested_answer": "The founding date is not published on our official website, so I would rather not quote a figure from memory. We would be glad to confirm it in writing after this meeting.",
+    "sources": [
+      "S1",
+      "S3",
+      "S5",
+      "S24"
+    ]
+  },
+  "glance": {
+    "talk": "Here is EPNU at a glance. We have seven faculties, more than thirteen academic programs, and a student body that our website puts at over 5,200. English is our official language of instruction, with English textbooks, exercises and exams, which matters for international colleagues. We are based in East Port Said, in Sinai, on a 44-feddan campus, and the university is described as a driver of development there. Our mission is simple: provide distinguished academic programs, strengthen scientific research and community service, and discover and develop students' talents to help build a better future. We describe ourselves as a fourth-generation university, focused on excellence in education and research.",
+    "caveats": [
+      "\"5,200+\" is a website counter, not an audited figure; say \"over 5,200 according to our website\".",
+      "Say \"13+ programs\"; the Programs page lists 13 but faculty pages show extra tracks.",
+      "The founding date is not published.",
+      "The campus figures (including the 44 feddans) come from a Ministry of Higher Education report shared on the university's Facebook page (S51); the campus is in an early construction phase."
+    ],
+    "likely_question": "Is the 5,200 student figure official?",
+    "suggested_answer": "It is the figure shown on our website, not an audited number, so please treat it as an approximate indication of scale.",
+    "sources": [
+      "S1",
+      "S3",
+      "S5",
+      "S7",
+      "S24",
+      "S51"
+    ]
+  },
+  "why": {
+    "talk": "Why partner with EPNU? First, our setting: we are in East Port Said, on the Suez Canal side of Egypt, which is a natural meeting point for regional cooperation. Second, international academic habits are already part of daily life here: English-medium teaching, a credit-hour system, and ECTS-based Medicine. Third, our programs look to the future, with strong emphasis on artificial intelligence and health. Fourth, we have strong national backing: we are one of the national universities created under Egypt's higher-education strategy, and our Board is chaired by a former Prime Minister of Egypt. These are the foundations on which international partners can build with confidence.",
+    "caveats": [
+      "\"Strategic location\" and \"gateway university\" are our analysis, not website claims; present them as an opinion.",
+      "Do not imply the national backing means any international agreement beyond what is documented."
+    ],
+    "likely_question": "What does national backing mean in practice?",
+    "suggested_answer": "We are part of Egypt's national-university system, and our Board includes a former Prime Minister, former governors, senior academics and business leaders. The Minister has also publicly asked national universities to expand international cooperation.",
+    "sources": [
+      "S1",
+      "S3",
+      "S4",
+      "S7",
+      "S11",
+      "S21"
+    ]
+  },
+  "sec-gov": {
+    "talk": "Let us now turn to the people who guide the university. We will meet our President, whose career spans several countries, and then the Board of Trustees, which brings together government, academia and industry in one room.",
+    "caveats": [],
+    "likely_question": "Who makes the strategic decisions?",
+    "suggested_answer": "The Board of Trustees, which meets regularly, sets the broad direction. Its 10th meeting was held on 17 March 2026.",
+    "sources": [
+      "S4",
+      "S23"
+    ]
+  },
+  "president": {
+    "talk": "Our President, Professor Atef Alam El-Din, brings a genuinely international profile. He earned his PhD in Engineering at Leningrad University, in the former Soviet Union, after his bachelor's and master's degrees at Menoufia University in Egypt. He sits on the Steering Committee of the Egyptian-Japanese Education Initiative 2025 and has organized several specialized international scientific conferences. He has served as Acting President of Port Said University and Vice President of Suez Canal University's Port Said branch, and is a certified quality reviewer for Egypt's national accreditation authority, NAQAAE. He has published about forty research papers. His experience gives us credibility on both sides of any partnership.",
+    "caveats": [
+      "The website is inconsistent on the Senate role: the President's page lists it as current, while the Board page and March 2026 news say \"former\". Say \"has served on Senate committees\".",
+      "The Egyptian-Japanese Initiative is a role held by the President, not a signed university agreement with Japan.",
+      "The NAQAAE reviewer status is a national quality-authority credential."
+    ],
+    "likely_question": "Does the President's Japan role mean EPNU has a Japanese partner?",
+    "suggested_answer": "Not yet. It is a steering-committee role in an education initiative, and we see it as a door to Japanese cooperation rather than an existing agreement.",
+    "sources": [
+      "S3",
+      "S4"
+    ]
+  },
+  "board": {
+    "talk": "Our Board of Trustees is chaired by Engineer Ibrahim Mahlab, a former Prime Minister of Egypt. Around him sit former governors, including of Port Said, the President of Port Said University, former and current university leaders, a medical society president, the head of the Port Said Chamber of Commerce, and business leaders in industry and pharmaceuticals. This mix of government, academia and trade is a useful base for partnerships, which is our own reading rather than a formal statement. The Board has met on our campus and at Port Said University, and it has discussed practical matters such as student residences and scholarship rules.",
+    "caveats": [
+      "The Board page says it has 12 members but lists 11.",
+      "The Vice Chairman is named differently across pages (Maj. Gen. Ahmed Abdullah on the homepage; Prof. Mohamed El-Kenawy in news); avoid naming one.",
+      "Maj. Gen. Ibrahim Abu Limoun is listed as former Governor of Menoufia but described elsewhere as Governor of Port Said; Prof. Hegazy is described as both a pediatrics pioneer and an engineering professor. Do not give individual details for these two.",
+      "\"Bridging government, academia and industry\" is our analysis."
+    ],
+    "likely_question": "Who is the Vice Chairman of the Board?",
+    "suggested_answer": "Our website names different people on different pages, so I would prefer to confirm this with the Board secretariat rather than give you an uncertain answer.",
+    "sources": [
+      "S1",
+      "S4",
+      "S23",
+      "S24"
+    ]
+  },
+  "leadership": {
+    "talk": "Behind every program is a named person you can speak to. Engineering is led by Dr. Mohamed El-Sakka for Mechatronics and Automation, and Dr. Asmaa Rady for AI and Machine Learning and Construction. Computer Science and IT, Medicine, Pharmacy, Applied Health Sciences and Business Sciences each have a director too. Beyond the faculties, our university offices carry institutional responsibility: Quality Assurance, Training and Professional Development, and the Secretary-General. For partners, the key point is simple. The International Relations Office, directed by Dr. Mohamed El-Sakka, is your point of contact. It is where partnership conversations begin, and where they are followed through.",
+    "caveats": [
+      "Titles are shown as \"Dr.\" because our sources mix ranks (Dr., Associate Professor, Assistant Professor); do not add rank titles from memory.",
+      "The Faculty of Arts program directors are not yet announced; say so plainly if asked.",
+      "The names come from the university's official Facebook page (S51), where post dates are hidden, so we cannot say exactly when each appointment took effect.",
+      "Several people hold more than one role (for example Dr. Mohamed El-Sakka, Dr. Osama El-Baksawy and Dr. Asmaa Rady); this is as shown on the slide."
+    ],
+    "likely_question": "Who is the right person to contact about a partnership?",
+    "suggested_answer": "The International Relations Office, directed by Dr. Mohamed El-Sakka. He takes part in our agreement signings, so he can connect you with the right faculty or program director.",
+    "sources": [
+      "S51"
+    ]
+  },
+  "sec-acad": {
+    "talk": "Now to the academic heart of EPNU. We will look at our seven faculties and their programs, and then at the international standards that already shape how we teach and administer studies.",
+    "caveats": [],
+    "likely_question": "What language are programs taught in?",
+    "suggested_answer": "English is the official language of instruction, with textbooks, exercises and exams in English.",
+    "sources": [
+      "S7"
+    ]
+  },
+  "faculties": {
+    "talk": "We have seven faculties. Engineering offers mechatronics and automation, AI and machine learning, and energy and electrical power. Medicine is a five-year program plus a two-year internship, ECTS-based and taught in English. Pharmacy offers clinical pharmacy. Computer Science and IT covers computer science, artificial intelligence, data science and biomedical informatics. Applied Health Sciences focuses on laboratory technology and medical imaging. Business Sciences and Arts complete the picture. For international relations, one program stands out: English Language and Translation in the Faculty of Arts, covering interpreting, intercultural communication, and career paths in cultural and diplomatic institutions.",
+    "caveats": [
+      "The Programs page lists 13 programs; faculty pages show extra tracks (Energy and Electrical Power, Medical Imaging). Say \"13+\".",
+      "The Arabic page for Applied Health Sciences lists six specialties, more than the English page.",
+      "Do not quote student numbers per faculty; none are published."
+    ],
+    "likely_question": "Which programs are most suited to joint activity?",
+    "suggested_answer": "Based on what we publish, AI and health are our strongest areas, and the Clinical Pharmacy program already leads our first international agreement. English Language and Translation is also a natural fit for cultural and diplomatic cooperation.",
+    "sources": [
+      "S3",
+      "S5",
+      "S9",
+      "S10",
+      "S21",
+      "S38",
+      "S39"
+    ]
+  },
+  "standards": {
+    "talk": "Many partners ask whether we are ready to work internationally. Our regulations already contain the building blocks. Teaching is in English. We use credit hours, where a semester's workload of 750 hours is about 30 ECTS credits, and Medicine follows ECTS. Our rules allow non-degree registration, auditor registration, and transfer with course equivalency. Graduation certificates are issued in Arabic and English. Admission rules recognize routes including British IGCSE, the Nile International Certificate and recognized foreign certificates, and accept a passport as ID. We also host a Huawei ICT Academy, linked to our AI and machine learning program.",
+    "caveats": [
+      "The 2026-27 intake call lists only Egyptian Thanaweya Amma, Al-Azhar, STEM and Nile Schools certificates, and says the university does not deal with agents. Do not promise international intake this year.",
+      "Mobility-ready rules exist on paper; no exchange or credit transfer with a foreign university has been reported.",
+      "Non-native speakers of Arabic must show Arabic proficiency; no minimum English score is published.",
+      "Do not describe the Huawei Academy as a signed agreement; the briefing only describes training offered."
+    ],
+    "likely_question": "Can international students apply this year?",
+    "suggested_answer": "Our admission rules provide for foreign certificates, but the 2026-27 intake call lists only Egyptian-type certificates, so an international admissions track is something we would like to develop with partners.",
+    "sources": [
+      "S7",
+      "S8",
+      "S9",
+      "S21",
+      "S47",
+      "S48"
+    ]
+  },
+  "sec-ir": {
+    "talk": "We now come to the part most relevant to today's meeting: our international relations. We will begin with the national mandate, then our first partner, our wider network, and finally our students.",
+    "caveats": [],
+    "likely_question": "Is there a dedicated International Relations Office?",
+    "suggested_answer": "Yes. The International Relations Office is directed by Dr. Mohamed El-Sakka, who takes part in our agreement signings. It is the point of contact for partners. It does not yet have its own page on our website.",
+    "sources": [
+      "S49",
+      "S51"
+    ]
+  },
+  "mandate": {
+    "talk": "Internationalization is not only our ambition; it is a national priority. In March 2026 our Academic Affairs Council reviewed the Minister's directives to national universities, including enhancing international cooperation and academic partnerships. On 30 June, the National Universities Council, chaired by Minister Abdel Aziz Konsowa, stressed international rankings, partnerships with global universities, international publishing, joint and dual degrees, and more international students. It approved several agreements between Egyptian national universities and international institutions. In July, the Port Said University Council discussed similar goals. Our own partnership goals include opening pathways for scientific and research exchange with regional and international universities.",
+    "caveats": [
+      "The July item is the Port Said University Council; the post does not say these are EPNU's own efforts.",
+      "The agreements approved on 30 June were between Egyptian national universities and international institutions in general; do not say they were all EPNU's.",
+      "\"International cooperation\" is a stated objective, not evidence of delivered agreements."
+    ],
+    "likely_question": "Did EPNU sign agreements at the National Universities Council?",
+    "suggested_answer": "The Council approved several agreements across national universities. Our website says we are working along this vision, but it does not name EPNU agreements from that meeting.",
+    "sources": [
+      "S2",
+      "S11",
+      "S41",
+      "S42"
+    ]
+  },
+  "upm": {
+    "talk": "Our first documented international academic cooperation is with Universiti Putra Malaysia. A signed partnership agreement provides a framework that includes faculty and student exchange, and our Faculty of Pharmacy, through the Clinical Pharmacy program, leads it. The first activity was an international webinar, Global Horizons, hosted by UPM's Sarawak campus together with Port Said University and EPNU, followed by our first joint virtual scientific meeting where our students presented research. Malaysian press outlets praised our students' participation. We announced that we would host the second webinar edition on 29 April 2026. The next natural step is real exchange of faculty and students.",
+    "caveats": [
+      "No faculty or student exchange has actually taken place; the agreement provides a framework only.",
+      "The 2nd webinar was announced for 29 April 2026; the website does not confirm it happened.",
+      "UPM is the only international university partner documented publicly.",
+      "Avoid exact dates for the \"first cooperation\" post; many posts share the batch upload date of 8 July 2026."
+    ],
+    "likely_question": "Has any exchange with UPM happened yet?",
+    "suggested_answer": "Not yet. The agreement includes a framework for faculty and student exchange, and so far the activity has been the webinar and a joint virtual research meeting. Exchange is the next step we would like to activate.",
+    "sources": [
+      "S12",
+      "S13",
+      "S38"
+    ]
+  },
+  "network": {
+    "talk": "This map shows the directions in which EPNU is reaching out, and each spoke represents a different depth of relationship, which I will be clear about. Malaysia is our signed agreement. With Japan, our President sits on an education initiative's steering committee. With Europe, we have invited our researchers to a Horizon Europe event. We took part in the Union of Russian and Arab University Rectors forum. Our faculty include a PhD from Exeter in the UK and a research fellowship at Politecnico di Torino in Italy. Students trained at Saudi German Hospital, a network across the Middle East and North Africa, and we host a Huawei ICT Academy.",
+    "caveats": [
+      "Only Malaysia (UPM) is a signed agreement; do not call the other spokes partnerships.",
+      "Horizon Europe was an invitation to attend; the Rectors' forum was participation.",
+      "UK and Italy reflect individual faculty credentials (Exeter, Newton-Mosharafa, Politecnico di Torino), not institutional agreements.",
+      "The Italian Ambassador attended the Zohr School graduation that our President also attended; that was attendance only, not a partnership, and the school was created with other organizations.",
+      "The 5th Rectors' forum and Horizon Europe items carry an 8 July 2026 posting date that may not be the event date."
+    ],
+    "likely_question": "How many signed international agreements does EPNU have?",
+    "suggested_answer": "One is publicly documented, with Universiti Putra Malaysia. National policy is pushing universities to expand, and this meeting is part of our effort to do so.",
+    "sources": [
+      "S3",
+      "S9",
+      "S12",
+      "S13",
+      "S14",
+      "S15",
+      "S19",
+      "S43"
+    ]
+  },
+  "industry": {
+    "talk": "Beyond universities, we work with partners who add regional and global reach. Our Huawei ICT Academy offers training in artificial intelligence, cloud computing, networks, the Internet of Things and modern communications, and is managed by Dr. Asmaa Rady. Applied Health Sciences students trained in the laboratories of Saudi German Hospital in Cairo, part of a network operating across several countries in the region. Our Faculty of Pharmacy lists strategic partners from industry, including EIPICO and EVA Pharma, and has signed protocols supporting innovation and entrepreneurship. Most recently, we signed a memorandum of understanding with the Children's Cancer Hospital 57357, together with Prof. Sherif Abouelnaga, CEO of the 57357 Group. It covers medical education, practical training, research and community service.",
+    "caveats": [
+      "The 57357 MoU is signed, as reported on the university's official Facebook page (S51); it is not yet on the website. Describe its scope (education, training, research, community service) but do not promise specific programs or timelines.",
+      "Pharmacy industry partners are listed strategic partners for training and entrepreneurship, not described as international agreements.",
+      "Saudi German Hospital involvement is student training; do not call it a research agreement.",
+      "The Huawei Academy description covers training only; no certification or agreement terms are published."
+    ],
+    "likely_question": "Does the Huawei Academy offer official Huawei certification?",
+    "suggested_answer": "Our website describes training in AI, cloud, networks, IoT and communications, but it does not state certification details, so I would prefer to confirm that with the Faculty of Engineering.",
+    "sources": [
+      "S9",
+      "S10",
+      "S19",
+      "S32",
+      "S34",
+      "S38",
+      "S51"
+    ]
+  },
+  "students": {
+    "talk": "Our students are already stepping onto the international stage, mostly through international-branded events in Egypt. An Engineering team qualified for and competed in the AI Hackathon at the first International Conference on Innovations and Applications of AI at Damietta University. Another team passed the second judging stage at ITC-Egypt 2026. Medical students attended the 11th International Pediatric Conference. Our computer science team qualified for the Egyptian Collegiate Programming Contest. At the Suez Canal University student research conference, we presented seven papers and placed second. Our pharmacy students also presented research alongside Malaysian counterparts.",
+    "caveats": [
+      "Most of these events were held in Egypt; do not imply travel abroad.",
+      "Do not say the teams won the hackathon or ITC-Egypt; they qualified, competed or passed a stage. Second place applies to the student research conference.",
+      "No student or staff mobility abroad has been reported."
+    ],
+    "likely_question": "Have your students studied abroad?",
+    "suggested_answer": "No student mobility has been reported so far. Their international exposure has come through conferences, competitions and the Malaysian webinar, and exchange agreements are how we hope to extend it.",
+    "sources": [
+      "S2",
+      "S12",
+      "S13",
+      "S17",
+      "S18",
+      "S22",
+      "S44",
+      "S45",
+      "S46"
+    ]
+  },
+  "national": {
+    "talk": "Our international ambitions rest on a strong national base. Our main academic partner is Port Said University. Their cooperation with our Pharmacy faculty produced 23 research papers in 2024-2025, with most published in reputable international journals, including Q1, Q2 and Q3 journals. We also work with ITI and Creativa on digital skills and with the Suez Canal Authority Training Center, which delivered a first practical program for our Engineering preparatory-year students. We have signed protocols with Ahl Masr Hospital, for clinical training, and with BEDO, for industrial training and joint applied research. We have also visited the Armed Forces College of Medicine, and we host visits from the Port Said Governorate, the General Authority for Healthcare, and the National Media Authority.",
+    "caveats": [
+      "The briefing gives 23 papers as the headline, but its breakdown (20 by faculty and 2 by students) adds to 22; quote only \"23 papers\" and do not go into the split.",
+      "\"Including Q1, Q2 and Q3\" means some, not all, were in those quartiles.",
+      "The Armed Forces College of Medicine and Healthcare Authority items are visits or talks, not signed agreements.",
+      "The Ahl Masr Hospital and BEDO protocols are signed, per the university's official Facebook page (S51); describe their scope (training and joint applied research) without promising outcomes."
+    ],
+    "likely_question": "Is Port Said University a formal partner?",
+    "suggested_answer": "Our website describes it as our main academic partner, with research cooperation and mutual honoring of Presidents. It does not describe a single named agreement in the material we have.",
+    "sources": [
+      "S2",
+      "S25",
+      "S26",
+      "S27",
+      "S28",
+      "S30",
+      "S31",
+      "S33",
+      "S35",
+      "S36",
+      "S37",
+      "S51"
+    ]
+  },
+  "opportunities": {
+    "talk": "Finally, here is where we would love to build together. These are opportunities we see, rather than commitments already made. First, activating student and staff exchange, beginning with our UPM framework and extending to Engineering, Computer Science and Business. Second, joint and dual degrees, which the Minister has named as a priority. Third, joint research and Horizon Europe consortia. Fourth, visiting-professor schemes. Fifth, pathways for international students, building on our existing foreign-certificate rules. Sixth, hubs in AI, health and maritime logistics, drawing on our Huawei Academy, hospital links and location. We would be delighted to hear which of these resonates with you.",
+    "caveats": [
+      "This slide is our analysis of gaps and opportunities, not a list of existing programs or promised commitments.",
+      "Scholarships are currently domestic only, and recent academic vacancy calls required Egyptian nationality or secondment from Egyptian universities; do not suggest foreign scholarships or posts exist.",
+      "Horizon Europe engagement to date is an invitation only."
+    ],
+    "likely_question": "Do you offer scholarships for exchange students?",
+    "suggested_answer": "Our current scholarships are for domestic categories only. International and exchange scholarships are something we would like to design together with partners.",
+    "sources": [
+      "S6",
+      "S8",
+      "S11",
+      "S15",
+      "S48",
+      "S50"
+    ]
+  },
+  "closing": {
+    "talk": "Thank you for your time and your interest. EPNU is a young university with clear ambition, a solid national base, a first international partner, and a genuine wish to widen the circle. We believe the best partnerships begin with honest conversation about what each side can offer. Your point of contact is our International Relations Office, directed by Dr. Mohamed El-Sakka, and I would warmly invite you to speak with him or with me after the session, so that we can turn today's discussion into concrete next steps. Our website, epnu.edu.eg, also has a contact form with a partnerships and cooperation enquiry type. We Live the Future Today, and we would be honored to build it with you.",
+    "caveats": [
+      "The International Relations Office (Director: Dr. Mohamed El-Sakka) is confirmed by the university's Facebook page (S51); the website has no dedicated page for it yet.",
+      "The contact form lists one email and a partnerships enquiry type; do not invent additional contact details for the office.",
+      "Do not claim pending MoUs or exchanges as agreed."
+    ],
+    "likely_question": "Who should we contact to follow up?",
+    "suggested_answer": "Please contact our International Relations Office, directed by Dr. Mohamed El-Sakka. The website's contact form, with its Partnerships and cooperation enquiry type, is also available, and we will share direct details during this visit.",
+    "sources": [
+      "S1",
+      "S2",
+      "S49",
+      "S51"
+    ]
+  }
+}

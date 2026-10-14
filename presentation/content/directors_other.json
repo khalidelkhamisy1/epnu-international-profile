@@ -1,0 +1,438 @@
+[
+  {
+    "name_en": "Rasha Anany",
+    "name_en_variants": [
+      "Rasha Ibrahim Anany"
+    ],
+    "name_ar": "رشا عناني",
+    "title": "Prof. Dr.",
+    "title_variants": [
+      "Prof. Dr. (EN, most posts)",
+      "Dr. (EN, 2024-10-17 appointment headline)"
+    ],
+    "role": "Vice President for Academic Affairs; also styled Vice President for Education and Student Affairs and General Supervisor (Supervisor) of the Education and Student Affairs Sector",
+    "faculty_or_unit": "University leadership (Vice Presidency; Education and Student Affairs Sector)",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\779.txt",
+        "id": "779",
+        "date": "2024-10-17",
+        "quote": "Dr. Rasha Ibrahim Anany Appointed Supervisor of the Education and Student Affairs Sector"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\688.txt",
+        "id": "688",
+        "date": "2024-10-24",
+        "quote": "Prof. Dr. Rasha Anany, General Supervisor of the Education and Student Affairs Sector"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\746.txt",
+        "id": "746",
+        "date": "2024-10-20",
+        "quote": "Prof. Dr. Rasha Ibrahim Anany, Supervisor of the Education and Student Affairs Sector"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\554.txt",
+        "id": "554",
+        "date": "2024-11-17",
+        "quote": "Prof. Dr. Rasha Anany, Vice President for Education and Student Affairs"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1275.txt",
+        "id": "1275",
+        "date": "2024-12-18",
+        "quote": "Prof. Dr. Rasha Anany, Vice President for Academic Affairs"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\566.txt",
+        "id": "566",
+        "date": "2024-11-15",
+        "quote": "Prof. Dr. Rasha Anany, Vice President of the University"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\1238_رحلة-إلى-أعماق-ثقافات-مصر.txt",
+        "id": "1238",
+        "date": "2024-12-17",
+        "quote": "رشا عنانى .. نائب رئيس الجامعة للشئون الأكاديمية"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Four role labels across 2024 sources: 'Supervisor' (2024-10-17), 'General Supervisor' (2024-10-24), 'Vice President for Education and Student Affairs' (2024-11-17), 'Vice President for Academic Affairs' (2024-12-18). The Arabic name is spelled 'رشا عنانى' and 'رشا عناني' in different files. Last dated mention 2024-12-18. Not to be confused with Dr. Rasha Emad (Laboratory program). POSSIBLE VACANCY: post 5477 (AR, dated 2026-09-26) advertises the post 'نائب رئيس الجامعة للشئون الأكاديمية' as open until 29 Sep 2026, so the current holder is not confirmed. Only one EPNU Vice President is named in the corpus."
+  },
+  {
+    "name_en": "Ghada Shazly",
+    "name_en_variants": [],
+    "name_ar": "غادة شاذلي",
+    "title": "Ms.",
+    "title_variants": [
+      "Ms."
+    ],
+    "role": "Secretary-General of the University (appointed 2026)",
+    "faculty_or_unit": "University administration (Secretary-General)",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4485.txt",
+        "id": "4485",
+        "date": "2026-07-01",
+        "quote": "Ms. Ghada Shazly on her appointment as Secretary-General"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5371.txt",
+        "id": "5371",
+        "date": "2026-09-10",
+        "quote": "Ms. Ghada Shazly, Secretary-General of the University"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\4485_قرار-بتعيين-الأستاذة-غادة-شاذلي-أمين_.txt",
+        "id": "4485",
+        "date": "2026-07-01",
+        "quote": "بتعيين الأستاذة غادة شاذلي أمينًا عامًا"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Appointed by decision of the Board of Trustees chairman, per post 4485 (2026-07-01). The Arabic spelling is 'شاذلي' in the appointment post and 'شاذلى' in post 5371. Replaces Moheb Fathy Heiba (see next record)."
+  },
+  {
+    "name_en": "Moheb Fathy Heiba",
+    "name_en_variants": [],
+    "name_ar": "محب فتحى هيبة",
+    "title": "Mr.",
+    "title_variants": [
+      "Mr."
+    ],
+    "role": "Secretary-General of the University (former; last named 2024-12-17)",
+    "faculty_or_unit": "University administration (Secretary-General)",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\746.txt",
+        "id": "746",
+        "date": "2024-10-20",
+        "quote": "The University Secretary-General, Mr. Moheb Fathy Heiba"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\1238.txt",
+        "id": "1238",
+        "date": "2024-12-17",
+        "quote": "Mr. Moheb Fathy Heiba, Secretary-General of the University"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\1238_رحلة-إلى-أعماق-ثقافات-مصر.txt",
+        "id": "1238",
+        "date": "2024-12-17",
+        "quote": "محب فتحى هيبه .. أمين عام الجامعة"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Last dated mention 2024-12-17. Succeeded by Ghada Shazly (post 4485, 2026-07-01). No explicit end-of-tenure text in the corpus. Arabic spelling 'هيبة' vs 'هيبه' is a variant."
+  },
+  {
+    "name_en": "Osama El-Baksawy",
+    "name_en_variants": [],
+    "name_ar": "أسامة محمد مصطفى البقساوي",
+    "title": "Assoc. Prof. Dr.",
+    "title_variants": [
+      "Assoc. Prof. Dr. (EN post 2676, 2026-04-18)",
+      "Assistant Professor (EN post 5340, 2026-08-26)",
+      "الأستاذ المساعد الدكتور (AR post 4503)",
+      "أ.د (AR pages/3154 name line; conflicts with 'أستاذ مساعد' on the same page)"
+    ],
+    "role": "Director of the Quality Assurance Center (Arabic sources only); also Director of the Computer Science Program",
+    "faculty_or_unit": "University Quality Assurance Center; Computer Science program (Faculty of Computer Science and Information Technology)",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\4503_جامعة-شرق-بورسعيد-الأهلية-تبحث-تعزيز-ا.txt",
+        "id": "4503",
+        "date": "2026-07-01",
+        "quote": "ومدير مركز ضمان الجودة بالجامعة"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\pages\\3154_faculty-of-computer-sciences.txt",
+        "id": "3154",
+        "date": "2026-06-20",
+        "quote": "مدير البرنامج ورئيس مركز ضمان الجودة بالجامعة"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2676.txt",
+        "id": "2676",
+        "date": "2026-04-18",
+        "quote": "Assoc. Prof. Dr. Osama El-Baksawy, Director of the Computer Science Program"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5340.txt",
+        "id": "5340",
+        "date": "2026-08-26",
+        "quote": "Dr. Osama El-Baksawy, Assistant Professor and Director of the Computer Science Programme"
+      }
+    ],
+    "transliterated": false,
+    "notes": "The Quality Assurance Center role appears only in Arabic sources (AR post 4503, dated 2026-07-01, and AR pages/3154); no English source mentions it. Conflicts: AR pages/3154 places him in 'كلية الهندسة - قسم القوى والآلات الكهربية' (Faculty of Engineering), while the English pages place him in Computer Science. AR pages/3154 also labels him 'أ.د' (Prof.) while other sources say Assistant/Assoc. Prof. Name spelled 'El-Baksawy' (EN) and 'البقساوي' (AR). Not a Business or Arts program director."
+  },
+  {
+    "name_en": "Asmaa Rady Ahmed",
+    "name_en_variants": [
+      "Asmaa Rady",
+      "Dr. Eng. Asmaa Rady Ahmed"
+    ],
+    "name_ar": "أسماء راضي",
+    "title": "Dr. Eng.",
+    "title_variants": [
+      "Dr. Eng. (EN pages/1058)",
+      "Dr. (EN posts 2767, 5222)"
+    ],
+    "role": "Manager of the university's Huawei ICT Academy branch (manager title is inferred from 'manages the Huawei Academy branch'); also Director of the Artificial Intelligence and Machine Learning Engineering Program",
+    "faculty_or_unit": "Huawei ICT Academy (university branch); Faculty of Engineering (AI and ML Engineering program)",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\1058.txt",
+        "id": "1058",
+        "date": "2024-12-28",
+        "quote": "Dr. Asmaa Rady serves as Director of the Artificial Intelligence and Machine Learning Engineering Program at the Faculty of Engineering and also manages the university’s Huawei Academy branch."
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\pages\\1058_faculty-of-engineering.txt",
+        "id": "1058",
+        "date": "2024-12-28",
+        "quote": "تشغل د/ أسماء راضي منصب مدير برنامج هندسة الذكاء الاصطناعي وتعلم الآلة"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2767.txt",
+        "id": "2767",
+        "date": "2026-05-09",
+        "quote": "Dr. Asmaa Rady"
+      }
+    ],
+    "transliterated": false,
+    "notes": "The Huawei role is stated only as 'manages the university's Huawei Academy branch' (EN pages/1058, dated 2024-12-28; AR pages/1058 says 'تتولى إدارة فرع أكاديمية هواوي بالجامعة'). The title 'Huawei ICT Academy manager' is therefore inferred, not literal. Program titles differ: 'AI and Machine Learning Engineering' (2024) vs 'AI and ML Engineering and Construction Engineering' (2026-05-09). She is not a Business or Arts program director."
+  },
+  {
+    "name_en": "Ahmed El-Qasrawy",
+    "name_en_variants": [],
+    "name_ar": "أحمد القصراوي",
+    "title": "Mr.",
+    "title_variants": [
+      "Mr."
+    ],
+    "role": "Director of Public Relations and Marketing",
+    "faculty_or_unit": "Public Relations and Marketing Department",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5371.txt",
+        "id": "5371",
+        "date": "2026-09-10",
+        "quote": "Mr. Ahmed El-Qasrawy, Director of Public Relations and Marketing at the University"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\5371_وفد-من-الهيئة-الوطنية-للإعلام-في-ضيافة.txt",
+        "id": "5371",
+        "date": "2026-09-10",
+        "quote": "مدير إدارة العلاقات العامة والتسويق بالجامعة"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Only source is the 2026-09-10 media-delegation post. The EN title is 'Public Relations and Marketing', so the role name is a combined title."
+  },
+  {
+    "name_en": "Ehab Abu El-Maati",
+    "name_en_variants": [
+      "Captain Ehab Abu El-Maati (EN posts/664, 2024-10-30)"
+    ],
+    "name_ar": "إيهاب أبو المعاطي",
+    "title": "Mr.",
+    "title_variants": [
+      "Mr.",
+      "Captain (EN posts/664)"
+    ],
+    "role": "Director of the Student Welfare Department (Student Welfare director); AR pages/4122 (2026) labels him Director of the Student Activities Office",
+    "faculty_or_unit": "Student Welfare Department (إدارة رعاية الطلاب) / Student Activities Office",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\551.txt",
+        "id": "551",
+        "date": "2024-11-22",
+        "quote": "Mr. Ehab Abu El-Maati, Director of the Student Welfare Department"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\513.txt",
+        "id": "513",
+        "date": "2024-11-28",
+        "quote": "led by Mr. Ehab Abu El-Maati, Director of the Student Welfare Department"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\485_competitive-programming.txt",
+        "id": "485",
+        "date": "2024-12-04",
+        "quote": "بقيادة الاستاذ/ ايهاب أبو المعاطي مدير ادارة رعاية الطلاب"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\pages\\4122_student-affairs.txt",
+        "id": "4122",
+        "date": "2026-06-27",
+        "quote": "مدير مكتب النشاط الطلابي"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Conflict: the 2026-06-27 Student Affairs page (AR pages/4122) lists the same name under 'مكتب النشاط الطلابي' (Student Activities Office), while 2024 posts call the unit the Student Welfare Department. Unresolved: EN posts/590 (2024-11-12) names a 'director Mohamed El-Malky' as present under Student Welfare patronage; his role is not stated, so he is not recorded as a separate director."
+  },
+  {
+    "name_en": "Mohamed Zangeer",
+    "name_en_variants": [],
+    "name_ar": "محمد زنجير",
+    "title": "Mr.",
+    "title_variants": [
+      "Mr."
+    ],
+    "role": "Director of Student Affairs (Student Affairs Administration)",
+    "faculty_or_unit": "Student Affairs Administration (إدارة شئون الطلاب)",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\4122.txt",
+        "id": "4122",
+        "date": "2026-06-27",
+        "quote": "Director of Student Affairs"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\ar\\posts\\746_اجتماع-مجلس-شؤون-التعليم-والطلاب.txt",
+        "id": "746",
+        "date": "2024-10-20",
+        "quote": "مدير شؤون الطلاب المركزية بالجامعة"
+      }
+    ],
+    "transliterated": false,
+    "notes": "Extra record not in the requested list; included because the key page 4122 names him. Title in AR post 746 (2024-10-20) is 'مدير شؤون الطلاب المركزية'. Current per the 2026-06-27 page."
+  },
+  {
+    "name_en": "Mohamed Osama",
+    "name_en_variants": [
+      "Mohamed Osama Abdelkader (full name from AR page 5414)"
+    ],
+    "name_ar": "م. محمد أسامة عبدالقادر",
+    "title": "Eng.",
+    "title_variants": [
+      "Eng.",
+      "م."
+    ],
+    "role": "Director of the Systems and Applications Development Unit, Center for Information Systems and Technology (unit head, not the center director)",
+    "faculty_or_unit": "Center for Information Systems and Technology (IT Center) - Systems and Applications Development Unit",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5421.txt",
+        "id": "5421",
+        "date": "2026-09-19",
+        "quote": "Eng. Mohamed Osama, Director of the Systems and Applications Development Unit"
+      },
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\5414.txt",
+        "id": "5414",
+        "date": "2026-09-19",
+        "quote": "م. محمد أسامة عبدالقادر"
+      }
+    ],
+    "transliterated": false,
+    "notes": "The IT Center's own director is NOT named anywhere in the corpus (see the separate null record). Mohamed Osama is recorded as the named unit head only. The EN name 'Mohamed Osama' comes from post 5421; the full name is from en_rendered/pages/5414, which contains Arabic-language content. Do not confuse with 'Mohamed Osama El-Araby' (community leader, post 2793)."
+  },
+  {
+    "name_en": "Tayseer El-Sayed Metwally",
+    "name_en_variants": [],
+    "name_ar": "تيسير السيد متولي",
+    "title": "Mr.",
+    "title_variants": [
+      "أ. (AR)"
+    ],
+    "role": "Director of the Operations and Technical Support Unit, Center for Information Systems and Technology",
+    "faculty_or_unit": "Center for Information Systems and Technology - Operations and Technical Support Unit",
+    "sources": [
+      {
+        "file": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\5414.txt",
+        "id": "5414",
+        "date": "2026-09-19",
+        "quote": "أ . تيسير السيد متولي"
+      }
+    ],
+    "transliterated": true,
+    "notes": "Name appears only in Arabic (en_rendered/pages/5414). The English transliteration is proposed by the agent. Unit head, not center director."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Program Director - Accounting and Software Applications",
+    "faculty_or_unit": "Faculty of Business Sciences",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: EN+AR pages 4176 (Business), 4174 (Arts), 7 and 10 (program listings), and every EN/AR post and page matching 'Director', 'Dean', 'مدير', 'عميد' with the program names searched in both languages. The program page lists objectives and fields but no director."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Program Director - Digital Marketing and E-Management",
+    "faculty_or_unit": "Faculty of Business Sciences",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: EN+AR pages 4176 (Business), 4174 (Arts), 7 and 10 (program listings), and every EN/AR post and page matching 'Director', 'Dean', 'مدير', 'عميد' with the program names searched in both languages. The program page lists objectives and fields but no director."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Program Director - English Language and Translation",
+    "faculty_or_unit": "Faculty of Arts",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: EN+AR pages 4176 (Business), 4174 (Arts), 7 and 10 (program listings), and every EN/AR post and page matching 'Director', 'Dean', 'مدير', 'عميد' with the program names searched in both languages. The program page lists objectives and fields but no director."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Program Director - Geomatics and Artificial Intelligence",
+    "faculty_or_unit": "Faculty of Arts",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: EN+AR pages 4176 (Business), 4174 (Arts), 7 and 10 (program listings), and every EN/AR post and page matching 'Director', 'Dean', 'مدير', 'عميد' with the program names searched in both languages. The program page lists objectives and fields but no director."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Dean - Faculty of Business Sciences",
+    "faculty_or_unit": "Faculty of Business Sciences",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: EN+AR pages 4176 (Business), 4174 (Arts), 7 and 10 (program listings), and every EN/AR post and page matching 'Director', 'Dean', 'مدير', 'عميد' with the program names searched in both languages. No Business dean is named in the corpus."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Dean - Faculty of Arts",
+    "faculty_or_unit": "Faculty of Arts",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: EN+AR pages 4176 (Business), 4174 (Arts), 7 and 10 (program listings), and every EN/AR post and page matching 'Director', 'Dean', 'مدير', 'عميد' with the program names searched in both languages. No Arts dean is named in the corpus."
+  },
+  {
+    "name_en": null,
+    "name_en_variants": [],
+    "name_ar": null,
+    "title": null,
+    "title_variants": [],
+    "role": "Director - Center for Information Systems and Technology (IT Center)",
+    "faculty_or_unit": "IT Center",
+    "sources": [],
+    "transliterated": false,
+    "notes": "NOT NAMED anywhere in the corpus. Checked: en_rendered/pages/5414, ar/pages/5414 (center page: only unit heads named), posts 2625 and 5421. Only unit heads are named (Mohamed Osama; Tayseer El-Sayed Metwally)."
+  }
+]

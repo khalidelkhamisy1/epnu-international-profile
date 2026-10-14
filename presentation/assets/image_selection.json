@@ -1,0 +1,77 @@
+{
+ "logo": {
+  "file": "site_images/logo-2.png",
+  "focus": "centre",
+  "why": "Official EPNU seal, 1600x1600 transparent PNG"
+ },
+ "hero": {
+  "file": "images/1435_WhatsApp-Image-2025-05-07-at-14.54.36_af9539fd-e1773604639181.jpg",
+  "focus": "centre",
+  "why": "Main gate and dome, symmetric so a portrait centre-crop keeps the dome and gate; 2018x1200"
+ },
+ "campus": {
+  "file": "site_images/EPNU_Cover.png",
+  "focus": "centre",
+  "why": "Wide faculty building facade with garden, 1913x856"
+ },
+ "president": {
+  "file": "images/855_Prof.-Atef-Alameldeen.jpg",
+  "focus": "north",
+  "why": "Official portrait of Prof. Atef Alam El-Din, 1164x1600 (same man as on the president page and at the nameplated desk)"
+ },
+ "lab": {
+  "file": "site_images/687856543_961698766655695_7813274277994431114_n.jpg",
+  "focus": "attention",
+  "why": "Bright modern teaching lab with students in white coats, 1600x1105"
+ },
+ "upm": {
+  "file": "site_images/IMG_1234.jpeg",
+  "focus": "north",
+  "why": "Real Zoom screenshot of the UPM webinar (top row: UPM dean Wong Tze Jin, EPNU Dr. Hesham Farrag)"
+ },
+ "tech": {
+  "file": "images/2848_IMG_7803-1-scaled.jpg",
+  "focus": "centre",
+  "why": "Students at laptops in a bright computer classroom with the president and staff looking on, 2560x1440, clean"
+ },
+ "health": {
+  "file": "site_images/687018611_961698623322376_1385326948078965360_n.jpg",
+  "focus": "north",
+  "why": "Staff and student in white coats working at a modern clinical lab bench, 1600x1200; north crop trims the small corner mark"
+ },
+ "pharma": {
+  "file": "images/2744_686937533_961698519989053_7509645271872656568_n.jpg",
+  "focus": "centre",
+  "why": "Pharmacy students at microscope and lab bench, 1600x1200"
+ },
+ "h57357": {
+  "file": "site_images/epnu-57357-mou.jpg",
+  "focus": "centre",
+  "why": "Student group in front of the 57357 hospital glass dome, 800x600 (lowest-res pick)"
+ },
+ "students1": {
+  "file": "site_images/IMG_1478-1.jpg",
+  "focus": "south",
+  "why": "Large ICPC EPNU team in matching shirts holding certificates on the building steps, 4032x3024, clean, no overlays; south crop keeps headroom"
+ },
+ "students2": {
+  "file": "images/2669_IMG_1519.jpeg",
+  "focus": "centre",
+  "why": "Four students with certificates outside a building, 960x1280"
+ },
+ "students3": {
+  "file": "images/2665_IMG_1525.jpeg",
+  "focus": "centre",
+  "why": "Three students with certificate, 960x1280"
+ },
+ "national": {
+  "file": "images/741_470071650_563389473153295_2139873684031389872_n.jpg",
+  "focus": "centre",
+  "why": "Delegation meeting at a long table in a formal hall, 2048x1024, wide crop"
+ },
+ "closing": {
+  "file": "images/1124_epnu15-min.png",
+  "focus": "centre",
+  "why": "Campus buildings over green sports pitch, 2600x1514, fine under dark tint"
+ }
+}

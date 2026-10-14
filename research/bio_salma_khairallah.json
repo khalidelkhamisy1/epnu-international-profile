@@ -1,0 +1,28 @@
+{
+  "name_display": "Dr. Salma Khairallah",
+  "name_full_on_epnu_site": "Prof. Dr. Salma Mostafa Khairallah",
+  "epnu_roles": [
+    "Program Director, Faculty of Applied Health Sciences Technology, East Port Said National University (EPNU site 1047)",
+    "Director of the Medical Laboratory Technology program (EPNU news posts 2735, 4126, 5177)",
+    "Oversees clinical-training partnerships (Ahl Masr Hospital, Saudi German Hospital Cairo, Children's Cancer Hospital 57357, Bahia Hospital, plasma donation centre)"
+  ],
+  "home_affiliation": "Port Said University, Faculty of Science (Biochemistry / Microbiology); formerly Director of the Biochemistry and Microbiology Program there. Current permanent post not independently verified.",
+  "education": ["PhD in Biochemistry, Faculty of Science, Port Said University (as stated on the EPNU page; year not found)"],
+  "research_areas": ["Biochemistry (inferred from PhD only)", "Medical laboratory sciences (teaching focus: hematology, biochemistry, microbiology, parasitology, immunology)"],
+  "metrics": {"publications": "not found", "citations": "not found", "h_index": "not found", "source": "OpenAlex author and works search (0 results for all name variants), PubMed (0), ORCID (0); Google Scholar, ResearchGate, Scopus not accessible"},
+  "notable": [
+    "Titled 'Prof. Dr.' on the EPNU faculty page but 'Dr.' in news posts and in the user-confirmed brief; use 'Dr.' as instructed",
+    "Specialty is biochemistry and medical laboratory technology, not radiology; she directs both the Medical Laboratory and Medical Imaging/Radiologic Technology programs administratively"
+  ],
+  "profile_urls": ["https://epnu.edu.eg/en/faculty-of-applied-health-sciences/"],
+  "bio_50_words": "Dr. Salma Khairallah directs the Applied Health Sciences Technology programs at East Port Said National University, including Medical Laboratory Technology and Medical Imaging and Radiologic Technology. She holds a PhD in Biochemistry from Port Said University's Faculty of Science, where she previously directed the Biochemistry and Microbiology Program.",
+  "confidence": {"epnu_role": "high", "education_phd_biochemistry_port_said": "medium (single source, the EPNU page)", "home_department": "medium", "research_areas": "low", "metrics": "not found"},
+  "disambiguation_notes": "Identity anchored on the EPNU page: exact name, Port Said University link and a consistent field (biochemistry leading to medical laboratory). No scholarly profile (OpenAlex, PubMed, ORCID, web search) was found for any spelling variant, so no external profile was matched and none was merged. Web search hits (e.g. a Sohag University clinical pathology staff page) belong to other people and were rejected. Not verified whether her PSU department is Chemistry/Biochemistry within the Faculty of Science.",
+  "sources": [
+    "D:/AI/EPNU/data/text/en_rendered/pages/1047.txt (https://epnu.edu.eg/en/faculty-of-applied-health-sciences/)",
+    "D:/AI/EPNU/data/text/en_rendered/posts/2735.txt, 4126.txt, 5177.txt, 2540.txt, 5348.txt, 5356.txt",
+    "D:/AI/EPNU/data/text/en_rendered/pages/4711.txt",
+    "https://api.openalex.org (authors/works searches, 0 matches)",
+    "PubMed esearch and ORCID search (0 matches)"
+  ]
+}

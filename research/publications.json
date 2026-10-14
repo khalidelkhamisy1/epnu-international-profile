@@ -1,0 +1,2734 @@
+{
+ "summary": {
+  "total": 81,
+  "total_including_non_papers": 85,
+  "total_international_venue": 79,
+  "total_egyptian_venue": 2,
+  "works_with_international_coauthor": 51,
+  "by_year": {
+   "2024": 7,
+   "2025": 38,
+   "2026": 36
+  },
+  "by_type": {
+   "article": 78,
+   "book-chapter": 3
+  },
+  "by_field": {
+   "Medicine": 20,
+   "Biochemistry, Genetics and Molecular Biology": 14,
+   "Chemistry": 13,
+   "Engineering": 9,
+   "Energy": 5,
+   "Neuroscience": 4,
+   "Agricultural and Biological Sciences": 4,
+   "Environmental Science": 4,
+   "Pharmacology, Toxicology and Pharmaceutics": 4,
+   "Materials Science": 3,
+   "Immunology and Microbiology": 1
+  },
+  "by_publisher": {
+   "Elsevier": 27,
+   "Springer Nature": 20,
+   "Royal Society of Chemistry": 9,
+   "Wiley": 9,
+   "MDPI": 3,
+   "Future Science Group": 2,
+   "Dove Medical Press (Taylor & Francis)": 2,
+   "Frontiers": 2,
+   "Egyptian Knowledge Bank (EKB)": 2,
+   "Polish Society of Ecological Engineering": 1,
+   "AIP Publishing": 1,
+   "Taylor & Francis": 1,
+   "Portland Press": 1,
+   "Süleyman Demirel University": 1
+  },
+  "coauthor_countries": [
+   {
+    "code": "SA",
+    "country": "Saudi Arabia",
+    "works": 39
+   },
+   {
+    "code": "IQ",
+    "country": "Iraq",
+    "works": 24
+   },
+   {
+    "code": "JO",
+    "country": "Jordan",
+    "works": 16
+   },
+   {
+    "code": "LY",
+    "country": "Libya",
+    "works": 5
+   },
+   {
+    "code": "US",
+    "country": "United States",
+    "works": 3
+   },
+   {
+    "code": "CN",
+    "country": "China",
+    "works": 3
+   },
+   {
+    "code": "RO",
+    "country": "Romania",
+    "works": 2
+   },
+   {
+    "code": "AE",
+    "country": "United Arab Emirates",
+    "works": 2
+   },
+   {
+    "code": "JP",
+    "country": "Japan",
+    "works": 1
+   },
+   {
+    "code": "MY",
+    "country": "Malaysia",
+    "works": 1
+   },
+   {
+    "code": "TH",
+    "country": "Thailand",
+    "works": 1
+   },
+   {
+    "code": "ID",
+    "country": "Indonesia",
+    "works": 1
+   },
+   {
+    "code": "QA",
+    "country": "Qatar",
+    "works": 1
+   },
+   {
+    "code": "SD",
+    "country": "Sudan",
+    "works": 1
+   },
+   {
+    "code": "GB",
+    "country": "United Kingdom",
+    "works": 1
+   }
+  ],
+  "n_coauthor_countries": 15,
+  "top5_cited": [
+   {
+    "title": "Dual EGFR and telomerase inhibitory potential of new triazole tethered Schiff bases endowed with apoptosis: design, synthesis, and biological assessments",
+    "year": 2024,
+    "venue": "RSC Medicinal Chemistry",
+    "doi": "10.1039/d4md00750f",
+    "cited_by": 19
+   },
+   {
+    "title": "Design and synthesis of new 1,2,3-triazole derivatives as VEGFR-2/telomerase downregulatory candidates endowed with apoptotic potential for cancer treatment",
+    "year": 2025,
+    "venue": "Bioorganic Chemistry",
+    "doi": "10.1016/j.bioorg.2025.108159",
+    "cited_by": 18
+   },
+   {
+    "title": "Towards accurate and reliable fault diagnosis in PV systems: Techniques, challenges, and future directions",
+    "year": 2025,
+    "venue": "Process Safety and Environmental Protection",
+    "doi": "10.1016/j.psep.2025.107217",
+    "cited_by": 16
+   },
+   {
+    "title": "Fenofibrate as an Adjunct Therapy for Ulcerative Colitis: Targeting Inflammation via SIRT1, NLRP3, and AMPK Pathways: A Randomized Controlled Pilot Study",
+    "year": 2024,
+    "venue": "Drug Design Development and Therapy",
+    "doi": "10.2147/dddt.s490772",
+    "cited_by": 16
+   },
+   {
+    "title": "Diabetic retinopathy in focus: Update on treatment advances, pharmaceutical approaches, and new technologies",
+    "year": 2025,
+    "venue": "European Journal of Pharmaceutical Sciences",
+    "doi": "10.1016/j.ejps.2025.107307",
+    "cited_by": 14
+   }
+  ],
+  "excluded_non_papers": [
+   {
+    "type": "erratum",
+    "doi": "10.1007/s00210-026-05640-y",
+    "title": "Correction to: Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes"
+   },
+   {
+    "type": "erratum",
+    "doi": "10.1016/j.tice.2026.103460",
+    "title": "Corrigendum to : The nano–biointerface as a structural regulator of cell behavior: Interactions of extracellular vesicles, synthetic nanocarriers, and nanofibers with cells [Tissue Cell, Vol. 101, August 2026, 103431]"
+   },
+   {
+    "type": "preprint",
+    "doi": "10.21203/rs.3.rs-6886613/v1",
+    "title": "Assessment of circulating CD24, CD44, and CD45 stem cell markers as novel early diagnostic tools for hepatocellular carcinoma"
+   },
+   {
+    "type": "dataset",
+    "doi": "10.5281/zenodo.20459160",
+    "title": "De-identified genotype–phenotype dataset for TGFB1 polymorphisms and asthma susceptibility in Egyptian children"
+   }
+  ],
+  "retrieved": "2026-10-14",
+  "method": "OpenAlex has NO institution record for EPNU (searches 'East Port Said', 'East Port Said National University', 'Port Said National', 'EPNU' returned 0 institutions), so works were found via raw_affiliation_strings.search ('East Port Said', 'East Port Said National University', 'EPNU', 'East Port-Said', 'New Port Said', 'Port Said National University'; 156 distinct candidates). Every raw affiliation string was regex-checked locally and a work was kept only if a string names East Port Said National University / EPNU (the search is loose and also returns East Port Said University of Technology and Port Said University). Crossref query.affiliation (3 queries, 600 rows each, regex-filtered; 15 hits, 1 new) and Europe PMC AFF search (56 hits with EPNU in author affiliations, 1 new) were used to cross-check; union deduplicated by DOI = 85 records. Four non-papers (2 errata, 1 dataset, 1 preprint) were excluded, leaving 81 papers/chapters. Field = OpenAlex primary_topic field (automatic classification). Co-author countries = OpenAlex authorship countries, excluding Egypt.",
+  "caveats": [
+   "All 81 are publications dated 2024-2026; none earlier, consistent with a university founded c. 2024.",
+   "2026 count is partial (retrieved Oct 2026); OpenAlex 'published' dates for online-first items may lag.",
+   "East Port Said University of Technology (EPSUT, a different institution, ~100 further affiliation strings) and Port Said University-only papers were deliberately excluded. Some authors list both EPNU and PSU/EPSUT; they are counted once if EPNU is named.",
+   "Scopus/WoS indexing and Q-rank are NOT available through OpenAlex (is_indexed_in_scopus is null for all sources). The 'openalex_core_source' flag is only a proxy; 73 of 81 papers appear in OpenAlex core sources, but this is not a Scopus or WoS confirmation. Verify via Scopus Sources / JCR before claiming indexing.",
+   "'International' = publisher is not Egyptian. Two papers are in Egyptian-edited journals published by Springer Nature (Future Journal of Pharmaceutical Sciences; Egyptian Journal of Internal Medicine) and are counted as international by publisher; 2 papers are in EKB-hosted Egyptian journals (Al-Azhar Eng. Sector; Octahedron Drug Research).",
+   "Co-author countries rely on OpenAlex institution matching; authors whose affiliations were not resolved show no country, so the list is likely a lower bound and the per-country counts are author-instances, not papers. Co-authors from other Egyptian institutions are not counted as international.",
+   "Field labels are OpenAlex automatic topic assignments and are sometimes imperfect (e.g. a few pharmacy/chemistry papers labelled Neuroscience or Materials Science). Faculty-level attribution (Pharmacy, Engineering, Applied Health Sciences) comes from the affiliation strings; the majority of output is pharmacy/medicinal chemistry and engineering.",
+   "Likely undercounting: indexing lag (2026 items), inconsistent or truncated affiliation strings (e.g. 'East Port Said University', 'Port Said National'), unresolved affiliations in Crossref metadata, and EPNU staff who publish only under Port Said University or other home institutions.",
+   "Two records (10.3390/ph19101531, 10.1002/ddr.70364) were found via Crossref/Europe PMC but OpenAlex lacks the EPNU raw string for them."
+  ]
+ },
+ "works": [
+  {
+   "title": "Adenosine A₂A receptor as a dual-acting molecular switch: Glial morphological changes and neurovascular tissue remodeling in neuroinflammation and neurodegeneration",
+   "year": 2026,
+   "type": "article",
+   "venue": "Tissue and Cell",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.tice.2026.103389",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Neuroscience",
+   "subfield": "Neurology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA",
+    "US"
+   ],
+   "n_authors": 18,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Adjunctive Pentoxifylline Enhances Clinical Remission and Reduces Inflammatory Biomarkers in Mild-to-Moderate Ulcerative Colitis: A Randomized Double-Blind Placebo-Controlled Pilot Trial",
+   "year": 2026,
+   "type": "article",
+   "venue": "Pharmaceuticals",
+   "publisher": "MDPI",
+   "publisher_raw": "Multidisciplinary Digital Publishing Institute",
+   "doi": "10.3390/ph19040552",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Genetics",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 16,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said 42511, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Attenuation of imidacloprid deleterious effect on hepatic and neural tissues via acetylsalicylic acid: targeting HMGB1/caspase-3 axis and inflammatory pathway",
+   "year": 2026,
+   "type": "article",
+   "venue": "Naunyn-Schmiedeberg s Archives of Pharmacology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00210-026-05109-y",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Agricultural and Biological Sciences",
+   "subfield": "Plant Science",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 8,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Pharmacology & Toxicology Department, Clinical Pharmacy Program, East Port Said National University, Port Said City, 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Biological evaluation and molecular docking of previously reported pyrazolo-thiazole derivatives as dual α-amylase and α-glucosidase inhibitors",
+   "year": 2026,
+   "type": "article",
+   "venue": "Future Medicinal Chemistry",
+   "publisher": "Future Science Group",
+   "publisher_raw": "Future Science Ltd",
+   "doi": "10.1080/17568919.2026.2688852",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Endocrinology, Diabetes and Metabolism",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "East Port Said National University",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Combined acylated catalpol diglycoside and Lactobacillus therapy restores the miR-146a–TRAF6–SIRT1/AMPK signaling axis in experimental colitis",
+   "year": 2026,
+   "type": "article",
+   "venue": "Toxicology and Applied Pharmacology",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.taap.2026.117874",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Genetics",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 17,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Pharmacology and Toxicology Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt. Electronic address: a.Saad@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Comparative metabolic profiling of roasted and unroasted Trachyspermum ammi (L.) fruits with UPLC-MS and GC–MS analyses, and evaluation of neuroprotective and antidiabetic properties",
+   "year": 2026,
+   "type": "article",
+   "venue": "European Food Research and Technology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00217-026-05293-4",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Agricultural and Biological Sciences",
+   "subfield": "Plant Science",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacognosy, Faculty of Pharmacy, East Port Said National University, New Al-Salam City, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Comparative optimization of wind turbine power control strategies for improved energy efficiency and load reduction",
+   "year": 2026,
+   "type": "article",
+   "venue": "Ecological Engineering & Environmental Technology",
+   "publisher": "Polish Society of Ecological Engineering",
+   "publisher_raw": null,
+   "doi": "10.12912/27197050/221679",
+   "international_venue": true,
+   "venue_country_per_openalex": "PL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Aerospace Engineering",
+   "coauthor_countries_non_egypt": [
+    "LY"
+   ],
+   "n_authors": 4,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Engineering , East Port Said National University , Salam Misr City , Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Dapagliflozin mitigates acute pancreatitis induced by L-arginine in Rats through modulation of TLR-4/NF-κB/NLRP3 pathway: integrated biochemical, histopathological, and in silico study",
+   "year": 2026,
+   "type": "article",
+   "venue": "Inflammopharmacology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Nature",
+   "doi": "10.1007/s10787-026-02190-w",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Surgery",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 10,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Design, synthesis, biological evaluation and histopathological studies of Pyridazine and Pyrazoline derivatives as potential anti-inflammatory agents",
+   "year": 2026,
+   "type": "article",
+   "venue": "Bioorganic Chemistry",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.bioorg.2026.110164",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 6,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmaceutical Organic Chemistry, Faculty of Pharmacy, Cairo University, Cairo, 11562, Egypt; Department of Pharmaceutical Organic Chemistry, Faculty of Pharmacy, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Dual-action 1 H-1,2,3-triazole-zinc oxide nanohybrids: a promising strategy against microbes and cancer",
+   "year": 2026,
+   "type": "article",
+   "venue": "Discover Materials",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Nature",
+   "doi": "10.1007/s43939-026-00559-w",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Materials Science",
+   "subfield": "Materials Chemistry",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Sciences, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Erythropoietin and Ferulic Acid Loaded on Fe3O4 Nanoparticles Exert Therapeutic Effect against Acute Kidney Injury Induced by Cisplatin Via Bcl-2/Bax, IL-6, TGF-β, and GPX-4 Mechanisms",
+   "year": 2026,
+   "type": "article",
+   "venue": "Applied Biochemistry and Biotechnology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s12010-026-05599-9",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Pathology and Forensic Medicine",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Sciences, East Port Said National University, Port Said, Egypt. s.mostafa@sci.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Experimental investigation of diffusion flames with different baffle-plate air-hole diameters",
+   "year": 2026,
+   "type": "article",
+   "venue": "Scientific Reports",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Nature Portfolio",
+   "doi": "10.1038/s41598-026-38141-2",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Computational Mechanics",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, 45619, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Experimental investigation of time-dependent intermittent rotation in a phase change material thermal accumulator",
+   "year": 2026,
+   "type": "article",
+   "venue": "International Journal of Thermal Sciences",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.ijthermalsci.2026.111164",
+   "international_venue": true,
+   "venue_country_per_openalex": "FR",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Mechanical Engineering",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 4,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "FOXO3a-mediated structural and cellular remodeling in liver tissue: Implications for apoptosis and homeostasis",
+   "year": 2026,
+   "type": "article",
+   "venue": "Tissue and Cell",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.tice.2026.103375",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "RO",
+    "SA"
+   ],
+   "n_authors": 15,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Fe-doped BiVO4/g-C3N4 heterojunction for efficient tetracycline degradation under low-intensity UV irradiation",
+   "year": 2026,
+   "type": "article",
+   "venue": "Scientific Reports",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Nature Portfolio",
+   "doi": "10.1038/s41598-026-63467-2",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Energy",
+   "subfield": "Renewable Energy, Sustainability and the Environment",
+   "coauthor_countries_non_egypt": [
+    "JP",
+    "MY",
+    "TH"
+   ],
+   "n_authors": 9,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmaceutical Organic Chemistry, Faculty of Pharmacy, East Port Said National University, New Port Said City, 8935461, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Fragment merging design, synthesis, and biological evaluation of novel methyl Selanyl– And thiazolidinedione-based hybrids as potent anticancer inducing apoptosis and cell cycle arrest",
+   "year": 2026,
+   "type": "article",
+   "venue": "Bioorganic & Medicinal Chemistry",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.bmc.2026.118610",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 12,
+   "cited_by_count": 3,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Faculty of Pharmacy, Port Said University, Port Said 42526, Egypt; Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Hybrid benzylidene thiazolidine-2,4-diones as potent apoptosis-inducing anticancer agents: design-driven optimization, cytotoxic profiling, and mechanistic validation in prostate cancer",
+   "year": 2026,
+   "type": "article",
+   "venue": "RSC Advances",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d6ra01323f",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 12,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Hydrodynamic responses of a novel integrated energy converter in abnormal waves governed by linear and nonlinear mechanisms",
+   "year": 2026,
+   "type": "article",
+   "venue": "Ocean Engineering",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.oceaneng.2026.125660",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Ocean Engineering",
+   "coauthor_countries_non_egypt": [
+    "CN"
+   ],
+   "n_authors": 6,
+   "cited_by_count": 4,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, 45619, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Immunomodulatory and Anti-Inflammatory Effects of Ketotifen Versus Vitamin E in Patients with Non-Alcoholic Fatty Liver Disease: A Randomized Pilot Study",
+   "year": 2026,
+   "type": "article",
+   "venue": "Drug Design Development and Therapy",
+   "publisher": "Dove Medical Press (Taylor & Francis)",
+   "publisher_raw": "Dove Medical Press",
+   "doi": "10.2147/dddt.s593561",
+   "international_venue": true,
+   "venue_country_per_openalex": "NZ",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Epidemiology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 13,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Impact of COVID-19 vaccination and vaccine type on morbidity and mortality in hospitalized patients: a retrospective cohort study in Egypt",
+   "year": 2026,
+   "type": "article",
+   "venue": "Frontiers in Microbiology",
+   "publisher": "Frontiers",
+   "publisher_raw": "Frontiers Media",
+   "doi": "10.3389/fmicb.2026.1792503",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Infectious Diseases",
+   "coauthor_countries_non_egypt": [
+    "ID",
+    "QA",
+    "SA"
+   ],
+   "n_authors": 16,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Integrated biomarkers of oxidative stress NLRP3 inflammasome and kynurenine pathway reflect disease severity and diagnostic discrimination in depression",
+   "year": 2026,
+   "type": "article",
+   "venue": "Scientific Reports",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Nature Portfolio",
+   "doi": "10.1038/s41598-026-63912-2",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Neuroscience",
+   "subfield": "Biological Psychiatry",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 15,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port said National University, Port Said, Egypt. mbahaa@horus.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Mitigating evaporative cooling in an inclined rotating-wick solar still through single-axis tracking for low-carbon freshwater production",
+   "year": 2026,
+   "type": "article",
+   "venue": "Process Safety and Environmental Protection",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.psep.2026.109318",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Energy",
+   "subfield": "Renewable Energy, Sustainability and the Environment",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 4,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, 45619, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Modulation of mTOR, NLRP3, and Nrf2/HO-1 signaling by atorvastatin and nitazoxanide in experimental ulcerative colitis",
+   "year": 2026,
+   "type": "article",
+   "venue": "Naunyn-Schmiedeberg s Archives of Pharmacology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00210-026-05242-8",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Genetics",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 14,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. mostafabahaamnf@gmail.com",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Multi-scenario sizing and 3E analysis of solar–wind–hydrogen coastal power systems: A case study for Egypt",
+   "year": 2026,
+   "type": "article",
+   "venue": "Journal of Renewable and Sustainable Energy",
+   "publisher": "AIP Publishing",
+   "publisher_raw": "American Institute of Physics",
+   "doi": "10.1063/5.0335771",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Energy",
+   "subfield": "Energy Engineering and Power Technology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 6,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "East Port Said National University 2 , Salam Misr City, Port Said,",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Nanosized Bilosomes as a Potential Platform for Improved Therapeutic Efficacy of Capecitabine Against Colon Cancer in Rats: Formulation, Evaluation, and Optimization",
+   "year": 2026,
+   "type": "article",
+   "venue": "Pharmaceuticals",
+   "publisher": "MDPI",
+   "publisher_raw": "Multidisciplinary Digital Publishing Institute",
+   "doi": "10.3390/ph19101531",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Materials Science",
+   "subfield": "Biomaterials",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 9,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "matched via Crossref/EuropePMC only",
+   "source_apis": [
+    "Crossref/EuropePMC"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Neuroprotective effects of dapansutrile in rotenone-induced parkinsonism: targeting NLRP3/caspase-1, NF-κB, Nrf2/HO-1, and PINK1/Parkin pathways",
+   "year": 2026,
+   "type": "article",
+   "venue": "Inflammopharmacology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Nature",
+   "doi": "10.1007/s10787-026-02387-z",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Neurology",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 13,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Optimized CoQ10 delivery via ZnO/CuO nanoparticles: greater in vitro cell cycle arrest and in vivo tumor suppression than unformulated coenzyme Q10",
+   "year": 2026,
+   "type": "article",
+   "venue": "RSC Advances",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d6ra02842j",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Sciences, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Punicalagin and captopril mitigate the fibrogenic CD68+ macrophages through TGF-β1 and PPAR-γ signaling pathways in non-ischemic reactive myocardial fibrosis: a bioinformatic and in vivo experiment",
+   "year": 2026,
+   "type": "article",
+   "venue": "Future Journal of Pharmaceutical Sciences",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1186/s43094-026-00934-7",
+   "international_venue": true,
+   "venue_country_per_openalex": "EG",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Cardiology and Cardiovascular Medicine",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 12,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Clinical Pharmacology, Faculty of Medicine, Port Said University, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes",
+   "year": 2026,
+   "type": "article",
+   "venue": "Naunyn-Schmiedeberg s Archives of Pharmacology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00210-026-05510-7",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Endocrinology, Diabetes and Metabolism",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 24,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Synergistic protective effects of melatonin and selenium nanoparticles against cisplatin-induced nephrotoxicity through modulation of the Nrf2/HO-1 and Bax/Bcl-2 pathways",
+   "year": 2026,
+   "type": "article",
+   "venue": "Archives of Physiology and Biochemistry",
+   "publisher": "Taylor & Francis",
+   "publisher_raw": "Taylor & Francis",
+   "doi": "10.1080/13813455.2026.2640881",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Pathology and Forensic Medicine",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 4,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Sciences Technology, East Port Said National University",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Targeting EGFR With Quinazoline‐4‐One/Chalcone Hybrids: Design, Synthesis, and Anticancer Evaluation",
+   "year": 2026,
+   "type": "article",
+   "venue": "Archiv der Pharmazie",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/ardp.70186",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 7,
+   "cited_by_count": 3,
+   "epnu_affiliation_string": "Pharmacology &amp; Toxicology Department, Clinical Pharmacy Program East Port Said National University  Port Said Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "The nano–biointerface as a structural regulator of cell behavior: Interactions of extracellular vesicles, synthetic nanocarriers, and nanofibers with cells",
+   "year": 2026,
+   "type": "article",
+   "venue": "Tissue and Cell",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.tice.2026.103431",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 15,
+   "cited_by_count": 3,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Thiadiazolo‐Triazolo‐Pyrimidine Hybrids as Dual Aurora A/ERK Inhibitors: Design, Synthesis, and Apoptotic Activity",
+   "year": 2026,
+   "type": "article",
+   "venue": "Drug Development Research",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/ddr.70364",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "matched via Crossref/EuropePMC only",
+   "source_apis": [
+    "Crossref/EuropePMC"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Ultrastructural organization of the neurovascular unit: Nanoscale perspectives on blood-brain barrier architecture",
+   "year": 2026,
+   "type": "article",
+   "venue": "Tissue and Cell",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.tice.2026.103539",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Neuroscience",
+   "subfield": "Neurology",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 13,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Vanillic acid, agmatine, and silver nanoparticles enhanced Nrf2 pathway and inhibited inflammatory, apoptotic, and fibrotic signaling in cadmium-induced nephrotoxicity in rats",
+   "year": 2026,
+   "type": "article",
+   "venue": "Journal of Trace Elements in Medicine and Biology",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.jtemb.2026.127897",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Environmental Science",
+   "subfield": "Health, Toxicology and Mutagenesis",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Chemistry Department (Biochemistry Division), Faculty of Science, Port Said University, Port Said 42526, Egypt; Faculty of Applied Health Sciences, East Port Said National University, Port Said, Egypt. Electronic address: s.mostafa@sci.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "α-Linolenic acid-driven nano-liposomes from purslane seed oil modulate p-JAK2/p-STAT3 to combat acute liver failure",
+   "year": 2026,
+   "type": "article",
+   "venue": "Bioscience Reports",
+   "publisher": "Portland Press",
+   "publisher_raw": "Portland Press",
+   "doi": "10.1042/bsr20250383",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Pharmacology, Toxicology and Pharmaceutics",
+   "subfield": "Pharmacology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "3Medical Laboratory program, Faculty of Applied Health Sciences, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "A Systems Biology Perspective on Childhood ADHD : Neurochemical Dysregulation, Brain‐Behavior Interactions, and Emerging Therapeutics",
+   "year": 2025,
+   "type": "article",
+   "venue": "The FASEB Journal",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1096/fj.202501829rr",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Psychiatry and Mental health",
+   "coauthor_countries_non_egypt": [
+    "SA",
+    "US"
+   ],
+   "n_authors": 16,
+   "cited_by_count": 4,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy East Port Said National University  Port Said Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "A comparative study on the hydrodynamic performance of traditional and closed-loop marine propellers",
+   "year": 2025,
+   "type": "article",
+   "venue": "Marine Systems & Ocean Technology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s40868-025-00178-9",
+   "international_venue": true,
+   "venue_country_per_openalex": "BR",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Ocean Engineering",
+   "coauthor_countries_non_egypt": [
+    "CN"
+   ],
+   "n_authors": 7,
+   "cited_by_count": 5,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "A novel in vivo toxicity profiling of solid lipid nanoparticles (SLNPs) in Vicia faba seedlings as a plant model",
+   "year": 2025,
+   "type": "article",
+   "venue": "Environmental Toxicology and Pharmacology",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.etap.2025.104873",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Cancer Research",
+   "coauthor_countries_non_egypt": [
+    "IQ"
+   ],
+   "n_authors": 4,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Applied Health Science Technology, East Port Said National University, Port Said, Egypt. Electronic address: Ibrahim.samy@sci.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Assessing patients’ knowledge immediately after obtaining the antibacterial drug azithromycin: a community pharmacy-based cross-sectional study",
+   "year": 2025,
+   "type": "article",
+   "venue": "BMC Research Notes",
+   "publisher": "Springer Nature",
+   "publisher_raw": "BioMed Central",
+   "doi": "10.1186/s13104-025-07447-1",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Pharmacology, Toxicology and Pharmaceutics",
+   "subfield": "Pharmacology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Clinical Pharmacy and Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Asmaa.Mohamed@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Bio-elimination of Chromium Using Bacillus Cereus Strains Isolated from Activated Sludge",
+   "year": 2025,
+   "type": "article",
+   "venue": "Current Microbiology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00284-025-04620-4",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Environmental Science",
+   "subfield": "Health, Toxicology and Mutagenesis",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 4,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Biochemistry, Faculty of Pharmacy, East Port Said National University, Port Said, 42526, Egypt. elbehery@sci.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Colo‐Protective Effects of Pentoxifylline Alone or in Combination With Mesalamine in Colitis Through Sphingosine Kinase 1/Sphingosine 1 Phosphate, and Zonula Occuldin 1 Pathways: New Molecular Approach",
+   "year": 2025,
+   "type": "article",
+   "venue": "Pharmacology Research & Perspectives",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/prp2.70115",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Genetics",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 19,
+   "cited_by_count": 3,
+   "epnu_affiliation_string": "Department of Pharmaceutics, Faculty of Pharmacy East Port Said National University  Port Said Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Comprehensive metabolome classification of four onion (Allium cepa) cultivars via GC–MS and UPLC-MS: Insights into chemical diversity and remote antimicrobial activity against foodborne pathogens",
+   "year": 2025,
+   "type": "article",
+   "venue": "Food Research International",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.foodres.2025.117367",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Agricultural and Biological Sciences",
+   "subfield": "Plant Science",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 7,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Pharmacognosy Department, Faculty of Pharmacy, Port Said University, Port Said 42515, Egypt; Pharmacognosy Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Cytokeratin 18 and soluble cluster of differentiation-36: markers for nephropathy in patients with metabolic dysfunction-associated fatty liver disease",
+   "year": 2025,
+   "type": "article",
+   "venue": "The Egyptian Journal of Internal Medicine",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Nature",
+   "doi": "10.1186/s43162-025-00566-y",
+   "international_venue": true,
+   "venue_country_per_openalex": "EG",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Nephrology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Sciences, Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Design and synthesis of new 1,2,3-triazole derivatives as VEGFR-2/telomerase downregulatory candidates endowed with apoptotic potential for cancer treatment",
+   "year": 2025,
+   "type": "article",
+   "venue": "Bioorganic Chemistry",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.bioorg.2025.108159",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 8,
+   "cited_by_count": 18,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Faculty of Pharmacy, Port Said University, Port Said 42526, Egypt; Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Design and synthesis of novel substituted s ‐triazines tethered benzenesulfonamides as potential antimicrobial candidates: Antibiofilm and bacterial protein permeability assessments",
+   "year": 2025,
+   "type": "article",
+   "venue": "Archiv der Pharmazie",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/ardp.202400931",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 10,
+   "cited_by_count": 6,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program East Port Said National University Port Said Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Design, synthesis, and anticancer evaluation of new Quinazoline hybrids: DNA intercalation, topoisomerase IIα inhibition, and in silico studies",
+   "year": 2025,
+   "type": "article",
+   "venue": "Bioorganic Chemistry",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.bioorg.2025.108921",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [
+    "IQ"
+   ],
+   "n_authors": 7,
+   "cited_by_count": 8,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Diabetic retinopathy in focus: Update on treatment advances, pharmaceutical approaches, and new technologies",
+   "year": 2025,
+   "type": "article",
+   "venue": "European Journal of Pharmaceutical Sciences",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.ejps.2025.107307",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Ophthalmology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "RO",
+    "SA",
+    "US"
+   ],
+   "n_authors": 16,
+   "cited_by_count": 14,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Donepezil-based rational design of N -substituted quinazolinthioacetamide candidates as potential acetylcholine esterase inhibitors for the treatment of Alzheimer's disease: in vitro and in vivo studies",
+   "year": 2025,
+   "type": "article",
+   "venue": "RSC Medicinal Chemistry",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d4md00778f",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Pharmacology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "LY",
+    "SA"
+   ],
+   "n_authors": 11,
+   "cited_by_count": 11,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "EXPERIMENTAL INVESTIGATION OF A NOVEL SAVONIUS TURBINE WITH PARTIALLY FLEXIBLE BUCKETS",
+   "year": 2025,
+   "type": "article",
+   "venue": "Journal of Al-Azhar University Engineering Sector",
+   "publisher": "Egyptian Knowledge Bank (EKB)",
+   "publisher_raw": null,
+   "doi": "10.21608/auej.2025.405164.1896",
+   "international_venue": false,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Aerospace Engineering",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 6,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Economic Feasibility of Membrane Technology",
+   "year": 2025,
+   "type": "book-chapter",
+   "venue": null,
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/9781394300105.ch15",
+   "international_venue": true,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": null,
+    "doaj": null,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Environmental Science",
+   "subfield": "Water Science and Technology",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 5,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Evaluation of Pharmacists’ knowledge and Adherence to Pharmacovigilance Practices: A cross sectional study",
+   "year": 2025,
+   "type": "article",
+   "venue": "Octahedron Drug Research",
+   "publisher": "Egyptian Knowledge Bank (EKB)",
+   "publisher_raw": null,
+   "doi": "10.21608/odr.2025.403200.1057",
+   "international_venue": false,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Pharmacology, Toxicology and Pharmaceutics",
+   "subfield": "Toxicology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Clinical Pharmacy and pharmacy practice department, Faculty of Pharmacy, Port said University, Port said, Egypt.\nClinical Pharmacy and Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Experimental investigation on the impact of radial air hole position of baffle plates on flame characteristics",
+   "year": 2025,
+   "type": "article",
+   "venue": "Results in Engineering",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.rineng.2025.106226",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Computational Mechanics",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Exploring the anticancer potential of new pyrazolopyrimidine analogues as multi-target directed EGFR/STAT3 downregulatory candidates with apoptotic potential",
+   "year": 2025,
+   "type": "article",
+   "venue": "New Journal of Chemistry",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d5nj00367a",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 10,
+   "cited_by_count": 9,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Factorial design, formulation, in vitro and in vivo evaluation of a multi-layer tablet containing ticagrelor and aspirin, for dual antiplatelet therapy",
+   "year": 2025,
+   "type": "article",
+   "venue": "Journal of Pharmaceutical Sciences",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.xphs.2025.103817",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Cardiology and Cardiovascular Medicine",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, Port Said University, Port Said, Egypt; Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, Horus University, New Damietta, Egypt; Department of Pharmaceutics and Industrial Pharmacy, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Harnessing Fragment Merging and Chain Extension Approaches for Designing Phthalimidoalkyl‐Arylidene Thiazolidinedione Hybrids: New Frontiers in Apoptosis‐Inducing Cancer Treatment",
+   "year": 2025,
+   "type": "article",
+   "venue": "Archiv der Pharmazie",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/ardp.70118",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 12,
+   "cited_by_count": 8,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program East Port Said National University  Port Said Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Identifying the optimal gap separation of national physics laboratory (NPL) catamaran model using machine learning algorithms",
+   "year": 2025,
+   "type": "article",
+   "venue": "Journal of Ocean Engineering and Marine Energy",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s40722-025-00386-w",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Ocean Engineering",
+   "coauthor_countries_non_egypt": [
+    "CN"
+   ],
+   "n_authors": 9,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "East Port Said National University, Salam Misr City, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Imetelstat: a first-in-class telomerase inhibitor for treating myelodysplastic syndromes",
+   "year": 2025,
+   "type": "book-chapter",
+   "venue": "Elsevier eBooks",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/b978-0-443-33885-4.00024-x",
+   "international_venue": true,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Physiology",
+   "coauthor_countries_non_egypt": [
+    "IQ"
+   ],
+   "n_authors": 2,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Leveraging the Fragment Merging Approach for Synthetizing Novel Selanyl Phenyl Acetamide Thiazolidinedione Hybrids Endowed With Apoptotic Potential for Cancer Treatment",
+   "year": 2025,
+   "type": "article",
+   "venue": "Drug Development Research",
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/ddr.70190",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Pharmacology, Toxicology and Pharmaceutics",
+   "subfield": "Toxicology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 12,
+   "cited_by_count": 5,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program East Port Said National University  Port Said Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "MDL-800 protects against inflammatory and metabolic dysfunction: role of SIRT6 in the cross-regulation of NFκB, AMPK, and PPAR signaling in rats",
+   "year": 2025,
+   "type": "article",
+   "venue": "International Immunopharmacology",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.intimp.2025.115452",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Geriatrics and Gerontology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 17,
+   "cited_by_count": 10,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt; Department of Basic Sciences, Faculty of Applied Health Sciences Technology, Delta University for Science and Technology, Gamasa, 11152, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Metformin diminishes lipopolysaccharide-induced endotoxemia and cardiopulmonary microvascular coagulopathy: Molecular insights on vascular endothelial growth factor-A and its receptors",
+   "year": 2025,
+   "type": "article",
+   "venue": "International Immunopharmacology",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.intimp.2025.116036",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Epidemiology",
+   "coauthor_countries_non_egypt": [
+    "AE",
+    "SA"
+   ],
+   "n_authors": 13,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacology, Faculty of Medicine, Port Said University, Port Said, Egypt; Faculty of Medicine, East Port Said National University, Port Said, Egypt. Electronic address: sherin.kholy@med.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Multi-target design of fused cyclic pyrimidine-2-thione candidates as DNA intercalators and topoisomerase I/II inhibitors",
+   "year": 2025,
+   "type": "article",
+   "venue": "Future Medicinal Chemistry",
+   "publisher": "Future Science Group",
+   "publisher_raw": "Future Science Ltd",
+   "doi": "10.1080/17568919.2025.2602424",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SD"
+   ],
+   "n_authors": 5,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "East Port Said National University",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "NMR fingerprinting in apricot (Prunus Armeniaca L.) kernels and fruits concerning its different cultivars and soil type as analyzed using chemometrics",
+   "year": 2025,
+   "type": "article",
+   "venue": "European Food Research and Technology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00217-025-04907-7",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Analytical Chemistry",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacognosy, Clinical Pharmacy Program, East Port Said National University, Port Said, 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Novel inhibitors of oncogenic Wnt/TCF-4/β-catenin signaling pathway: Design, synthesis, molecular docking studies and apoptosis inducing activity of pyrimidothiazino-, dihydropyrimidotriazepino- and 1,3,4-thiadiazolopyrimido-indole hybrids",
+   "year": 2025,
+   "type": "article",
+   "venue": "Bioorganic Chemistry",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.bioorg.2025.108285",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ"
+   ],
+   "n_authors": 8,
+   "cited_by_count": 7,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Faculty of Pharmacy, Port-Said University, Port-Said 42511, Egypt; Medicinal Chemistry Department, Pharmacology and Toxicology Department, Faculty of Pharmacy, East Port-Said National University, Port-Said, Egypt. Electronic address: mai.mourad@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Numerical Study on the Effect of Distance Between Tubes and Bonding Width on the Performance of a Photovoltaic Thermal (PVT) System",
+   "year": 2025,
+   "type": "article",
+   "venue": "Turkish Journal of Engineering",
+   "publisher": "Süleyman Demirel University",
+   "publisher_raw": "Süleyman Demirel University",
+   "doi": "10.31127/tuje.1786975",
+   "international_venue": true,
+   "venue_country_per_openalex": "TR",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Energy",
+   "subfield": "Renewable Energy, Sustainability and the Environment",
+   "coauthor_countries_non_egypt": [
+    "LY"
+   ],
+   "n_authors": 3,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "East Port Said National University , Faculty of Engineering , Salam Misr City , East Port Said , Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Performance assessment of a novel wind-powered ventilation system toward sustainable buildings",
+   "year": 2025,
+   "type": "article",
+   "venue": "Results in Engineering",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.rineng.2025.108437",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Engineering",
+   "subfield": "Aerospace Engineering",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 10,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, East Port Said, 45619, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Policosanol ameliorates Post-Myocardial Infarction-induced neuronal damage and cognitive impairment in rats via suppressing miRNA-1",
+   "year": 2025,
+   "type": "article",
+   "venue": "The Journal of Nutritional Biochemistry",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.jnutbio.2025.110047",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Neuroscience",
+   "subfield": "Neurology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 2,
+   "epnu_affiliation_string": "Biochemistry Department, Faculty of Pharmacy, Port-Said University, Port-Said, 42526, Egypt; Biochemistry Department, Faculty of Pharmacy, East Port Said National University, Port Said, 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Practical Insights, Commercial Installations, and Future Projections",
+   "year": 2025,
+   "type": "book-chapter",
+   "venue": null,
+   "publisher": "Wiley",
+   "publisher_raw": "Wiley",
+   "doi": "10.1002/9781394300105.ch16",
+   "international_venue": true,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": null,
+    "doaj": null,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Environmental Science",
+   "subfield": "Water Science and Technology",
+   "coauthor_countries_non_egypt": [
+    "GB"
+   ],
+   "n_authors": 6,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Engineering, East Port Said National University, Salam Misr City, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Randomized, double-blind, placebo-controlled pilot study of metformin as an adjunctive therapy in Parkinson’s disease",
+   "year": 2025,
+   "type": "article",
+   "venue": "Frontiers in Pharmacology",
+   "publisher": "Frontiers",
+   "publisher_raw": "Frontiers Media",
+   "doi": "10.3389/fphar.2025.1497261",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Neurology",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 18,
+   "cited_by_count": 12,
+   "epnu_affiliation_string": "Department of Pharmaceutics, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Reprogramming the hepatic immune microenvironment with mirtazapine in early neoplastic transformation: Evidence from a diethylnitrosamine-induced rat model",
+   "year": 2025,
+   "type": "article",
+   "venue": "Chemico-Biological Interactions",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.cbi.2025.111720",
+   "international_venue": true,
+   "venue_country_per_openalex": "IE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Hepatology",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 17,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said, 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt; Department of Basic Sciences, Faculty of Applied Health Sciences Technology, Delta University for Science and Technology, Gamasa, 11152, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Sirtuin 6-driven ASC deacetylation confers hepatoprotection: A promising approach to inflammasome inhibition in experimental NASH",
+   "year": 2025,
+   "type": "article",
+   "venue": "European Journal of Pharmacology",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.ejphar.2025.178202",
+   "international_venue": true,
+   "venue_country_per_openalex": "NL",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Epidemiology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 16,
+   "cited_by_count": 5,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said, 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Targeted synthesis of a trimethoxyphenyltetrahydropyrimidine analogue designed as a DNA intercalator: in silico , multi-spectroscopic, thermodynamic, and in vitro approaches",
+   "year": 2025,
+   "type": "article",
+   "venue": "RSC Advances",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d5ra02179k",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "JO",
+    "LY",
+    "SA"
+   ],
+   "n_authors": 10,
+   "cited_by_count": 9,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Towards accurate and reliable fault diagnosis in PV systems: Techniques, challenges, and future directions",
+   "year": 2025,
+   "type": "article",
+   "venue": "Process Safety and Environmental Protection",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.psep.2025.107217",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Energy",
+   "subfield": "Renewable Energy, Sustainability and the Environment",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 16,
+   "epnu_affiliation_string": "East Port Said National University, Salam Misr City, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Vanillin alleviates oxidative stress-mediated neuronal pyroptosis induced in rats by isoproterenol via SIRT1/NOX4/ROS/TXNIP/NLRP3 signaling pathway",
+   "year": 2025,
+   "type": "article",
+   "venue": "Food & Function",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d4fo06458e",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 3,
+   "cited_by_count": 10,
+   "epnu_affiliation_string": "Biochemistry Department, Faculty of Pharmacy, East Port Said National University, Port Said, 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Antimicrobial Stewardship Intervention for the Family Caregiver Attending Primary Health Care Setting: A Quasi-Experimental Study",
+   "year": 2024,
+   "type": "article",
+   "venue": "Antibiotics",
+   "publisher": "MDPI",
+   "publisher_raw": "Multidisciplinary Digital Publishing Institute",
+   "doi": "10.3390/antibiotics13121145",
+   "international_venue": true,
+   "venue_country_per_openalex": "CH",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Immunology and Microbiology",
+   "subfield": "Applied Microbiology and Biotechnology",
+   "coauthor_countries_non_egypt": [
+    "AE",
+    "JO",
+    "SA"
+   ],
+   "n_authors": 13,
+   "cited_by_count": 9,
+   "epnu_affiliation_string": "Department of Pharmaceutics, Faculty of Pharmacy, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Biological and computational assessments of thiazole derivative-reinforced bile salt enriched nano carriers: a new gate in targeting SARS-CoV-2 spike protein",
+   "year": 2024,
+   "type": "article",
+   "venue": "RSC Advances",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d4ra07316a",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Materials Science",
+   "subfield": "Biomaterials",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "LY",
+    "SA"
+   ],
+   "n_authors": 9,
+   "cited_by_count": 4,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Design and synthesis of novel 2-(2-(4-bromophenyl)quinolin-4-yl)-1,3,4-oxadiazole derivatives as anticancer and antimicrobial candidates: in vitro and in silico studies",
+   "year": 2024,
+   "type": "article",
+   "venue": "RSC Advances",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d4ra06712f",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 9,
+   "cited_by_count": 12,
+   "epnu_affiliation_string": "Pharmaceutical Organic Chemistry Department, Clinical Pharmacy Program, East Port Said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Dual EGFR and telomerase inhibitory potential of new triazole tethered Schiff bases endowed with apoptosis: design, synthesis, and biological assessments",
+   "year": 2024,
+   "type": "article",
+   "venue": "RSC Medicinal Chemistry",
+   "publisher": "Royal Society of Chemistry",
+   "publisher_raw": "Royal Society of Chemistry",
+   "doi": "10.1039/d4md00750f",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Chemistry",
+   "subfield": "Organic Chemistry",
+   "coauthor_countries_non_egypt": [
+    "IQ",
+    "SA"
+   ],
+   "n_authors": 9,
+   "cited_by_count": 19,
+   "epnu_affiliation_string": "Medicinal Chemistry Department, Clinical Pharmacy Program, East Port said National University, Port Said 42526, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Fenofibrate as an Adjunct Therapy for Ulcerative Colitis: Targeting Inflammation via SIRT1, NLRP3, and AMPK Pathways: A Randomized Controlled Pilot Study",
+   "year": 2024,
+   "type": "article",
+   "venue": "Drug Design Development and Therapy",
+   "publisher": "Dove Medical Press (Taylor & Francis)",
+   "publisher_raw": "Dove Medical Press",
+   "doi": "10.2147/dddt.s490772",
+   "international_venue": true,
+   "venue_country_per_openalex": "NZ",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": true,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Genetics",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 17,
+   "cited_by_count": 16,
+   "epnu_affiliation_string": "Department of Pharmaceutics, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Optimization of the Combined Use of Z-Sep Plus and EMR-Lipid in QuEChERS Procedure for the Analysis of Eight Pesticides in Real Milk Samples",
+   "year": 2024,
+   "type": "article",
+   "venue": "Food Analytical Methods",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s12161-024-02702-w",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Agricultural and Biological Sciences",
+   "subfield": "Food Science",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 4,
+   "cited_by_count": 5,
+   "epnu_affiliation_string": "Pharmaceutical analytical chemistry department, Clinical Pharmacy program, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  },
+  {
+   "title": "Review: Chemical and biological features of genus Paralemnalia soft corals",
+   "year": 2024,
+   "type": "article",
+   "venue": "Medicinal Chemistry Research",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00044-024-03340-x",
+   "international_venue": true,
+   "venue_country_per_openalex": "US",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Biotechnology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 5,
+   "cited_by_count": 1,
+   "epnu_affiliation_string": "Department of Pharmacognosy, Faculty of Pharmacy, Clinical Pharmacy Program, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ],
+   "affiliation_note": null
+  }
+ ],
+ "excluded_records": [
+  {
+   "title": "Correction to: Repurposing doxycycline as an adjunct to sitagliptin in type 2 diabetes mellitus: a randomized controlled study on glycemic, inflammatory, and cardiometabolic outcomes",
+   "year": 2026,
+   "type": "erratum",
+   "venue": "Naunyn-Schmiedeberg s Archives of Pharmacology",
+   "publisher": "Springer Nature",
+   "publisher_raw": "Springer Science+Business Media",
+   "doi": "10.1007/s00210-026-05640-y",
+   "international_venue": true,
+   "venue_country_per_openalex": "DE",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Endocrinology, Diabetes and Metabolism",
+   "coauthor_countries_non_egypt": [
+    "JO",
+    "SA"
+   ],
+   "n_authors": 23,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Pharmacy Practice Department, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ]
+  },
+  {
+   "title": "Corrigendum to : The nano–biointerface as a structural regulator of cell behavior: Interactions of extracellular vesicles, synthetic nanocarriers, and nanofibers with cells [Tissue Cell, Vol. 101, August 2026, 103431]",
+   "year": 2026,
+   "type": "erratum",
+   "venue": "Tissue and Cell",
+   "publisher": "Elsevier",
+   "publisher_raw": "Elsevier BV",
+   "doi": "10.1016/j.tice.2026.103460",
+   "international_venue": true,
+   "venue_country_per_openalex": "GB",
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": true,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Biochemistry, Genetics and Molecular Biology",
+   "subfield": "Molecular Biology",
+   "coauthor_countries_non_egypt": [
+    "SA"
+   ],
+   "n_authors": 15,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Department of Pharmacology and Toxicology, Faculty of Pharmacy, Port Said University, Port Said 42511, Egypt; Department of Pharmacology and Toxicology, Faculty of Pharmacy, East Port Said National University, Port Said, Egypt. Electronic address: Ahmed.gafar@pharm.psu.edu.eg",
+   "source_apis": [
+    "OpenAlex"
+   ]
+  },
+  {
+   "title": "Assessment of circulating CD24, CD44, and CD45 stem cell markers as novel early diagnostic tools for hepatocellular carcinoma",
+   "year": 2025,
+   "type": "preprint",
+   "venue": "Research Square",
+   "publisher": "Unknown",
+   "publisher_raw": null,
+   "doi": "10.21203/rs.3.rs-6886613/v1",
+   "international_venue": true,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Hepatology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 9,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Sciences Technology, East Port Said National University",
+   "source_apis": [
+    "OpenAlex"
+   ]
+  },
+  {
+   "title": "De-identified genotype–phenotype dataset for TGFB1 polymorphisms and asthma susceptibility in Egyptian children",
+   "year": 2026,
+   "type": "dataset",
+   "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+   "publisher": "European Organization for Nuclear Research",
+   "publisher_raw": "European Organization for Nuclear Research",
+   "doi": "10.5281/zenodo.20459160",
+   "international_venue": true,
+   "venue_country_per_openalex": null,
+   "indexing": {
+    "scopus": "not detectable via OpenAlex (is_indexed_in_scopus null)",
+    "openalex_core_source": false,
+    "doaj": false,
+    "wos": "not detectable",
+    "q_rank": "not determined"
+   },
+   "field": "Medicine",
+   "subfield": "Physiology",
+   "coauthor_countries_non_egypt": [],
+   "n_authors": 1,
+   "cited_by_count": 0,
+   "epnu_affiliation_string": "Faculty of Applied Health Science Technology, East Port Said National University, Port Said, Egypt",
+   "source_apis": [
+    "OpenAlex"
+   ]
+  }
+ ]
+}

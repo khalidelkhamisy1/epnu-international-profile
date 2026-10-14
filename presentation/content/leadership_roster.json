@@ -1,0 +1,559 @@
+{
+  "programs": [
+    {
+      "faculty": "Faculty of Medicine",
+      "program": "Medicine and Surgery",
+      "director_display": "Dr. Sherine El-Khouly",
+      "full_name_en": "Sherine El-Said El-Sayed El-Khouly",
+      "name_ar": "شيرين السعيد السيد الخولي",
+      "title_official": "Assoc. Prof. Dr.",
+      "title_conflicts": [
+        "Assoc. Prof. Dr. (official program page 3155, 2026-06-20)",
+        "Asst. Prof. Dr. (post 4574, 2026-07-05)",
+        "Prof. (Arabic only, post 4140, 2026-06-27)",
+        "Dr. (most posts)"
+      ],
+      "title_confidence": "medium",
+      "since_or_last_seen": "Director continuously 2024-10-18 to 2026-07-05 (latest dated: post 4574); no successor seen",
+      "previous": [],
+      "sources": [
+        "3155",
+        "754",
+        "746",
+        "678",
+        "530",
+        "5210",
+        "2074",
+        "2639",
+        "4459",
+        "4574",
+        "4140"
+      ],
+      "notes": "Spelling: 'El-Khouly' most frequent (also El-Kholy 5210, El Khouly 4574). Official page rank Assoc. Prof. is contradicted by newest post (Asst. Prof.), so display plain Dr."
+    },
+    {
+      "faculty": "Faculty of Pharmacy",
+      "program": "Clinical Pharmacy",
+      "director_display": "Dr. Mohamed Yasser",
+      "full_name_en": "Mohamed Yasser Hamdy",
+      "name_ar": "محمد ياسر حمدي",
+      "title_official": "Asst. Prof. Dr.",
+      "title_conflicts": [
+        "Asst. Prof. Dr. (official page 3156 AR, post 2751 2026-05-09)",
+        "Assoc. Prof. Dr. (posts 551, 497, 2632; 5210 'Associate Professor' dated 2026-01-01)"
+      ],
+      "title_confidence": "medium",
+      "since_or_last_seen": "Last seen 2026-06-20 (page 3156); director since at least 2024-11-22",
+      "previous": [],
+      "sources": [
+        "3156",
+        "2751",
+        "2632",
+        "5210",
+        "497",
+        "551",
+        "1299"
+      ],
+      "notes": "Program labelled 'Pharmacy Program' in 551/2632 and 'Clinical Pharmacy Program' elsewhere; treated as the faculty's single program. Name Hamdy appears on official AR page; English page 3156 has no name. Rank order is not strictly chronological."
+    },
+    {
+      "faculty": "Faculty of Applied Health Sciences Technology",
+      "program": "Medical Laboratory Technology",
+      "director_display": "Dr. Salma Khairallah",
+      "full_name_en": "Salma Mostafa Khairallah",
+      "name_ar": "سلمى مصطفى خيرالله",
+      "title_official": "Prof. Dr.",
+      "title_conflicts": [
+        "Prof. Dr. (official page 1047, dated 2024-12-28, EN+AR)",
+        "Dr. (posts 2735, 2540, 4126 in 2026)"
+      ],
+      "title_confidence": "medium",
+      "since_or_last_seen": "Last seen 2026-06-27 (post 4126); on faculty page since 2024-12-28",
+      "previous": [
+        {
+          "name": "Prof. Dr. Rasha Emad",
+          "name_ar": "رشا عماد",
+          "last_seen": "2024-12-20",
+          "sources": [
+            "746",
+            "551",
+            "1299"
+          ],
+          "note": "Laboratory Program director in 2024 posts; no mention after 2024-12-20"
+        }
+      ],
+      "sources": [
+        "1047",
+        "2540",
+        "2735",
+        "4126",
+        "4711"
+      ],
+      "notes": "Page 1047 calls her 'Program Director of the Faculty' (faculty-level); posts say Medical Laboratory Program director. Page 1047 date may be a crawl/modified date. Predecessor Rasha Emad inferred from last-seen dates, not an explicit handover statement."
+    },
+    {
+      "faculty": "Faculty of Applied Health Sciences Technology",
+      "program": "Medical Imaging and Radiologic Technology",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [
+        "1047"
+      ],
+      "notes": "No named director; page 1047 names only the faculty-level Program Director."
+    },
+    {
+      "faculty": "Faculty of Engineering",
+      "program": "Mechatronics and Automation Engineering",
+      "director_display": "Dr. Mohamed El-Sakka",
+      "full_name_en": "Mohamed Metwally El-Sakka",
+      "name_ar": "محمد متولي السقا",
+      "title_official": null,
+      "title_conflicts": [
+        "Asst. Prof. Dr. (post 5222 2026-07-28; AR post 4137 2026-06-27)",
+        "Dr. (post 2767)"
+      ],
+      "title_confidence": "medium",
+      "since_or_last_seen": "Last seen 2026-07-28 (post 5222); start date unknown",
+      "previous": [],
+      "sources": [
+        "5222",
+        "4137",
+        "2767",
+        "551"
+      ],
+      "notes": "Official page 1058 says director details are 'to be updated', so no official title. Full name Metwally from post 551 (2024, no role stated) matched by name only."
+    },
+    {
+      "faculty": "Faculty of Engineering",
+      "program": "Artificial Intelligence and Machine Learning Engineering",
+      "director_display": "Dr. Asmaa Rady",
+      "full_name_en": "Asmaa Rady Ahmed",
+      "name_ar": "أسماء راضي أحمد",
+      "title_official": "Dr. Eng.",
+      "title_conflicts": [
+        "Dr. Eng. (official page 1058)",
+        "Dr. (posts 2767, 5222, AR 4137)"
+      ],
+      "title_confidence": "high",
+      "since_or_last_seen": "Last seen 2026-07-28 (post 5222); on page 1058 since 2024-12-28",
+      "previous": [],
+      "sources": [
+        "1058",
+        "2767",
+        "4137",
+        "5222"
+      ],
+      "notes": "Dr. / Dr. Eng. are compatible. Post 2767 also calls her director of a 'Construction Engineering Program'; uncorroborated and the faculty page lists only three programs, so omitted. Also manages the Huawei Academy branch (1058)."
+    },
+    {
+      "faculty": "Faculty of Engineering",
+      "program": "Energy and Electrical Power Engineering",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [
+        "1058"
+      ],
+      "notes": "No named director in corpus."
+    },
+    {
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Computer Science",
+      "director_display": "Dr. Osama El-Baksawy",
+      "full_name_en": "Osama Mohamed Mostafa El-Baksawy",
+      "name_ar": "أسامة محمد مصطفى البقساوي",
+      "title_official": "Prof. (header) / Asst. Prof. (bio)",
+      "title_conflicts": [
+        "Prof. (AR page 3154 name line)",
+        "Asst. Prof. (same page's own bio; EN posts 2793, 5340)",
+        "Assoc. Prof. Dr. (post 2676, 2026-04-18)"
+      ],
+      "title_confidence": "medium",
+      "since_or_last_seen": "Last seen 2026-08-26 (post 5340); in role by 2026-04-18",
+      "previous": [
+        {
+          "name": "Assoc. Prof. Dr. Heba Nashaat El-Mowafy",
+          "name_ar": "هبة نشأت الموافى",
+          "last_seen": "2024-12-20",
+          "sources": [
+            "554",
+            "1299"
+          ],
+          "note": "Director of Computer Science program(s) in 2024; no later mention; handover not explicitly stated"
+        }
+      ],
+      "sources": [
+        "3154",
+        "5340",
+        "2793",
+        "2676",
+        "4503",
+        "554",
+        "1299"
+      ],
+      "notes": "Spelling: El-Baksawy (most frequent; 'El-Baqsawi' in 2793). Also named Quality Assurance Center director in Arabic sources only (4503, 3154). AR page bio places him in Faculty of Engineering Electrical Power; his rank is contradicted within the official page, hence plain Dr."
+    },
+    {
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Artificial Intelligence",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    },
+    {
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Data Science in Information Systems",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    },
+    {
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Biomedical Informatics",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    },
+    {
+      "faculty": "Faculty of Business Sciences",
+      "program": "Accounting and Software Applications",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    },
+    {
+      "faculty": "Faculty of Business Sciences",
+      "program": "Digital Marketing and E-Management",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    },
+    {
+      "faculty": "Faculty of Arts",
+      "program": "English Language and Translation",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    },
+    {
+      "faculty": "Faculty of Arts",
+      "program": "Geomatics and Artificial Intelligence",
+      "director_display": null,
+      "full_name_en": null,
+      "name_ar": null,
+      "title_official": null,
+      "title_conflicts": [],
+      "title_confidence": "n/a",
+      "since_or_last_seen": null,
+      "previous": [],
+      "sources": [],
+      "notes": "No named director anywhere in corpus (checked EN+AR pages and posts by extractor)."
+    }
+  ],
+  "university_leadership": [
+    {
+      "role": "President",
+      "display": "Prof. Dr. Atef Alam El-Din",
+      "name_ar": "عاطف علم الدين",
+      "confidence": "high",
+      "sources": [
+        "1850",
+        "5371",
+        "4485",
+        "5421"
+      ],
+      "notes": "Latest mention 2026-09-19. 'El-Din' 64 uses vs 'Eldin' 15."
+    },
+    {
+      "role": "Secretary-General",
+      "display": "Ms. Ghada Shazly",
+      "name_ar": "غادة شاذلي",
+      "confidence": "high",
+      "sources": [
+        "4485",
+        "5371"
+      ],
+      "notes": "Appointed 2026-07-01 (post 4485); previous Mr. Moheb Fathy Heiba (last seen 2024-12-17)."
+    },
+    {
+      "role": "Vice President for Academic Affairs",
+      "display": null,
+      "name_ar": "رشا عناني",
+      "confidence": "low",
+      "sources": [
+        "1275",
+        "1238",
+        "1299",
+        "5477"
+      ],
+      "notes": "Prof. Dr. Rasha Anany last seen 2024-12-20; post 5477 (2026-09-26) advertises the post as open. Do NOT show on slide unless confirmed."
+    },
+    {
+      "role": "Director, Quality Assurance Center",
+      "display": "Dr. Osama El-Baksawy",
+      "name_ar": "أسامة محمد مصطفى البقساوي",
+      "confidence": "medium",
+      "sources": [
+        "4503",
+        "3154"
+      ],
+      "notes": "Arabic sources only."
+    },
+    {
+      "role": "Director, Student Affairs",
+      "display": "Mr. Mohamed Zangeer",
+      "name_ar": "محمد زنجير",
+      "confidence": "medium",
+      "sources": [
+        "4122",
+        "746"
+      ],
+      "notes": "Official page 4122 (2026-06-27)."
+    },
+    {
+      "role": "Director, Public Relations and Marketing",
+      "display": "Mr. Ahmed El-Qasrawy",
+      "name_ar": "أحمد القصراوي",
+      "confidence": "medium",
+      "sources": [
+        "5371"
+      ],
+      "notes": "Single source (2026-09-10)."
+    },
+    {
+      "role": "Director, Student Welfare / Student Activities Office",
+      "display": "Mr. Ehab Abu El-Maati",
+      "name_ar": "إيهاب أبو المعاطي",
+      "confidence": "low",
+      "sources": [
+        "551",
+        "513",
+        "485",
+        "4122"
+      ],
+      "notes": "Unit name differs between 2024 posts and 2026 page; omit from slide."
+    }
+  ],
+  "deans": [
+    {
+      "faculty": "Faculty of Medicine",
+      "display": null,
+      "candidate": "Prof. Dr. Khaled Sabry",
+      "name_ar": "خالد صبري",
+      "status": "stale",
+      "confidence": "low",
+      "last_seen": "2024-10-27",
+      "sources": [
+        "678"
+      ],
+      "notes": "Single 2024 mention; not confirmed current. Not to be confused with Prof. Ehab El-Hanafy (Port Said University)."
+    },
+    {
+      "faculty": "Faculty of Engineering",
+      "display": null,
+      "candidate": null,
+      "name_ar": null,
+      "status": "unnamed",
+      "confidence": "n/a",
+      "last_seen": null,
+      "sources": [
+        "1850",
+        "746"
+      ],
+      "notes": "President Atef Alam El-Din is a former Dean (career history). Prof. Dr. El-Sayed Galal was 'Director of the Faculty of Engineering Programs' on 2024-10-20 only (746); not confirmed current."
+    },
+    {
+      "faculty": "Faculty of Pharmacy",
+      "display": null,
+      "candidate": null,
+      "name_ar": null,
+      "status": "unnamed",
+      "confidence": "n/a",
+      "last_seen": null,
+      "sources": [],
+      "notes": "No dean named."
+    },
+    {
+      "faculty": "Faculty of Applied Health Sciences Technology",
+      "display": null,
+      "candidate": null,
+      "name_ar": null,
+      "status": "unnamed",
+      "confidence": "n/a",
+      "last_seen": null,
+      "sources": [],
+      "notes": "No dean named."
+    },
+    {
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "display": null,
+      "candidate": null,
+      "name_ar": null,
+      "status": "unnamed",
+      "confidence": "n/a",
+      "last_seen": null,
+      "sources": [],
+      "notes": "No dean named."
+    },
+    {
+      "faculty": "Faculty of Business Sciences",
+      "display": null,
+      "candidate": null,
+      "name_ar": null,
+      "status": "unnamed",
+      "confidence": "n/a",
+      "last_seen": null,
+      "sources": [],
+      "notes": "No dean named."
+    },
+    {
+      "faculty": "Faculty of Arts",
+      "display": null,
+      "candidate": null,
+      "name_ar": null,
+      "status": "unnamed",
+      "confidence": "n/a",
+      "last_seen": null,
+      "sources": [],
+      "notes": "No dean named."
+    }
+  ],
+  "unfilled": [
+    {
+      "type": "program",
+      "faculty": "Faculty of Applied Health Sciences Technology",
+      "program": "Medical Imaging and Radiologic Technology"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Engineering",
+      "program": "Energy and Electrical Power Engineering"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Artificial Intelligence"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Data Science in Information Systems"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Computer Science and Information Technology",
+      "program": "Biomedical Informatics"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Business Sciences",
+      "program": "Accounting and Software Applications"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Business Sciences",
+      "program": "Digital Marketing and E-Management"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Arts",
+      "program": "English Language and Translation"
+    },
+    {
+      "type": "program",
+      "faculty": "Faculty of Arts",
+      "program": "Geomatics and Artificial Intelligence"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Medicine"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Engineering"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Pharmacy"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Applied Health Sciences Technology"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Computer Science and Information Technology"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Business Sciences"
+    },
+    {
+      "type": "dean",
+      "faculty": "Faculty of Arts"
+    },
+    {
+      "type": "unit",
+      "unit": "Center for Information Systems and Technology (director)",
+      "notes": "Only unit heads named"
+    },
+    {
+      "type": "university",
+      "role": "Vice President for Academic Affairs",
+      "notes": "Unconfirmed; advertised as open 2026-09-26"
+    }
+  ]
+}

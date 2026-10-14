@@ -1,0 +1,15 @@
+TITLE: “Spark of Innovation: Tea, Coffee, and Technology”
+URL: https://epnu.edu.eg/en/spark-of-innovation-tea-coffee-and-technology/
+DATE: 2024-12-18T10:20:31
+
+Under the patronage of Prof. Dr. Atef Alam El-Din, University President, and Prof. Dr. Rasha Anany, Vice President for Academic Affairs,
+the Mechatronics and Automation Engineering Program organized
+a distinguished student event entitled:
+“Spark of Innovation: Tea, Coffee, and Technology”
+In an atmosphere full of enthusiasm and creativity, students and faculty members gathered to discuss a range of innovative ideas and projects in mechatronics and industrial applications of automated systems.
+During the event, Prof. Dr. Rasha Anany discussed the students' work as they presented their distinguished practical projects, which included:
+A robot that follows lines drawn on the ground.
+Car-shaped robots controlled remotely via Bluetooth.
+Miniature models of industrial robots: one with four axes and another with six axes.
+This event was not merely a project exhibition; it was an opportunity for exchanging ideas and fostering collaboration between students and faculty members, strengthening the spirit of innovation in an inspiring educational environment.
+Views: 33

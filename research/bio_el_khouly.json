@@ -1,0 +1,36 @@
+{
+  "name_display": "Assoc. Prof. Sherine El-Khouly",
+  "name_full_en": "Assoc. Prof. Dr. Sherine El-Said El-Sayed El-Khouly",
+  "name_ar": "أ.م.د. شيرين السعيد السيد الخولي",
+  "epnu_roles": [
+    "Director of the Medicine and Surgery Program (MBBCh), Faculty of Medicine, EPNU [high; local page 3155]",
+    "Coordinator of the 'Students for Egypt' family at EPNU [medium; local post 566]",
+    "Supervises student research, clinical training, medical convoys (North Sinai) and examinations [high; posts 2597, 2661, 4442, 4367, 530]"
+  ],
+  "home_affiliation": "Not found. EPNU lists her as 'Assoc. Prof.' (Arabic posts and post 4574: 'Assistant Professor'; title is inconsistent in EPNU sources). EPNU sources do not name her home department or parent university. A Port Said University (Faculty of Medicine) post is plausible but UNVERIFIED; no PSU staff page, EKB, or indexed publication record was found.",
+  "specialty": "Not found. Do not state a specialty.",
+  "education": [
+    "Professional Diploma in GAHAR applications (General Authority for Healthcare Accreditation and Regulation, Egypt), overall grade 'Excellent', first cohort [high; epnu.edu.eg post 2639; local page 3155]",
+    "Medical degrees (MBBCh, Master's, MD) not found online"
+  ],
+  "research_areas": [],
+  "metrics": {"publications": null, "citations": null, "h_index": null, "source": "Not found. OpenAlex (author search across Sherine/Shereen/Sherin + Elkhouly/El-Khouly/El Khouly variants) and PubMed returned no matching female Port Said author. Hits were other people (see disambiguation_notes)."},
+  "notable": [
+    "Earned the GAHAR professional diploma with 'Excellent' and was congratulated by EPNU President Prof. Atef Alam El-Din",
+    "Led the Faculty of Medicine's first participation in a national student research conference (2 student papers accepted) [local post 754; medium]",
+    "Oversees the 27th Port Said Society of Internal Medicine conference participation, 2026 [post 4574]"
+  ],
+  "profile_urls": [
+    "https://epnu.edu.eg/en/faculty-of-medicine/"
+  ],
+  "bio_50_words": "Assoc. Prof. Dr. Sherine El-Said El-Khouly is Director of the Medicine and Surgery Program at East Port Said National University. She leads efforts to align medical training and learning outcomes with healthcare needs, supervises student research and community medical convoys, and holds an Excellent-graded professional diploma from Egypt's GAHAR healthcare accreditation authority.",
+  "confidence": "high for EPNU role and GAHAR diploma; none (not found) for home university, specialty, degrees and publication metrics",
+  "disambiguation_notes": "No external academic profile (Google Scholar, ResearchGate, ORCID, Scopus, PSU staff page, EKB) could be matched to her. Searches by WebSearch (English and Arabic) found only the EPNU page. OpenAlex 'Khouly' authors with first name Sher*: Sherif El-Khouly, Sherief Elkhouly (Mansoura, ophthalmology), Sherif El Khouly: all male, rejected. PubMed 'El-Khouly SE'/'El-Khouly S' (ophthalmology/orbital MRI, 2010-2019) and 'Elkhouly SH' (geophysics/chemistry): rejected, no Port Said affiliation and no link to her; likely other people (SE could be Sherief Elkhouly, Mansoura). Not merged. Her Facebook/EPNU Arabic posts name her only as 'Dr. Sherine El-Khouly'. Name variants in EPNU sources: Sherine El-Khouly, Shereen El Khouly. Weak hint only: post 4574 shows the Faculty attends Port Said Society of Internal Medicine conference under her supervision; this does NOT establish internal medicine as her specialty. Suggest asking EPNU HR/IR for her CV.",
+  "sources": [
+    "D:/AI/EPNU/data/text/en_rendered/pages/3155.txt (also https://epnu.edu.eg/en/faculty-of-medicine/)",
+    "D:/AI/EPNU/data/text/en/posts/2639_* (GAHAR diploma)",
+    "D:/AI/EPNU/data/text/en_rendered/posts/ IDs 566, 530, 551, 678, 746, 754, 2074, 2597, 2661, 4350, 4367, 4442, 4459, 4574",
+    "https://api.openalex.org/authors (searched 2026-10-14)",
+    "https://eutils.ncbi.nlm.nih.gov (PubMed, searched 2026-10-14)"
+  ]
+}

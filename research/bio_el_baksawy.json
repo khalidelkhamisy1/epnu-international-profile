@@ -1,0 +1,51 @@
+{
+ "name_display": "Prof. Osama El-Baksawy",
+ "name_full": "Osama Mohamed Mostafa El-Baksawy (أسامة محمد مصطفى البقساوي)",
+ "epnu_roles": [
+  "Director of the Computer Science & IT programs (Computer Science Program), Faculty of Computer Science and Information Technology, EPNU",
+  "Director of the Quality Assurance Center, EPNU"
+ ],
+ "home_affiliation": "Port Said University, Faculty of Engineering, Department of Electrical Power and Machines Engineering (EPNU page 3154 states he is a staff member of this department; OpenAlex lists Port Said University as last known institution, with an affiliation 2008-2026)",
+ "academic_rank_note": "Rank is inconsistent in EPNU sources: Arabic page 3154 heading uses 'Prof. (أ.د)' while its own biography text and EPNU news posts 2676/4503/5218/5340 call him Assistant Professor (أستاذ مساعد). Brief lists him as Prof.; user confirmed title. Verify rank before printing on slides.",
+ "education": [
+  "PhD institution and year: not found (no thesis record, ORCID education, or staff-page entry located)"
+ ],
+ "research_areas": [
+  "Renewable energy systems and photovoltaic (incl. floating PV) optimization and MPPT",
+  "Fractional-order controllers and load frequency control for power systems with renewables and EVs",
+  "Metaheuristic optimization algorithms",
+  "Green hydrogen production and wind/solar forecasting",
+  "Power electronics: multilevel converters, DC-DC converters, PV microinverters, DFIG and induction-motor control, distribution network reconfiguration"
+ ],
+ "metrics": {
+  "publications": 24,
+  "citations": 783,
+  "h_index": 15,
+  "source": "OpenAlex author A5005450417 (name 'Osama Elbaksawi'), API queried 2026-10-14; OpenAlex i10-index 16. Counts may be incomplete versus Scopus/Google Scholar (not accessed)."
+ },
+ "notable": [
+  "Top cited work: 'An Optimized Hybrid Fractional Order Controller for Frequency Regulation in Multi-Area Power Systems', IEEE Access 2020 (135 citations, OpenAlex)",
+  "Further IEEE Access 2021 papers on fractional-order controllers for EV/renewable power systems (109 and 89 citations)",
+  "Co-author on Frontiers in Energy Research 2023, Scientific Reports 2025, Journal of Energy Storage 2024, Energy 2025",
+  "OpenAlex records an affiliation with Jouf University (Saudi Arabia) 2019-2021 and Suez Canal University (2008); web results show Jouf listed on a 2019 paper",
+  "Supervises EPNU CS student teams in competitions and academic initiatives (EPNU posts 2676, 5340, 5218)",
+  "Present at EPNU/ITI Port Said partnership meeting as Director of CS Program and QA Center (post 4503)"
+ ],
+ "profile_urls": [
+  "https://openalex.org/A5005450417",
+  "https://orcid.org/0000-0002-4023-1538",
+  "https://dblp.org/pid/280/7563 (listed under 'Osama Elbaksawi'; could not be fetched, bot-blocked; reported via search snippet only)"
+ ],
+ "bio_50_words": "Prof. Osama El-Baksawy directs the Computer Science & IT programs and the Quality Assurance Center at East Port Said National University. His home post is in Electrical Power and Machines Engineering at Port Said University. His research covers renewable energy, fractional-order control, and metaheuristic optimization, with about 24 indexed publications.",
+ "confidence": "medium-high for identity and home affiliation and research areas; medium for metrics; low/not found for PhD and exact rank",
+ "disambiguation_notes": "Match accepted on three criteria: (1) spelling variant 'Osama Elbaksawi'/'Osama El-Baksawy' appears in OpenAlex alternative names (the form 'Osama M. EL-baksawi' includes the middle initial); (2) affiliation Port Said University; (3) field (electrical power/renewable energy) matches EPNU page 3154 statement that he is in the Electrical Power and Machines Engineering department. A web search surfaced a paper listing him under Mansoura University in one Frontiers 2023 author entry; this is unresolved and is possibly a metadata or different-person artifact. A separate OpenAlex record 'Osama Elbaksawy' (A5098653750, 1 work, 0 citations) was not merged. ORCID 0000-0002-4023-1538 has a name but no public education or employment entries, so its link to this person rests on OpenAlex. Other names found (Osama El-Sayed Gouda, Cairo University) are different people.",
+ "sources": [
+  "D:/AI/EPNU/data/text/en/pages/3154_faculty-of-computer-sciences.txt (and en_rendered/pages/3154.txt): program director section; department statement (confidence high for EPNU role)",
+  "D:/AI/EPNU/data/text/en_rendered/posts/2676.txt, 4503.txt (Arabic), 5218.txt, 5340.txt (roles; QA Center in 4503)",
+  "https://api.openalex.org/authors/A5005450417 (affiliations, metrics, topics)",
+  "https://api.openalex.org/works?filter=author.id:A5005450417 (works list)",
+  "https://pub.orcid.org/v3.0/0000-0002-4023-1538/record (name only)",
+  "https://www.researchgate.net/publication/379407327 and https://www.frontiersin.org/journals/energy-research/articles/10.3389/fenrg.2023.1220085/full (via web search, affiliation listings)",
+  "Not accessed or not found: Google Scholar, Scopus, Semantic Scholar, IEEE Xplore, EKB, PSU staff page (staff.psu.edu.eg/o.elbaksawi returned 404), dblp (blocked)"
+ ]
+}

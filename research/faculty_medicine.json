@@ -1,0 +1,60 @@
+{
+  "faculty": "Faculty of Medicine (Medicine and Surgery Program, MBBCh), East Port Said National University",
+  "url": "https://epnu.edu.eg/en/faculty-of-medicine/",
+  "overview": "The Faculty of Medicine combines modern medical knowledge, practical training and scientific research, aiming for a qualitative shift in medical education through an interactive learning environment with modern technology, innovative curricula and practical training.",
+  "overview_source": {"source": "https://epnu.edu.eg/en/faculty-of-medicine/ (live page); also D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt", "confidence": "high"},
+  "vision": "For the Bachelor of Medicine and Surgery Program at East Port Said National University to be a leader in medical education and scientific research, grounded in community needs and capable of graduating skilled physicians who can compete in the labor market.",
+  "vision_source": {"source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt (Faculty Vision); matches https://epnu.edu.eg/en/faculty-of-medicine/", "confidence": "high"},
+  "mission": "Provide an educational system that graduates competent physicians able to meet individual and community healthcare needs locally and internationally, while supporting lifelong learning, scientific research and community service.",
+  "mission_source": {"source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt (Faculty Mission); matches https://epnu.edu.eg/en/faculty-of-medicine/", "confidence": "high"},
+  "programs": [
+    {
+      "name": "Bachelor of Medicine and Surgery (MBBCh), Medicine and Surgery Program",
+      "duration": "5 years over 10 semesters, followed by 2 years of compulsory internship (7 years total)",
+      "credit_hours": "Not found. The live page names the ECTS credit system but gives no credit-hour total.",
+      "focus": "Basic medical sciences, early practical and clinical skills training, clinical reasoning, scientific research and community service. Instruction is described as integrated (basic sciences, clinical training and community service). Language: English, with Arabic for patient communication.",
+      "careers": "Practicing physician; work in healthcare and hospital settings; medical scientific research; healthcare quality; community health; continuing medical education.",
+      "source": "Duration, ECTS, language, internship and careers: https://epnu.edu.eg/en/faculty-of-medicine/ (live page, read via WebFetch; medium confidence because the fetch was summarized and these lines are not in the local page 3155). Integrated model: https://epnu.edu.eg/en/programs/ (local page 10, high confidence). Structure stages (Scientific Foundation, Practical Skills, Clinical Training, Community Service): local page 3155.",
+      "confidence": "medium"
+    }
+  ],
+  "facilities": [
+    {"item": "Laboratory training and early essential-skills training (described generically; no skills lab or simulation centre named)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt", "confidence": "medium"},
+    {"item": "Primary healthcare clinical training via medical convoys: Qatiya Primary Healthcare Unit and Al-Marih Primary Healthcare Unit (North Sinai)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4442.txt; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4367.txt; also D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt", "confidence": "high"},
+    {"item": "Practical first-block examinations held at the university campus in Sinai (first time reported)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\678.txt (date not shown in local file)", "confidence": "medium"},
+    {"item": "Skills labs and simulation facilities", "source": "Not found in local pages 3155/10, live faculty page, posts, or web search", "confidence": "low"},
+    {"item": "Teaching hospitals owned or run by EPNU", "source": "Not found. The live page and posts name no EPNU teaching hospital.", "confidence": "low"}
+  ],
+  "partners": [
+    {"item": "Port Said University: EPNU joined PSU in inaugurating the new university hospital (July 2026); the post states this supports medical education and training, but names no specific training agreement", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4830.txt (dated 2026-07-08)", "confidence": "high"},
+    {"item": "General Authority for Healthcare, Port Said branch: delegation discussed training, research and continuing medical education, and drafting a cooperation protocol (not yet signed)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4846.txt (dated 2026-07-08)", "confidence": "high"},
+    {"item": "Armed Forces medical college: delegation visit to strengthen medical cooperation and exchange expertise", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt (latest news headline, Arabic)", "confidence": "high"},
+    {"item": "57357 Hospital (children's cancer treatment): memorandum of understanding under discussion to support training and health cooperation. Practical training for Applied Health Sciences students, not Medicine students.", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4827.txt (Arabic); D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5348.txt (Arabic)", "confidence": "high"},
+    {"item": "Ahl Masr (Ahl Misr) Burn Hospital: site visit and lab training for Medical Laboratory students (Applied Health Sciences, not Medicine)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2735.txt", "confidence": "high"},
+    {"item": "Saudi German Hospital, Cairo: clinical training for Applied Health Sciences students (not Medicine)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5177.txt", "confidence": "high"}
+  ],
+  "highlights": [
+    {"item": "Program director Dr. Sherine El-Khouly received the GAHAR professional diploma with an Excellent grade, first cohort (the diploma is personal, not program accreditation)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2639.txt; https://epnu.edu.eg/en/faculty-of-medicine/", "confidence": "high"},
+    {"item": "Seven research papers presented at a Suez Canal University medical student conference", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2661.txt", "confidence": "high"},
+    {"item": "A student research paper accepted among the top 97 papers at the 9th Ain Shams Medical School conference", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2597.txt", "confidence": "high"},
+    {"item": "Two student papers accepted at the Mansoura Faculty of Medicine (Manchester) student research conference, the university's first participation (more than 80 papers from nine faculties)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\754.txt", "confidence": "high"},
+    {"item": "Fourth-year students presented a paper at the Sixth Annual Mansoura Manchester Student Research Conference", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\2074.txt", "confidence": "high"},
+    {"item": "Fourth-year public health research graduation projects presented (topics include emergency medicine awareness and patient-safety attitudes)", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\5024.txt (dated July 2026 on the live site)", "confidence": "high"},
+    {"item": "Medical students took part in the 27th Annual Conference of the Port Said Society of Internal Medicine and the 11th International Pediatric Conference", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4574.txt; D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4140.txt", "confidence": "high"},
+    {"item": "Student-organised First Aid Training Workshop supervised by Dr. Sherine El-Khouly", "source": "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\4459.txt", "confidence": "high"}
+  ],
+  "three_slide_bullets": [
+    "5 years over 10 semesters, plus 2 years compulsory internship.",
+    "Integrated curriculum: basic sciences, clinical training, community service.",
+    "English-medium instruction under the ECTS credit system.",
+    "Early clinical skills training plus convoys at North Sinai primary care units.",
+    "Program director holds a GAHAR Excellent diploma; students publish at national conferences."
+  ],
+  "sources": [
+    "https://epnu.edu.eg/en/faculty-of-medicine/ (live page via WebFetch, two passes; the duration, ECTS, language and careers lines are medium confidence)",
+    "https://epnu.edu.eg/en/programs/ (local D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\10.txt)",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\pages\\3155.txt",
+    "D:\\AI\\EPNU\\data\\text\\en_rendered\\posts\\ (2074, 2597, 2639, 2661, 2735, 4140, 4367, 4442, 4459, 4574, 4827, 4830, 4846, 5024, 5177, 5348, 678, 754)",
+    "Web search: East Port Said National University Faculty of Medicine MBBCh program hospitals curriculum (no additional EPNU data; only a national background note on the 5-year integrated system, not used)"
+  ]
+}

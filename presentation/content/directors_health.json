@@ -1,0 +1,97 @@
+[
+  {
+    "name_en": "Sherine El-Khouly",
+    "name_en_variants": ["Sherine El-Said El-Sayed El-Khouly (official full name, program page 3155)", "Sherine El-Kholy (post 5210)", "Shereen El Khouly (post 4574)"],
+    "name_ar": "شيرين السعيد السيد الخولي (official, page 3155); شيرين الخولي (posts)",
+    "title": "Assoc. Prof. Dr. (per official program page 3155); Dr. in most news posts",
+    "title_variants": ["Assoc. Prof. Dr. (pages/3155; Arabic: أ.م.د)", "Dr. (posts 746, 754, 678, 530, 551, 2074, 2639, 4459)", "Assistant Professor Dr. (post 4574, 2026-07-05; Arabic: أستاذ مساعد دكتور in 4574, الأستاذ المساعد الدكتور in 5024)", "Prof. (Arabic only, post 4140: الأستاذة الدكتورة)"],
+    "role": "Director of the Medicine and Surgery Program",
+    "faculty": "Faculty of Medicine",
+    "sources": [
+      {"file": "en_rendered/pages/3155.txt", "id": "3155", "date": "2026-06-20T12:45:06 (page header DATE)", "quote": "Assoc. Prof. Dr. Sherine El-Said El-Sayed El-Khouly — Director of the Medicine and Surgery Program"},
+      {"file": "en_rendered/posts/754.txt", "id": "754", "date": "2024-10-18T11:09:55", "quote": "He praised the efforts made by Dr. Sherine El-Khouly, Director of the Medicine and Surgery Program"},
+      {"file": "en_rendered/posts/746.txt", "id": "746", "date": "2024-10-20T10:59:35", "quote": "Dr. Sherine El-Khouly, Director of the Medicine and Surgery Program,"},
+      {"file": "en_rendered/posts/678.txt", "id": "678", "date": "2024-10-27T10:54:56", "quote": "Dr. Sherine El-Khouly, Director of the Medicine and Surgery Program, was also present."},
+      {"file": "en_rendered/posts/530.txt", "id": "530", "date": "2024-11-25T09:18:25", "quote": "under the supervision of Dr. Sherine El-Khouly, Director of the Medicine and Surgery Program."},
+      {"file": "en_rendered/posts/5210.txt", "id": "5210", "date": "2026-01-01T01:44:00", "quote": "Dr. Sherine El-Kholy, Director of the Medicine and Surgery Program"},
+      {"file": "en_rendered/posts/2074.txt", "id": "2074", "date": "2026-03-17T22:07:58", "quote": "Dr. Sherine El-Khouly, Director of the university's Medicine and Surgery Program"},
+      {"file": "en_rendered/posts/2639.txt", "id": "2639", "date": "2026-04-07T16:17:41", "quote": "Dr. Sherine El-Khouly, Director of the Medicine and Surgery Program, on receiving the Professional Diploma ... (GAHAR)"},
+      {"file": "en_rendered/posts/4459.txt", "id": "4459", "date": "2026-06-30T22:12:37", "quote": "the supervision of Dr. Sherine El-Khouly, Director of the Medicine and Surgery Program"},
+      {"file": "en_rendered/posts/4574.txt", "id": "4574", "date": "2026-07-05T21:11:08", "quote": "Assistant Professor Dr. Shereen El Khouly, Director of the Medicine and Surgery Program"},
+      {"file": "ar/pages/3155_faculty-of-medicine.txt", "id": "3155", "date": "2026-06-20 (page header DATE, from EN twin)", "quote": "أ.م.د /شيرين السعيد السيد الخولي — مدير برنامج الطب والجراحة"},
+      {"file": "ar/posts/4140_في-إطار-دعم-التعليم-الطبي.txt", "id": "4140", "date": "2026-06-27T14:13:47", "quote": "تحت إشراف الأستاذة الدكتورة شيرين الخولي، مدير برنامج الطب والجراحة"}
+    ],
+    "transliterated": false,
+    "notes": "Title conflict: the official program page (3155) says Assoc. Prof., post 4574 (2026-07-05) says Assistant Professor, and Arabic post 4140 (2026-06-27) says Prof. Most posts use plain Dr. Spelling varies: Khouly / Kholy / Shereen. Holder is continuous from 2024-10-18 to 2026-07-05 with no successor seen."
+  },
+  {
+    "name_en": "Khaled Sabry",
+    "name_en_variants": ["Khaled Sabry"],
+    "name_ar": "خالد صبري",
+    "title": "Prof. Dr.",
+    "title_variants": ["Prof. Dr. (EN post 678)", "أ.د (Arabic post 678)"],
+    "role": "Dean of the Faculty of Medicine",
+    "faculty": "Faculty of Medicine",
+    "sources": [
+      {"file": "en_rendered/posts/678.txt", "id": "678", "date": "2024-10-27T10:54:56", "quote": "the first-block practical examinations for first-year students in the Medicine and Surgery Program were held under the supervision of Prof. Dr. Khaled Sabry, Dean of the Faculty of Medicine."},
+      {"file": "ar/posts/678_برنامج-الطب-والجراحة-بالجامعة-يعقد-أو.txt", "id": "678", "date": "2024-10-27T10:54:56", "quote": "تحت إشراف الأستاذ الدكتور خالد صبرى/ عميد كلية الطب"}
+    ],
+    "transliterated": false,
+    "notes": "Only dean mentioned for the three faculties in scope; single 2024 mention, no later reference found. Do NOT confuse with Prof. Dr. Ehab El-Hanafy (Dean of Faculty of Medicine, Port Said University, post 2639), who is not EPNU. No Dean found for Faculty of Pharmacy or Faculty of Applied Health Sciences Technology in the corpus."
+  },
+  {
+    "name_en": "Mohamed Yasser",
+    "name_en_variants": ["Mohamed Yasser Hamdy (posts 2751, 497, 1299 Arabic form)", "Mohamed Yasser (most posts)"],
+    "name_ar": "محمد ياسر حمدي (pages/3156 AR and post 2751 AR; spelled حمدى in post 1299)",
+    "title": "Asst. Prof. Dr. (current, from 2026-05; per pages/3156 AR and post 2751)",
+    "title_variants": ["Assoc. Prof. Dr. (posts 551, 497, 2632; Arabic 2632 أ.م.د)", "Associate Professor (post 5210, 2026-01-01)", "Asst. Prof. Dr. Mohamed Yasser Hamdy (post 2751, 2026-05-09)", "Asst. Prof. Dr. (pages/3156 AR: أستاذ مساعد دكتور)", "Prof. Dr. (post 497 lecture mention; post 1299 Arabic uses أ.م.د)"],
+    "role": "Director of the Clinical Pharmacy Program (Bachelor of Pharmacy, PharmD - Clinical Pharmacy)",
+    "faculty": "Faculty of Pharmacy",
+    "sources": [
+      {"file": "en_rendered/posts/551.txt", "id": "551", "date": "2024-11-22T09:25:55", "quote": "Assoc. Prof. Dr. Mohamed Yasser, Director of the Pharmacy Program,"},
+      {"file": "en_rendered/posts/497.txt", "id": "497", "date": "2024-12-03T08:37:41", "quote": "Assoc. Prof. Dr. Mohamed Yasser, Director of the Clinical Pharmacy Program, Pharmacy.EPU"},
+      {"file": "ar/posts/1299_اللجنة-الفنية-المتخصصة-لوزارة-التعلي.txt", "id": "1299", "date": "2024-12-20T10:35:46", "quote": "أ.م.د/ محمد ياسر حمدى..مدير برنامج الصيدلة الإكلينيكية بكلية الصيدلة"},
+      {"file": "en_rendered/posts/5210.txt", "id": "5210", "date": "2026-01-01T01:44:00", "quote": "supervision of Associate Professor Mohamed Yasser, Director of the Clinical Pharmacy Program"},
+      {"file": "en_rendered/posts/2632.txt", "id": "2632", "date": "2026-04-07T16:11:06", "quote": "under the supervision of Assoc. Prof. Dr. Mohamed Yasser, Director of the Pharmacy Program"},
+      {"file": "en_rendered/posts/2751.txt", "id": "2751", "date": "2026-05-09T16:21:27", "quote": "under the supervision of Asst. Prof. Dr. Mohamed Yasser Hamdy, Director of the Clinical Pharmacy Program,"},
+      {"file": "ar/pages/3156_faculty-of-pharmacy.txt", "id": "3156", "date": "2026-06-20T12:45:24 (page header DATE, EN twin)", "quote": "أستاذ مساعد دكتور / محمد ياسر حمدي (under كلمة مدير البرنامج: مدير برنامج الصيدلة الإكلينيكية)"}
+    ],
+    "transliterated": false,
+    "notes": "Program label varies over time: 'Pharmacy Program' (551, 2632) vs 'Clinical Pharmacy Program' (497, 1299, 2751, 5210, 3156). Title moved Assoc. Prof. to Asst. Prof. in 2026, but post 5210 (2026-01-01) still says Associate Professor, so the order is not strictly chronological. Post 662 (2024-10-30) names him as 'Entrepreneurship and Innovation Coordinator', not Director. English page 3156 has a 'Program Director's Message' heading but no name in the English text; the name is only on the Arabic page."
+  },
+  {
+    "name_en": "Rasha Emad",
+    "name_en_variants": ["Rasha Emad"],
+    "name_ar": "رشا عماد",
+    "title": "Prof. Dr.",
+    "title_variants": ["Prof. Dr. (EN posts 746, 551)", "أ.د (AR post 1299)"],
+    "role": "Director of the Laboratory Program (Medical Laboratory) at the Faculty of Applied Health Sciences Technology",
+    "faculty": "Faculty of Applied Health Sciences Technology",
+    "sources": [
+      {"file": "en_rendered/posts/746.txt", "id": "746", "date": "2024-10-20T10:59:35", "quote": "Prof. Dr. Rasha Emad, Director of the Laboratory Program at the Faculty of Health Sciences Technology,"},
+      {"file": "en_rendered/posts/551.txt", "id": "551", "date": "2024-11-22T09:25:55", "quote": "Prof. Dr. Rasha Emad, Director of the Applied Health Sciences Technology Program,"},
+      {"file": "ar/posts/1299_اللجنة-الفنية-المتخصصة-لوزارة-التعلي.txt", "id": "1299", "date": "2024-12-20T10:35:46", "quote": "أ.د/ رشا عماد..مدير برنامج المختبرات بكلية تكنولوجيا العلوم الصحية التطبيقية"}
+    ],
+    "transliterated": false,
+    "notes": "Last sighting 2024-12-20. Succeeded in the Applied Health Sciences Technology (Medical Laboratory) program by Salma Khairallah, whose name appears on the faculty page 1047 dated 2024-12-28. No 2026 mention found, so the holder changed around late Dec 2024. Program name also varies ('Laboratory Program', 'Applied Health Sciences Technology Program')."
+  },
+  {
+    "name_en": "Salma Khairallah",
+    "name_en_variants": ["Salma Mostafa Khairallah (page 1047)", "Salma Khairallah (post 2735)"],
+    "name_ar": "سلمى مصطفى خيرالله (page 1047 AR); سلمى خيرالله / سلمى خير الله (posts)",
+    "title": "Prof. Dr. (page 1047, EN and AR); Dr. (posts 2735, 2540, 4126)",
+    "title_variants": ["Prof. Dr. (EN page 1047; AR أ.د / سلمى مصطفى خيرالله)", "Dr. (EN post 2735; AR posts 2540, 4126 الدكتورة, 1047 AR د. سلمى خيرالله)"],
+    "role": "Program Director of the Faculty of Applied Health Sciences Technology (page 1047); Director of the Medical Laboratory Program (posts 2735, 4126); Director of the Applied Health Sciences program (post 2540 AR, page 4711 AR)",
+    "faculty": "Faculty of Applied Health Sciences Technology",
+    "sources": [
+      {"file": "en_rendered/pages/1047.txt", "id": "1047", "date": "2024-12-28T19:59:21 (page header DATE)", "quote": "Program Director\nProf. Dr. Salma Mostafa Khairallah\nProgram Director of the Faculty of Applied Health Sciences Technology."},
+      {"file": "ar/pages/1047_faculty-of-applied-health-sciences.txt", "id": "1047", "date": "2024-12-28T19:59:21 (page header DATE)", "quote": "أ.د / سلمى مصطفى خيرالله"},
+      {"file": "ar/posts/2540_طلاب-العلوم-الصحية-التطبيقية-بجامعة-ش.txt", "id": "2540", "date": "2026-04-02T20:01:46", "quote": "والدكتورة/ سلمى خيرالله – مدير برنامج العلوم الصحية التطبيقية"},
+      {"file": "en_rendered/posts/2735.txt", "id": "2735", "date": "2026-05-09T16:10:16", "quote": "under the supervision of Dr. Salma Khairallah – Director of the Medical Laboratory Program at the Faculty of Applied Health Sciences,"},
+      {"file": "ar/posts/4126_في-إطار-دعم-التعلم-الميداني-جامعة-شرق.txt", "id": "4126", "date": "2026-06-27T14:00:05", "quote": "بمشاركة الدكتورة سلمى خير الله، مدير برنامج المختبرات الطبية بكلية العلوم الصحية التطبيقية"},
+      {"file": "ar/pages/4711_partnerships-and-protocols.txt", "id": "4711", "date": "not in file header (undated)", "quote": "والدكتورة/ سلمى خيرالله – مدير برنامج العلوم الصحية التطبيقية"}
+    ],
+    "transliterated": false,
+    "notes": "Title/role shifts: page 1047 (faculty-level Program Director, Prof.) vs. posts 2735/4126 (Medical Laboratory Program, Dr.) vs. Arabic 2540/4711 ('Applied Health Sciences' program). The 1047 page DATE may be a modified date rather than a publication date. Her appearance is continuous from 2024-12-28 to 2026-06-27."
+  }
+]
